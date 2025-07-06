@@ -3293,6 +3293,94 @@
 			}
 		]
 	},
+	"686ac0a97472b14e08b93fdb": {
+		"itemTplToClone": "5926c36d86f77467a92a8629",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_mp5_flashlight.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_tactical_000",
+					"_id": "686ac147939327381f9a03de",
+					"_parent": "686ac0a97472b14e08b93fdb",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57d17c5e2459775a5c57d17d"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"ConflictingItems": [],
+			"Weight": 0.44,
+			"Ergonomics": 11,
+			"CoolFactor": 0.978
+		},
+		"locales": {
+			"en": {
+				"name": "HK MP5 GSG-16 Flashlight Handguard",
+				"shortName": "GSG-16",
+				"description": "This is an MP5-style flashlight handguard designed to fit the GSG-16 (fits both long and short models). It’s made out of a durable nylon-like resin"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 31,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 11294,
+		"handbookPriceRoubles": 4830,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
 	"6853451cff5342daf833734a": {
 		"itemTplToClone": "6034e3e20ddce744014cb878",
 		"parentId": "55818a104bdc2db9688b4569",
