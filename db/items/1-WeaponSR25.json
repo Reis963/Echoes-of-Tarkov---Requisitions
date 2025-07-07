@@ -282,7 +282,7 @@
 			{
 				"Name": "SR25",
 				"Templates": [
-					"6831efcaf17211a895bbccc4"
+					"683d23831960b7bac66f4f05"
 				]
 			}
 		],
@@ -290,12 +290,12 @@
 		"weaponpresets": [
 			{
 				"_changeWeaponName": false,
-				"_encyclopedia": "6831efcaf17211a895bbccc4",
+				"_encyclopedia": "683d23831960b7bac66f4f05",
 				"_id": "6831fd293baa154a67b68896",
 				"_items": [
 					{
 						"_id": "6831f1fa62e3bf66540357ea",
-						"_tpl": "6831efcaf17211a895bbccc4",
+						"_tpl": "683d23831960b7bac66f4f05",
 						"upd": {
 							"Repairable": {
 								"MaxDurability": 100,

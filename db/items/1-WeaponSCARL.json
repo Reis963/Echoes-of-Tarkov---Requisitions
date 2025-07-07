@@ -222,12 +222,12 @@
 				"Probability": 150
 			}
 		],
-		"masteries": false,
+		"masteries": true,
 		"masterySections": [
 			{
-				"Name": "M4",
+				"Name": "Mk17",
 				"Templates": [
-					"682a99300fd0db52b791604a"
+					"682a97a707ec1d7ca369afc4"
 				]
 			}
 		],

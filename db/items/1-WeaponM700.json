@@ -195,12 +195,12 @@
 		"weaponpresets": [
 			{
 				"_changeWeaponName": false,
-				"_encyclopedia": "4b81488c78c8a8ac7d37f9b9",
+				"_encyclopedia": "68324e7849e4f772900f58e8",
 				"_id": "660b250a010010f3887595de",
 				"_items": [
 					{
 						"_id": "8d7e6035e39b6dd89431781d",
-						"_tpl": "4b81488c78c8a8ac7d37f9b9",
+						"_tpl": "68324e7849e4f772900f58e8",
 						"upd": {
 							"StackObjectsCount": 99,
 							"Repairable": {
@@ -363,14 +363,7 @@
 			}
 		],
 		"masteries": false,
-		"masterySections": [
-			{
-				"Name": "M870",
-				"Templates": [
-					"SerbuShotgun"
-				]
-			}
-		],
+		"masterySections": [],
 		"addweaponpreset": false,
 		"weaponpresets": []
 	},
@@ -430,14 +423,7 @@
 			}
 		],
 		"masteries": false,
-		"masterySections": [
-			{
-				"Name": "M870",
-				"Templates": [
-					"SerbuShotgun"
-				]
-			}
-		],
+		"masterySections": [],
 		"addweaponpreset": false,
 		"weaponpresets": []
 	},
@@ -497,14 +483,7 @@
 			}
 		],
 		"masteries": false,
-		"masterySections": [
-			{
-				"Name": "M870",
-				"Templates": [
-					"SerbuShotgun"
-				]
-			}
-		],
+		"masterySections": [],
 		"addweaponpreset": false,
 		"weaponpresets": []
 	},
@@ -564,14 +543,7 @@
 			}
 		],
 		"masteries": false,
-		"masterySections": [
-			{
-				"Name": "M870",
-				"Templates": [
-					"SerbuShotgun"
-				]
-			}
-		],
+		"masterySections": [],
 		"addweaponpreset": false,
 		"weaponpresets": []
 	}
