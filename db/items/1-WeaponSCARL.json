@@ -436,11 +436,8 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
-		"modSlot": [
-			"mod_barrel",
-			"mod_sight_front"
-		],
+		"addtoModSlots": false,
+		"modSlot": [],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 84341,
@@ -562,11 +559,8 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
-		"modSlot": [
-			"mod_barrel",
-			"mod_sight_front"
-		],
+		"addtoModSlots": false,
+		"modSlot": [],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 79341,
@@ -688,11 +682,8 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
-		"modSlot": [
-			"mod_barrel",
-			"mod_sight_front"
-		],
+		"addtoModSlots": false,
+		"modSlot": [],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 33591,
@@ -981,15 +972,7 @@
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
-		"modSlot": [
-			"mod_scope",
-			"mod_barrel",
-			"mod_sight_rear",
-			"mod_mount_000",
-			"mod_mount_001",
-			"mod_mount_002",
-			"mod_tactical_000"
-		],
+		"modSlot": [],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 87341,
