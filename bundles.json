@@ -1401,14 +1401,6 @@
             ]
         },
         {
-            "key": "DDM4/reciever_ar15_dandefence_ddm4v7_std.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "dustveil/alpine.bundle",
             "dependencyKeys": [
                 "shaders",

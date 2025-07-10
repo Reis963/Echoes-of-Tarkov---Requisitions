@@ -2737,7 +2737,7 @@
 			"en": {
 				"name": "M1911 custom side grips (Acajou Wood)",
 				"shortName": "1911",
-				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defence. Acajou Wood finish version."
+				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defense. Acajou Wood finish version."
 			}
 		},
 		"clearClonedProps": false,
@@ -2835,7 +2835,7 @@
 			"en": {
 				"name": "M1911 custom side grips (Plastic Hex)",
 				"shortName": "1911",
-				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defence. Hexagonal Plastic version."
+				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defense. Hexagonal Plastic version."
 			}
 		},
 		"clearClonedProps": false,
@@ -2884,7 +2884,7 @@
 			"en": {
 				"name": "M1911 custom side grips (Ivory)",
 				"shortName": "1911",
-				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defence. Rare Ivory version."
+				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defense. Rare Ivory version."
 			}
 		},
 		"clearClonedProps": false,
@@ -2934,7 +2934,7 @@
 			"en": {
 				"name": "M1911 rubber side grips",
 				"shortName": "1911 Rubber",
-				"description": "Custom-made side grip panels for the M1911A1 pistol made of highly-ergonomic rubber for better gripping. manufactured by Echoes Defence."
+				"description": "Custom-made side grip panels for the M1911A1 pistol made of highly-ergonomic rubber for better gripping. manufactured by Echoes Defense."
 			}
 		},
 		"clearClonedProps": false,

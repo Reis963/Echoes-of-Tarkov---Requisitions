@@ -427,9 +427,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Defence M45A1 custom pistol slide with ACRO mount",
+				"name": "Echoes Defense M45A1 custom pistol slide with ACRO mount",
 				"shortName": "M45A1 ACRO",
-				"description": "A custom-made M45A1 slide routed to fit an Aimpoint ACRO plate mount. Manufactured by Echoes Defence."
+				"description": "A custom-made M45A1 slide routed to fit an Aimpoint ACRO plate mount. Manufactured by Echoes Defense."
 			}
 		},
 		"clearClonedProps": false,

@@ -97,7 +97,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "AR-15 Echoes Tactical Skull Crusher 12 inch handguard (Black)",
+				"name": "AR-15 Echoes Defense Skull Crusher 12 inch handguard (Black)",
 				"shortName": "Skull Crusher",
 				"description": "The Skull Crusher handguard, machined out of aircraft grade aluminum and moistened with Nikita's bath water, this handguard will carry you to victory."
 			}
@@ -265,7 +265,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "AR-15 Echoes Tactical Skull Crusher 12 inch handguard (Brushed)",
+				"name": "AR-15 Echoes Defense Skull Crusher 12 inch handguard (Brushed)",
 				"shortName": "Skull Crusher",
 				"description": "The Skull Crusher handguard, machined out of aircraft grade aluminum and moistened with Nikita's bath water, this handguard will carry you to victory."
 			}
@@ -422,7 +422,7 @@
 			"en": {
 				"name": "Skull Crusher full length rail section (Top)",
 				"shortName": "Skull Rail",
-				"description": "A full length rail section designed specifically for the Echoes Tactical Skull Crusher handguard."
+				"description": "A full length rail section designed specifically for the Echoes Defense Skull Crusher handguard."
 			}
 		},
 		"clearClonedProps": false,
@@ -544,7 +544,7 @@
 			"en": {
 				"name": "Skull Crusher full length rail section (Side)",
 				"shortName": "Skull Rail",
-				"description": "A full length rail section designed specifically for the Echoes Tactical Skull Crusher handguard."
+				"description": "A full length rail section designed specifically for the Echoes Defense Skull Crusher handguard."
 			}
 		},
 		"clearClonedProps": false,
@@ -719,7 +719,7 @@
 			"en": {
 				"name": "Skull Crusher full length rail section (Bottom)",
 				"shortName": "Skull Rail",
-				"description": "A full length rail section designed specifically for the Echoes Tactical Skull Crusher handguard."
+				"description": "A full length rail section designed specifically for the Echoes Defense Skull Crusher handguard."
 			}
 		},
 		"clearClonedProps": false,
