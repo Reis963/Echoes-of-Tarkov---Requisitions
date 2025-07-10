@@ -1313,6 +1313,14 @@
             ]
         },
         {
+            "key": "clothing/heat_hockey_mask.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "clothing/Tops/top_hawaii.bundle",
             "dependencyKeys": [
                 "shaders",

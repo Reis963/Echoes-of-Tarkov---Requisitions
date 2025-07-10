@@ -715,5 +715,102 @@
 		],
 		"addweaponpreset": false,
 		"weaponpresets": []
+	},
+	"686fa9e3e23b119ec0490d2e": {
+		"itemTplToClone": "5aa2b9aee5b5b00015693121",
+		"parentId": "5448e5724bdc2ddf718b4568",
+		"handbookParentId": "5b47574386f77428ca22b32f",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "clothing/heat_hockey_mask.bundle",
+				"rcid": ""
+			},
+			"BlocksEarpiece": false,
+			"BlocksHeadwear": false,
+			"BlocksFaceCover": false,
+			"Durability": 35,
+			"MaxDurability": 35,
+			"Indestructibility": 0.9,
+			"FaceShieldComponent": false,
+			"FaceShieldMask": "NoMask",
+			"HasHinge": false,
+			"MaterialType": "Helmet",
+			"RicochetParams": {
+				"x": 0.9,
+				"y": 0.4,
+				"z": 70
+			},
+			"DeafStrength": "None",
+			"BluntThroughput": 0.198,
+			"ArmorMaterial": "UHMWPE",
+			"BlindnessProtection": 0,
+			"ArmorType": "Light",
+			"RepairCost": 824,
+			"RepairSpeed": 10,
+			"Weight": 0.6,
+			"Height": 2,
+			"Width": 2,
+			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
+			"DiscardLimit": 1,
+			"armorClass": "3",
+			"armorColliders": [
+				"HeadCommon",
+				"Eyes",
+				"Jaw",
+				"NeckFront"
+			],
+			"BlocksEyewear": false
+		},
+		"locales": {
+			"en": {
+				"name": "A Familiar Bank Robber's Hockey Mask",
+				"shortName": "HEAT",
+				"description": "A mask similar to that used in HEAT"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 5,
+				"_tpl": "VISORS_RAYBENCH"
+			}
+		],
+		"loyallevelitems": 3,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 120000,
+		"handbookPriceRoubles": 120000,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_SAFE",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
+				"Probability": 8
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+				"Probability": 7
+			}
+		]
 	}
 }
