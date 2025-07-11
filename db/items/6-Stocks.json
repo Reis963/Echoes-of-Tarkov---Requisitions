@@ -741,7 +741,7 @@
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
-                "path": "Attachments/Stocks/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
+                "path": "Attachments/Stocks/m700_arma.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [
@@ -758,9 +758,9 @@
         ],
         "locales": {
             "en": {
-                "name": "M700 Hogue Overmolded Ghillie stock (Highlander)",
+                "name": "M700 Hogue Overmolded Ghillie stock",
                 "shortName": "Overmolded Ghillie",
-                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Kryptek Highlander version."
+                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue."
             }
         },
         "clearClonedProps": false,
@@ -800,7 +800,7 @@
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
-                "path": "Attachments/Stocks/stock_m700_hogue_overmolded_cadpat.bundle",
+                "path": "Attachments/Stocks/m700_sky.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [
@@ -817,9 +817,9 @@
         ],
         "locales": {
             "en": {
-                "name": "M700 Hogue Overmolded Ghillie stock (CADPAT TW)",
+                "name": "M700 Hogue Overmolded Ghillie stock",
                 "shortName": "Overmolded Ghillie",
-                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. CADPAT version."
+                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue."
             }
         },
         "clearClonedProps": false,
@@ -919,7 +919,7 @@
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
-                "path": "Attachments/Stocks/stock_m700_hogue_overmolded_dpm_stock.bundle",
+                "path": "Attachments/Stocks/m700_fleck.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [
@@ -937,9 +937,9 @@
         ],
         "locales": {
             "en": {
-                "name": "M700 Hogue Overmolded Ghillie stock (DPM)",
+                "name": "M700 Hogue Overmolded Ghillie stock",
                 "shortName": "Overmolded Ghillie",
-                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. '90s DPM version."
+                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue."
             }
         },
         "clearClonedProps": false,
@@ -1099,7 +1099,7 @@
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
-                "path": "Attachments/Stocks/stock_m700_hogue_overmolded_badlands_stock.bundle",
+                "path": "Attachments/Stocks/m700_brown.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [
@@ -1117,9 +1117,9 @@
         ],
         "locales": {
             "en": {
-                "name": "M700 Hogue Overmolded Ghillie stock (Badlands)",
+                "name": "M700 Hogue Overmolded Ghillie stock",
                 "shortName": "Overmolded Ghillie",
-                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Badlands version."
+                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue."
             }
         },
         "clearClonedProps": false,
@@ -1159,7 +1159,7 @@
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
-                "path": "Attachments/Stocks/stock_m700_hogue_overmolded_erdl_stock.bundle",
+                "path": "Attachments/Stocks/m700_something.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [
@@ -1177,9 +1177,9 @@
         ],
         "locales": {
             "en": {
-                "name": "M700 Hogue Overmolded Ghillie stock (ERDL Woodland)",
+                "name": "M700 Hogue Overmolded Ghillie stock",
                 "shortName": "Overmolded Ghillie",
-                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. ERDL Woodland version."
+                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue."
             }
         },
         "clearClonedProps": false,
@@ -1219,7 +1219,7 @@
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
-                "path": "Attachments/Stocks/stock_m700_hogue_overmolded_hunting_stock.bundle",
+                "path": "Attachments/Stocks/m700_russian.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [
@@ -1237,9 +1237,9 @@
         ],
         "locales": {
             "en": {
-                "name": "M700 Hogue Overmolded Ghillie stock (Hunting)",
+                "name": "M700 Hogue Overmolded Ghillie stock",
                 "shortName": "Overmolded Ghillie",
-                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Hunting camo version."
+                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue."
             }
         },
         "clearClonedProps": false,
@@ -1279,7 +1279,7 @@
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
-                "path": "Attachments/Stocks/stock_m700_hogue_overmolded_typhon_stock.bundle",
+                "path": "Attachments/Stocks/m700_leafy.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [
@@ -1294,9 +1294,9 @@
         },
         "locales": {
             "en": {
-                "name": "M700 Hogue Overmolded Ghillie stock (Typhon)",
+                "name": "M700 Hogue Overmolded Ghillie stock",
                 "shortName": "Overmolded Ghillie",
-                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Typhon version."
+                "description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue."
             }
         },
         "clearClonedProps": false,

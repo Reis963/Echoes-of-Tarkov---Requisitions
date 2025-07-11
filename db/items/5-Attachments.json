@@ -3630,7 +3630,7 @@
 		"handbookParentId": "MOD_MUZZLE",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/Muzzles/muzzle_ar15_noveske_kx3_fde.bundle",
+				"path": "Attachments/Muzzles/kx3_tan.bundle",
 				"rcid": ""
 			}
 		},
@@ -3693,7 +3693,7 @@
 		"handbookParentId": "MOD_MUZZLE",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/Muzzles/muzzle_ar15_noveske_kx3_od.bundle",
+				"path": "Attachments/Muzzles/kx3_od.bundle",
 				"rcid": ""
 			}
 		},

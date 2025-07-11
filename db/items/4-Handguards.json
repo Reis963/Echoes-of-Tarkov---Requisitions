@@ -3232,7 +3232,7 @@
 		"overrideProperties": {
 			"ExaminedByDefault": true,
 			"Prefab": {
-				"path": "Attachments/Handguards/handguard_mp5_wood.bundle",
+				"path": "Attachments/Handguards/mp5_wood.bundle",
 				"rcid": ""
 			},
 			"ConflictingItems": [],
