@@ -191,18 +191,17 @@
 				]
 			}
 		],
-		"addweaponpreset": false,
+		"addweaponpreset": true,
 		"weaponpresets": [
 			{
+				"_id": "6871682501001c075af5245b",
 				"_changeWeaponName": false,
 				"_encyclopedia": "68324e7849e4f772900f58e8",
-				"_id": "660b250a010010f3887595de",
 				"_items": [
 					{
-						"_id": "8d7e6035e39b6dd89431781d",
+						"_id": "68716826f76dae3a640470a2",
 						"_tpl": "68324e7849e4f772900f58e8",
 						"upd": {
-							"StackObjectsCount": 99,
 							"Repairable": {
 								"MaxDurability": 100,
 								"Durability": 100
@@ -213,52 +212,39 @@
 						}
 					},
 					{
-						"_id": "2bc92d73f0c43419bdc7433c",
-						"_tpl": "55d4b9964bdc2d1d4e8b456e",
-						"parentId": "8d7e6035e39b6dd89431781d",
-						"slotId": "mod_pistol_grip"
+						"_id": "68716826f76dae3a640470a3",
+						"_tpl": "5bfea7ad0db834001c38f1ee",
+						"slotId": "mod_magazine",
+						"parentId": "68716826f76dae3a640470a2"
 					},
 					{
-						"_id": "e84a2f0bdebbe2b719f4ae39",
-						"_tpl": "55d4887d4bdc2d962f8b4570",
-						"parentId": "8d7e6035e39b6dd89431781d",
-						"slotId": "mod_magazine"
+						"_id": "68716826f76dae3a640470a4",
+						"_tpl": "68336505ff3b852822eb0d1f",
+						"slotId": "mod_stock",
+						"parentId": "68716826f76dae3a640470a2"
 					},
 					{
-						"_id": "0126b7e75270641d1ed1e32a",
-						"_tpl": "55d355e64bdc2d962f8b4569",
-						"parentId": "8d7e6035e39b6dd89431781d",
-						"slotId": "mod_reciever"
+						"_id": "68716826f76dae3a640470a5",
+						"_tpl": "68324f9ec1bdc884028b3490",
+						"slotId": "mod_barrel",
+						"parentId": "68716826f76dae3a640470a2"
 					},
 					{
-						"_id": "80e60fe03df21be3f9853281",
-						"_tpl": "591aef7986f774139d495f03",
-						"parentId": "8d7e6035e39b6dd89431781d",
-						"slotId": "mod_stock"
+						"_id": "68716826f76dae3a640470a6",
+						"_tpl": "5bfebc5e0db834001a6694e5",
+						"slotId": "mod_mount",
+						"parentId": "68716826f76dae3a640470a2"
 					},
 					{
-						"_id": "2521b7bf339267ecee903c54",
-						"_tpl": "55d44fd14bdc2d962f8b456e",
-						"parentId": "8d7e6035e39b6dd89431781d",
-						"slotId": "mod_charge"
+						"_id": "68716826f76dae3a640470a7",
+						"_tpl": "6644920d49817dc7d505ca71",
+						"slotId": "mod_tactical",
+						"parentId": "68716826f76dae3a640470a4"
 					},
 					{
-						"_id": "3ff19dfd87dd799f73b297ef",
-						"_tpl": "a06aec4316ac6ff7353845f4",
-						"parentId": "0126b7e75270641d1ed1e32a",
-						"slotId": "mod_barrel"
-					},
-					{
-						"_id": "36df7fe48ddb18f03221ecc4",
-						"_tpl": "eb351db5c0033682427e5ddf",
-						"parentId": "0126b7e75270641d1ed1e32a",
-						"slotId": "mod_handguard"
-					},
-					{
-						"_id": "959b15d6180ed6a7a5c11e5d",
-						"_tpl": "55d5f46a4bdc2d1b198b4567",
-						"parentId": "0126b7e75270641d1ed1e32a",
-						"slotId": "mod_sight_rear",
+						"_id": "68716826f76dae3a640470a8",
+						"_tpl": "5a37cb10c4a282329a73b4e7",
+						"slotId": "mod_scope",
 						"upd": {
 							"Sight": {
 								"ScopesCurrentCalibPointIndexes": [
@@ -267,42 +253,15 @@
 								"ScopesSelectedModes": [
 									0
 								],
-								"SelectedScope": 0
+								"SelectedScope": 0,
+								"ScopeZoomValue": 0
 							}
-						}
-					},
-					{
-						"_id": "7428fb65a93f4496e5cab6bd",
-						"_tpl": "56eabcd4d2720b66698b4574",
-						"parentId": "3ff19dfd87dd799f73b297ef",
-						"slotId": "mod_gas_block"
-					},
-					{
-						"_id": "6f285a1c675e20bdcd719bcc",
-						"_tpl": "5d02677ad7ad1a04a15c0f95",
-						"parentId": "3ff19dfd87dd799f73b297ef",
-						"slotId": "mod_muzzle"
-					},
-					{
-						"_id": "72bd3e2becf7a80cf01ec128",
-						"_tpl": "55d4af3a4bdc2d972f8b456f",
-						"parentId": "36df7fe48ddb18f03221ecc4",
-						"slotId": "mod_sight_front",
-						"upd": {
-							"Sight": {
-								"ScopesCurrentCalibPointIndexes": [
-									0
-								],
-								"ScopesSelectedModes": [
-									0
-								],
-								"SelectedScope": 0
-							}
-						}
+						},
+						"parentId": "68716826f76dae3a640470a6"
 					}
 				],
 				"_name": "M700 6.5CM Stock preset",
-				"_parent": "8d7e6035e39b6dd89431781d",
+				"_parent": "68716826f76dae3a640470a2",
 				"_type": "Preset"
 			}
 		]

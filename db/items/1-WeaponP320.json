@@ -182,8 +182,98 @@
                 ]
             }
         ],
-        "addweaponpreset": false,
-        "weaponpresets": [],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_id": "68716c8e0d35ec307c2cf05b",
+                "_changeWeaponName": false,
+                "_encyclopedia": "6851b6e2af2384018031916b",
+                "_items": [
+                    {
+                        "_id": "687167fef76dae3a6404709a",
+                        "_tpl": "6851b6e2af2384018031916b",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            },
+                            "FireMode": {
+                                "FireMode": "single"
+                            }
+                        }
+                    },
+                    {
+                        "_id": "687167fef76dae3a6404709b",
+                        "_tpl": "6851b7eaae4e0776eacd8f0c",
+                        "slotId": "mod_barrel",
+                        "parentId": "687167fef76dae3a6404709a"
+                    },
+                    {
+                        "_id": "687167fef76dae3a6404709c",
+                        "_tpl": "6851ba63dde19f7ba9376418",
+                        "slotId": "mod_reciever",
+                        "parentId": "687167fef76dae3a6404709a"
+                    },
+                    {
+                        "_id": "687167fef76dae3a6404709d",
+                        "_tpl": "6851bad98f3bd02ba613fd8a",
+                        "slotId": "weapon_trigger",
+                        "parentId": "687167fef76dae3a6404709a"
+                    },
+                    {
+                        "_id": "687167fef76dae3a6404709e",
+                        "_tpl": "6851bb61df6b0ce4f48bc269",
+                        "slotId": "mod_magazine",
+                        "parentId": "687167fef76dae3a6404709a"
+                    },
+                    {
+                        "_id": "687167fef76dae3a6404709f",
+                        "_tpl": "6851bd3f607f3681aabf337d",
+                        "slotId": "mod_pistol_grip",
+                        "parentId": "687167fef76dae3a6404709a"
+                    },
+                    {
+                        "_id": "687167fef76dae3a640470a0",
+                        "_tpl": "6851bbdb62458162cb7c6cb1",
+                        "slotId": "mod_sight_rear",
+                        "upd": {
+                            "Sight": {
+                                "ScopesCurrentCalibPointIndexes": [
+                                    0
+                                ],
+                                "ScopesSelectedModes": [
+                                    0
+                                ],
+                                "SelectedScope": 0,
+                                "ScopeZoomValue": 0
+                            }
+                        },
+                        "parentId": "687167fef76dae3a6404709c"
+                    },
+                    {
+                        "_id": "687167fef76dae3a640470a1",
+                        "_tpl": "6851bcaf86f5053e58873942",
+                        "slotId": "mod_sight_front",
+                        "upd": {
+                            "Sight": {
+                                "ScopesCurrentCalibPointIndexes": [
+                                    0
+                                ],
+                                "ScopesSelectedModes": [
+                                    0
+                                ],
+                                "SelectedScope": 0,
+                                "ScopeZoomValue": 0
+                            }
+                        },
+                        "parentId": "687167fef76dae3a6404709c"
+                    }
+                ],
+                "_name": "P320 base",
+                "_parent": "687167fef76dae3a6404709a",
+                "_type": "Preset"
+            }
+        ],
         "traders": {}
     },
     "6851b7eaae4e0776eacd8f0c": {

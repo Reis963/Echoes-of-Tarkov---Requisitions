@@ -105,7 +105,7 @@
 			{
 				"_changeWeaponName": false,
 				"_encyclopedia": "683df636e1e3fa1bf165f7ed",
-				"_id": "6831fd293baa154a67b68896",
+				"_id": "68716ea3f31590755774c683",
 				"_items": [
 					{
 						"_id": "683dffbccbbd7057100401db",
@@ -188,7 +188,7 @@
 					}
 				],
 				"_name": "MCX Multicaliber stock preset",
-				"_parent": "6831fd293baa154a67b68896",
+				"_parent": "683dffbccbbd7057100401db",
 				"_type": "Preset"
 			}
 		]

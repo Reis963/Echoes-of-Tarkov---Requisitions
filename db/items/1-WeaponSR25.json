@@ -99,7 +99,7 @@
 			{
 				"_changeWeaponName": false,
 				"_encyclopedia": "6831efcaf17211a895bbccc4",
-				"_id": "6831fd293baa154a67b68896",
+				"_id": "68716aa680c6a9fdb75d25e0",
 				"_items": [
 					{
 						"_id": "6831f1fa62e3bf66540357ea",
@@ -216,7 +216,7 @@
 					"_id": "6831ffc98a890c316f834ad5",
 					"_mergeSlotWithChildren": false,
 					"_name": "patron_in_weapon",
-					"_parent": "6831efcaf17211a895bbccc4",
+					"_parent": "683d23831960b7bac66f4f05",
 					"_props": {
 						"filters": [
 							{
@@ -294,7 +294,7 @@
 				"_id": "6831fd293baa154a67b68896",
 				"_items": [
 					{
-						"_id": "6831f1fa62e3bf66540357ea",
+						"_id": "68716af5ff79fb3185fdefc2",
 						"_tpl": "683d23831960b7bac66f4f05",
 						"upd": {
 							"Repairable": {
@@ -307,80 +307,80 @@
 						}
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357eb",
+						"_id": "68716b5fb1d7012a0c981113",
 						"_tpl": "57c55efc2459772d2c6271e7",
 						"slotId": "mod_pistol_grip",
-						"parentId": "6831f1fa62e3bf66540357ea"
+						"parentId": "68716af5ff79fb3185fdefc2"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357ec",
+						"_id": "68716b5e008dc9c568ba858c",
 						"_tpl": "5df8f541c41b2312ea3335e3",
 						"slotId": "mod_magazine",
-						"parentId": "6831f1fa62e3bf66540357ea"
+						"parentId": "68716af5ff79fb3185fdefc2"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357ed",
+						"_id": "68716b4a99cbe13f0d97cc1e",
 						"_tpl": "5649be884bdc2d79388b4577",
 						"slotId": "mod_stock",
-						"parentId": "6831f1fa62e3bf66540357ea"
+						"parentId": "68716af5ff79fb3185fdefc2"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357ee",
+						"_id": "68716b3bc42bf12f34f3f084",
 						"_tpl": "5df8e4080b92095fd441e594",
 						"slotId": "mod_reciever",
-						"parentId": "6831f1fa62e3bf66540357ea"
+						"parentId": "68716af5ff79fb3185fdefc2"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357ef",
+						"_id": "68716b31173938c704156b98",
 						"_tpl": "5df8e053bb49d91fb446d6a6",
 						"slotId": "mod_charge",
-						"parentId": "6831f1fa62e3bf66540357ea"
+						"parentId": "68716af5ff79fb3185fdefc2"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357f0",
+						"_id": "68716b2a07672ce7931c78dd",
 						"_tpl": "5ae30c9a5acfc408fb139a03",
 						"slotId": "mod_stock_000",
-						"parentId": "6831f1fa62e3bf66540357ed"
+						"parentId": "68716b4a99cbe13f0d97cc1e"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357f1",
+						"_id": "68716b1f756b1ba38eedeb78",
 						"_tpl": "5df917564a9f347bc92edca3",
 						"slotId": "mod_barrel",
-						"parentId": "6831f1fa62e3bf66540357ee"
+						"parentId": "68716b3bc42bf12f34f3f084"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357f2",
+						"_id": "68716b173dd92adef3ad5728",
 						"_tpl": "5df916dfbb49d91fb446d6b9",
 						"slotId": "mod_handguard",
-						"parentId": "6831f1fa62e3bf66540357ee"
+						"parentId": "68716b3bc42bf12f34f3f084"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357f3",
+						"_id": "68716b0e3c29cd7b4188120c",
 						"_tpl": "5dfa3d7ac41b2312ea33362a",
 						"slotId": "mod_sight_rear",
-						"parentId": "6831f1fa62e3bf66540357ee"
+						"parentId": "68716b3bc42bf12f34f3f084"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357f4",
+						"_id": "68716b0a5db13aaacf5c0710",
 						"_tpl": "5dfa3cd1b33c0951220c079b",
 						"slotId": "mod_muzzle",
-						"parentId": "6831f1fa62e3bf66540357f1"
+						"parentId": "68716b1f756b1ba38eedeb78"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357f5",
+						"_id": "68716b08bce785be52194390",
 						"_tpl": "6065dc8a132d4d12c81fd8e3",
 						"slotId": "mod_gas_block",
-						"parentId": "6831f1fa62e3bf66540357f1"
+						"parentId": "68716b1f756b1ba38eedeb78"
 					},
 					{
-						"_id": "6831f1fa62e3bf66540357f6",
+						"_id": "68716b069544cfa669aae701",
 						"_tpl": "5c17804b2e2216152006c02f",
 						"slotId": "mod_sight_front",
-						"parentId": "6831f1fa62e3bf66540357f2"
+						"parentId": "68716b173dd92adef3ad5728"
 					}
 				],
 				"_name": "SR-8.6 stock preset",
-				"_parent": "6831f1fa62e3bf66540357ea",
+				"_parent": "68716af5ff79fb3185fdefc2",
 				"_type": "Preset"
 			}
 		]
