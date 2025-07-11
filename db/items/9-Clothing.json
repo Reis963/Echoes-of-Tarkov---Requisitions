@@ -654,7 +654,8 @@
 			"IsUndiscardable": false,
 			"InsuranceDisabled": false,
 			"DiscardLimit": 1,
-			"Grids": []
+			"Grids": [],
+			"BackgroundColor": "violet"
 		},
 		"locales": {
 			"en": {
