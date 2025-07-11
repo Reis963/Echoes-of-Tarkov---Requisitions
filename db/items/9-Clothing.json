@@ -13,7 +13,8 @@
 			"Width": 1,
 			"IsUndiscardable": false,
 			"InsuranceDisabled": false,
-			"DiscardLimit": 1
+			"DiscardLimit": 1,
+			"BackgroundColor": "violet"
 		},
 		"locales": {
 			"en": {
@@ -277,6 +278,7 @@
 				"path": "clothing/keegan.bundle",
 				"rcid": ""
 			},
+			"BackgroundColor": "violet",
 			"Grids": []
 		},
 		"locales": {
@@ -636,6 +638,75 @@
 		"addweaponpreset": false,
 		"weaponpresets": []
 	},
+	"68713ff88f741d56f16d0ac9": {
+		"itemTplToClone": "5aa2ba46e5b5b000137b758d",
+		"parentId": "5a341c4086f77401f2541505",
+		"handbookParentId": "5b47574386f77428ca22b330",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "clothing/iamyourbeast.bundle",
+				"rcid": ""
+			},
+			"Width": 1,
+			"Height": 1,
+			"Weight": 0.11,
+			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
+			"DiscardLimit": 1,
+			"Grids": []
+		},
+		"locales": {
+			"en": {
+				"name": "A Familiar Blue Beanie with Goggles",
+				"shortName": "BEAST",
+				"description": "A Beanie reminding you of a man you used to know, Alphonse Harding. He's out there somewhere, but no one will try and find him. hes what the COI made him, in his own words, \"I AM YOUR BEAST\""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 6000,
+		"handbookPriceRoubles": 6000,
+		"CanSellOnRagFair": true,
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 1
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6765,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_SAFE",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
+				"Probability": 8
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+				"Probability": 7
+			}
+		]
+	},
 	"685166f1cf8877110a7d476f": {
 		"itemTplToClone": "5f60e784f2bcbb675b00dac7",
 		"parentId": "5a341c4086f77401f2541505",
@@ -652,6 +723,7 @@
 			"IsUndiscardable": false,
 			"InsuranceDisabled": false,
 			"DiscardLimit": 1,
+			"BackgroundColor": "violet",
 			"Grids": []
 		},
 		"locales": {
@@ -760,7 +832,8 @@
 				"Jaw",
 				"NeckFront"
 			],
-			"BlocksEyewear": false
+			"BlocksEyewear": false,
+			"BackgroundColor": "violet"
 		},
 		"locales": {
 			"en": {
