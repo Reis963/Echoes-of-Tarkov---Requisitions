@@ -3824,5 +3824,193 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68752546fed6022e4313e180": {
+		"itemTplToClone": "5fc235db2770a0045c59c683",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/mk18_carbine_handguard.bundle",
+				"rcid": ""
+			},
+			"CoolFactor": 1.500,
+			"Ergonomics": 17,
+			"ExtraSizeLeft": 1,
+			"Weight": 1.0,
+			"Width": 2,
+			"Slots": [
+				{
+					"_id": "6875270c69a4cccec7f11aa1",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_scope",
+					"_parent": "68752546fed6022e4313e180",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "6875270b166419a30bda47c5",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical_000",
+					"_parent": "68752546fed6022e4313e180",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5d10b49bd7ad1a1a560708b0",
+									"5c06595c0db834001a66af6c",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "6875270959373995b31cfcfa",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_mount_002",
+					"_parent": "68752546fed6022e4313e180",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5b7be47f5acfc400170e2dd2",
+									"6269545d0e57f218e4548ca2",
+									"6269220d70b6c02e665f2635",
+									"669a6a4a525be1d2d004b8eb",
+									"671126b049e181972e0681fa"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "68752707ad35f02ef4279a74",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_sight_front",
+					"_parent": "68752546fed6022e4313e180",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c",
+									"55d4af3a4bdc2d972f8b456f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "6875270570bac17a72f3fd56",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_foregrip",
+					"_parent": "68752546fed6022e4313e180",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57cffb66245977632f391a99",
+									"57cffcd624597763133760c5",
+									"57cffcdd24597763f5110006",
+									"57cffce524597763b31685d8",
+									"5b7be4895acfc400170e2dd5",
+									"651a8e529829226ceb67c319",
+									"651a8bf3a8520e48047bf708",
+									"665d5d9e338229cfd6078da1",
+									"665edce564fb556f940ab32a"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Echoes Defense MK-18 \"ThunderLite\" Handguard",
+				"shortName": "ThunderLite",
+				"description": "A lightweight Short M-LOK-compatible handguard for the Mk-18 rifle. Manufactured by Echoes Defense"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 67,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 11294,
+		"handbookPriceRoubles": 4830,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }

@@ -409,6 +409,14 @@
             ]
         },
         {
+            "key": "Attachments/Barrels/mk18_carbine_barrel.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/eotech/eotech_skin_dgmc.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -746,6 +754,14 @@
         },
         {
             "key": "Attachments/Handguards/mp5_wood.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/mk18_carbine_handguard.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
