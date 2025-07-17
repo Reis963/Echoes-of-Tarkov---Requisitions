@@ -8,8 +8,8 @@ import { ItemMap } from "./references/items";
 import { ItemBaseClassMap } from "./references/itemBaseClasses";
 import { ItemHandbookCategoryMap } from "./references/itemHandbookCategories";
 import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
-import * as fs from "node:fs";
-import * as path from "node:path";
+import fs from "node:fs";
+import path from "node:path";
 import type { WTTInstanceManager } from "./WTTInstanceManager";
 import type { IDatabaseTables } from "@spt/models/spt/server/IDatabaseTables";
 import type { ILocation } from "@spt/models/eft/common/ILocation";
@@ -26,7 +26,7 @@ export class CustomItemService {
     }
 
     public postDBLoad(): void {
-        const configPath = path.join(__dirname, "../db/items");
+        const configPath = path.join(__dirname, "../db/Items");
         const configFiles = fs
             .readdirSync(configPath)
             .filter((file) => !file.includes("BaseItemReplacement"));
@@ -57,7 +57,7 @@ export class CustomItemService {
                         this.instanceManager.customItem.createItemFromClone(exampleCloneItem);
     
                         this.processStaticLootContainers(itemConfig, itemId);
-                        this.processModSlots(itemConfig, [finalItemTplToClone], itemId);
+                        this.processModSlots(itemConfig, finalItemTplToClone, itemId);
                         this.processInventorySlots(itemConfig, itemId);
                         this.processMasterySections(itemConfig, itemId);
                         this.processWeaponPresets(itemConfig, itemId);
@@ -76,7 +76,7 @@ export class CustomItemService {
                 console.error(fileError);
             }
         }
-        if (this.instanceManager.debug){
+    
         if (numItemsAdded > 0) {
             this.instanceManager.logger.log(
                 `[${this.instanceManager.modName}] Database: Loaded ${numItemsAdded} custom items.`,
@@ -88,7 +88,6 @@ export class CustomItemService {
                 LogTextColor.GREEN
             );
         }
-    }
     
         // Post-item processing (e.g., bot inventories, quest modifications)
         for (const file of configFiles) {
@@ -284,7 +283,7 @@ export class CustomItemService {
    */
     private processModSlots(
         itemConfig: ConfigItem[string],
-        finalItemTplToClone: string[],
+        finalItemTplToClone: string,
         itemId: string
     ): void {
         const tables = this.instanceManager.database;
@@ -356,15 +355,7 @@ export class CustomItemService {
                 if (addToModSlots) {
                     for (const modSlot of parentItem._props.Slots) {
                         if (lowercaseModSlots.includes(modSlot._name.toLowerCase())) {
-                            if (!modSlot._props.filters) {
-                                modSlot._props.filters = [
-                                    {
-                                        AnimationIndex: 0,
-                                        Filter: []
-                                    }
-                                ];
-                            }
-                            if (!modSlot._props.filters[0].Filter.includes(itemId)) {
+                            if (!modSlot._props.filters[0].Filter.includes(itemId) && modSlot._props.filters?.[0]?.Filter?.includes(finalItemTplToClone)) {
                                 modSlot._props.filters[0].Filter.push(itemId);
                                 if (this.instanceManager.debug) {
                                     console.log(`Successfully added item ${itemId} to the filter of mod slot ${modSlot._name} for parent item ${parentItemId}`);
