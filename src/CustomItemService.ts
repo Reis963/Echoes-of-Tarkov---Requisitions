@@ -30,32 +30,32 @@ export class CustomItemService {
         const configFiles = fs
             .readdirSync(configPath)
             .filter((file) => !file.includes("BaseItemReplacement"));
-    
+
         let numItemsAdded = 0;
-    
+
         for (const file of configFiles) {
             const filePath = path.join(configPath, file);
-    
+
             try {
                 const fileContents = fs.readFileSync(filePath, "utf-8");
                 const config = JSON.parse(fileContents) as ConfigItem;
-    
+
                 for (const itemId in config) {
                     const itemConfig = config[itemId];
-    
+
                     try {
                         const { exampleCloneItem, finalItemTplToClone } =
                             this.createExampleCloneItem(itemConfig, itemId);
-    
+
                         if (this.instanceManager.debug) {
                             console.log(`Processing file: ${file}, Item ID: ${itemId}`);
                             console.log(
                                 `Prefab Path: ${exampleCloneItem.overrideProperties?.Prefab.path}`
                             );
                         }
-    
+
                         this.instanceManager.customItem.createItemFromClone(exampleCloneItem);
-    
+
                         this.processStaticLootContainers(itemConfig, itemId);
                         this.processModSlots(itemConfig, finalItemTplToClone, itemId);
                         this.processInventorySlots(itemConfig, itemId);
@@ -64,7 +64,7 @@ export class CustomItemService {
                         this.processTraders(itemConfig, itemId);
                         this.addtoHallofFame(itemConfig, itemId);
                         this.addtoSpecialSlots(itemConfig, itemId);
-    
+
                         numItemsAdded++;
                     } catch (itemError) {
                         console.error(`Error processing item ID: ${itemId} in file: ${file}`);
@@ -76,27 +76,17 @@ export class CustomItemService {
                 console.error(fileError);
             }
         }
-    
-        if (numItemsAdded > 0) {
-            this.instanceManager.logger.log(
-                `[${this.instanceManager.modName}] Database: Loaded ${numItemsAdded} custom items.`,
-                LogTextColor.GREEN
-            );
-        } else {
-            this.instanceManager.logger.log(
-                `[${this.instanceManager.modName}] Database: No custom items loaded.`,
-                LogTextColor.GREEN
-            );
-        }
-    
+
+
+
         // Post-item processing (e.g., bot inventories, quest modifications)
         for (const file of configFiles) {
             const filePath = path.join(configPath, file);
-    
+
             try {
                 const fileContents = fs.readFileSync(filePath, "utf-8");
                 const config = JSON.parse(fileContents) as ConfigItem;
-    
+
                 for (const itemId in config) {
                     const itemConfig = config[itemId];
                     this.processBotInventories(itemConfig, itemConfig.itemTplToClone, itemId);
@@ -107,7 +97,7 @@ export class CustomItemService {
             }
         }
     }
-    
+
     /**
    * Creates an example clone item with the provided item configuration and item ID.
    *
@@ -176,12 +166,12 @@ export class CustomItemService {
         probability: number
     ): void {
         const locations = this.instanceManager.database.locations;
-    
+
         for (const locationID in locations) {
             if (!Object.prototype.hasOwnProperty.call(locations, locationID)) {
                 continue; // Skip invalid locations
             }
-    
+
             const location: ILocation = locations[locationID];
             if (!location.staticLoot) {
                 if (this.instanceManager.debug) {
@@ -189,7 +179,7 @@ export class CustomItemService {
                 }
                 continue;
             }
-    
+
             const staticLoot = location.staticLoot;
             if (!Object.prototype.hasOwnProperty.call(staticLoot, containerID)) {
                 if (this.instanceManager.debug) {
@@ -197,7 +187,7 @@ export class CustomItemService {
                 }
                 continue;
             }
-    
+
             const lootContainer = staticLoot[containerID];
             if (!lootContainer) {
                 if (this.instanceManager.debug) {
@@ -205,24 +195,24 @@ export class CustomItemService {
                 }
                 continue;
             }
-    
+
             const templateFromMap = ItemMap[itemToAdd];
             const finalTemplate = templateFromMap || itemToAdd;
-    
+
             const newLoot = [
                 {
                     tpl: finalTemplate,
                     relativeProbability: probability,
                 },
             ];
-    
+
             lootContainer.itemDistribution.push(...newLoot);
             if (this.instanceManager.debug) {
                 console.log(`Added ${itemToAdd} to loot container: ${containerID} in location: ${locationID}`);
             }
         }
     }
-    
+
 
     /**
    * Processes the static loot containers for a given item.
@@ -243,13 +233,13 @@ export class CustomItemService {
                 for (const container of itemConfig.StaticLootContainers) {
                     const staticLootContainer =
                         ItemMap[container.ContainerName] || container.ContainerName;
-                
+
                     this.addToStaticLoot(
                         staticLootContainer,
                         itemId,
                         container.Probability
                     );
-                
+
                     if (this.instanceManager.debug) {
                         console.log(
                             ` - Added to container '${staticLootContainer}' with probability ${container.Probability}`
@@ -485,7 +475,7 @@ export class CustomItemService {
                             _id: itemData._id,
                             _tpl: itemData._tpl
                         };
-            
+
                         // Add parentId and slotId only if they are present in itemData
                         if (itemData.parentId) {
                             item.parentId = itemData.parentId;
@@ -493,16 +483,16 @@ export class CustomItemService {
                         if (itemData.slotId) {
                             item.slotId = itemData.slotId;
                         }
-            
+
                         return item;
                     }),
                     _name: presetData._name,
                     _parent: presetData._parent,
                     _type: "Preset"
                 };
-            
+
                 itemPresets[preset._id] = preset;
-            
+
                 if (this.instanceManager.debug) {
                     console.log(` - Added weapon preset: ${preset._name}`);
                     console.log(` - Preset: ${JSON.stringify(preset)}`);
@@ -600,7 +590,7 @@ export class CustomItemService {
                     for (const filter of slot._props.filters) {
                         if (!filter.Filter.includes(itemId)) {
                             filter.Filter.push(itemId);
-            
+
                             if (this.instanceManager.debug) {
                                 console.log(`Added item ${itemId} to filter Hall of Fame ${hall._name}`);
                             }
