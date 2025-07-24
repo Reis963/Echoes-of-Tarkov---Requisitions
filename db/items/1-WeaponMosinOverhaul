@@ -12,6 +12,9 @@
                 "5c0e2ff6d174af02a1659d4a",
                 "5a33e75ac4a2826c6e06d759"
             ],
+            "Weight": 1.95,
+            "Recoil": -25,
+            "Ergonomics": 5,
             "CanSellOnRagfair": true,
             "Slots": [
                 {
@@ -100,6 +103,9 @@
                 "path": "Mosin/mosin_stock_2.bundle",
                 "rcid": ""
             },
+            "Weight": 1.65,
+            "Recoil": -21,
+            "Ergonomics": 13,
             "ConflictingItems": [
                 "5c0e2ff6d174af02a1659d4a",
                 "5a33e75ac4a2826c6e06d759"
@@ -196,6 +202,9 @@
                 "5c0e2ff6d174af02a1659d4a",
                 "5a33e75ac4a2826c6e06d759"
             ],
+            "Weight": 1.15,
+            "Recoil": -13,
+            "Ergonomics": 14,
             "CanSellOnRagfair": true,
             "Slots": [
                 {
@@ -288,6 +297,9 @@
                 "5c0e2ff6d174af02a1659d4a",
                 "5a33e75ac4a2826c6e06d759"
             ],
+            "Weight": 1.60,
+            "Recoil": -17,
+            "Ergonomics": 16,
             "CanSellOnRagfair": true,
             "Slots": [
                 {
@@ -380,6 +392,9 @@
                 "5c0e2ff6d174af02a1659d4a",
                 "5a33e75ac4a2826c6e06d759"
             ],
+            "Weight": 1.80,
+            "Recoil": -23,
+            "Ergonomics": 9,
             "CanSellOnRagfair": true,
             "Slots": [
                 {
@@ -570,6 +585,14 @@
                 "6357c98711fb55120211f7e1",
                 "5d00f63bd7ad1a59283b1c1e"
             ],
+            "Velocity": 4.4,
+            "Weight": 1.7,
+            "Width": 3,
+            "Recoil": -6,
+            "HeatFactor": 0.81,
+            "ExtraSizeLeft": 3,
+            "Ergonomics": -5,
+            "CenterOfImpact": 0.038,
             "Slots": [
                 {
                     "_id": "688147729eda9e85b5a548c9",
@@ -659,6 +682,14 @@
                 "path": "Mosin/mosin_barrel_2.bundle",
                 "rcid": ""
             },
+            "Velocity": 10.4,
+            "Weight": 1.05,
+            "Width": 2,
+            "Recoil": -3,
+            "HeatFactor": 0.81,
+            "ExtraSizeLeft": 2,
+            "Ergonomics": -2,
+            "CenterOfImpact": 0.038,
             "ConflictingItems": [
                 "5c0e2f5cd174af02a012cfc9",
                 "5ae30db85acfc408fb139a05",
@@ -867,6 +898,14 @@
                 "6357c98711fb55120211f7e1",
                 "5d00f63bd7ad1a59283b1c1e"
             ],
+            "Velocity": 6.9,
+            "Weight": 1.8,
+            "Width": 3,
+            "Recoil": -14,
+            "HeatFactor": 0.61,
+            "ExtraSizeLeft": 3,
+            "Ergonomics": -14,
+            "CenterOfImpact": 0.038,
             "Slots": [
                 {
                     "_id": "688147ed0c6a2590e4dad658",
@@ -966,6 +1005,14 @@
                 "6357c98711fb55120211f7e1",
                 "5d00f63bd7ad1a59283b1c1e"
             ],
+            "Velocity": 12.3,
+            "Weight": 2.15,
+            "Width": 5,
+            "Recoil": -20,
+            "HeatFactor": 0.81,
+            "ExtraSizeLeft": 5,
+            "Ergonomics": -20,
+            "CenterOfImpact": 0.038,
             "Slots": [
                 {
                     "_id": "688147d9c162725e4061c6f3",
@@ -1145,6 +1192,7 @@
                 "path": "Mosin/mosin_mag_2.bundle",
                 "rcid": ""
             },
+            "Ergonomics": -8,
             "VisibleAmmoRangesString": "1-19",
             "Cartridges": [
                 {
