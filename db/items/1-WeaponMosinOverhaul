@@ -39,9 +39,9 @@
         },
         "locales": {
             "en": {
-                "name": "Mosin Stock 1",
-                "shortName": "Mosin",
-                "description": "teehee"
+                "name": "Echoes Defense Mosin Nagant Club Stock",
+                "shortName": "ED Club",
+                "description": "A stock manufactured in 1984 by Echoes Defense. Heavy"
             }
         },
         "clearClonedProps": false,
@@ -131,9 +131,9 @@
         },
         "locales": {
             "en": {
-                "name": "Mosin Stock 2",
-                "shortName": "Mosin",
-                "description": "teehee"
+                "name": "Echoes Defense Precision Stock",
+                "shortName": "Precision",
+                "description": "A Stock manufactured by Echoes Defense with the design requests of John Tarkovic."
             }
         },
         "clearClonedProps": false,
@@ -223,9 +223,9 @@
         },
         "locales": {
             "en": {
-                "name": "Mosin Stock 3",
-                "shortName": "Mosin",
-                "description": "teehee"
+                "name": "Echoes Defense \"Steampunk\" Stock",
+                "shortName": "Steampunk",
+                "description": "A Stock manufactured by Echoes Defense for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -315,9 +315,9 @@
         },
         "locales": {
             "en": {
-                "name": "Mosin Stock 4",
-                "shortName": "Mosin",
-                "description": "teehee"
+                "name": "Echoes Defense \"Lone Rider\" Stock",
+                "shortName": "Lone Rider",
+                "description": "A Stock manufactured by Echoes Defense with the design requests of Rhedd."
             }
         },
         "clearClonedProps": false,
@@ -407,9 +407,9 @@
         },
         "locales": {
             "en": {
-                "name": "Mosin Stock 5",
-                "shortName": "Mosin",
-                "description": "teehee"
+                "name": "Echoes Defense \"EBlock\" Stock",
+                "shortName": "EBlock",
+                "description": "A Stock manufactured by Echoes Defense for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -499,9 +499,9 @@
         },
         "locales": {
             "en": {
-                "name": "Mosin Stock 6",
+                "name": "Echoes Defense Mosin Nagant Stock",
                 "shortName": "Mosin",
-                "description": "teehee"
+                "description": "A Stock manufactured by Echoes Defense for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -599,9 +599,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin barrel 1",
-                "shortName": "mosin 1",
-                "description": "1"
+                "name": "Echoes Defense \"Needle\" Front End Assembly",
+                "shortName": "Needle",
+                "description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -698,9 +698,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin barrel 2",
-                "shortName": "mosin",
-                "description": ""
+                "name": "Echoes Defense \"Peg Leg\" Front End Asssembly",
+                "shortName": "Peg Leg",
+                "description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -797,9 +797,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin barrel 3",
-                "shortName": "mosin",
-                "description": ""
+                "name": "Echoes Defense Mosin Nagant Front End Assembly",
+                "shortName": "Mosin",
+                "description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -896,9 +896,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin barrel 4",
-                "shortName": "mosin ",
-                "description": ""
+                "name": "Echoes Defense \"Steampunk\" Front End Assembly",
+                "shortName": "Steampunk",
+                "description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -995,9 +995,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin barrel 5",
-                "shortName": "mosin",
-                "description": ""
+                "name": "Echoes Defense Hull Front End Assembly",
+                "shortName": "Hull",
+                "description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant"
             }
         },
         "clearClonedProps": false,
@@ -1085,9 +1085,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin mag 1",
-                "shortName": "",
-                "description": ""
+                "name": "Echoes Defense 10 round Mosin Nagant Magazine",
+                "shortName": "Echoes",
+                "description": "a 10 round detachable magazine for the Mosin Nagant."
             }
         },
         "clearClonedProps": false,
@@ -1175,9 +1175,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin mag 2",
-                "shortName": "",
-                "description": ""
+                "name": "Echoes Defense 20 round Mosin Nagant Magazine",
+                "shortName": "Echoes",
+                "description": "a 20 round detachable magazine for the Mosin Nagant."
             }
         },
         "clearClonedProps": false,
@@ -1238,9 +1238,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin mosin 1",
-                "shortName": "",
-                "description": ""
+                "name": "Echoes Defense Crescent Rear Iron Sight",
+                "shortName": "Crescent",
+                "description": "A rear iron sight for the Mosin Nagant. Manufactured by Echoes Defense"
             }
         },
         "clearClonedProps": false,
@@ -1301,9 +1301,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin irons 2",
-                "shortName": "",
-                "description": ""
+                "name": "Echoes Defense Blood Moon Rear Iron Sight",
+                "shortName": "Blood",
+                "description": "A rear iron sight for the Mosin Nagant. Manufactured by Echoes Defense"
             }
         },
         "clearClonedProps": false,
@@ -1364,9 +1364,9 @@
         },
         "locales": {
             "en": {
-                "name": "mosin irons 3",
-                "shortName": "",
-                "description": ""
+                "name": "Echoes Defense Castle Rear Iron Sight",
+                "shortName": "Castle",
+                "description": "A rear iron sight for the Mosin Nagant. Manufactured by Echoes Defense"
             }
         },
         "clearClonedProps": false,
