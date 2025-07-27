@@ -336,6 +336,9 @@
 				"path": "clothing/m50.bundle",
 				"rcid": ""
 			},
+			"ConflictingItems": [
+				"59e7715586f7742ee5789605"
+			],
 			"Weight": 0.6,
 			"Height": 2,
 			"Width": 2,
