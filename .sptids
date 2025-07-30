@@ -1,0 +1,3449 @@
+{
+    "685986b9f3b3a12b2546f999": {
+        "en": {
+            "Name": "ORSIS AR-15J .366 TKM assault carbine",
+            "ShortName": "AR-15J",
+            "ParentID": "ASSAULT_CARBINE",
+            "Type": "ASSAULT_CARBINE",
+            "Description": "The ORSIS-AR15J is a Russian civilian carbine developed in the late 2010s from the AR-15 platform chambered in .366 TKM and featuring a smoothbore barrel; this carbine is legally defined as a shotgun under Russian law.",
+            "PrefabPath": "assets/content/weapons/m4a1/weapon_colt_m4a1_556x45_container.bundle",
+            "TraderId": "PRAPOR"
+        }
+    },
+    "685986e77e1518fb3729a164": {
+        "en": {
+            "Name": "AR-15J .366 TKM 20 inch barrel",
+            "ShortName": "AR-15J 20\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A barrel for AR-15 based weapons for .366 TKM ammo, 20 inches long.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_ar15_508mm.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "685986ffb813072ae5e3a91c": {
+        "en": {
+            "Name": "AR-15J .366 TKM 16 inch barrel",
+            "ShortName": "AR-15J 16\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A barrel for AR-15 based weapons for .366 TKM ammo, 16 inches long.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_ar15_adar_406mm.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6859871963864f672853b1e1": {
+        "en": {
+            "Name": "AR-15J .366 TKM upper receiver",
+            "ShortName": "AR-15J",
+            "ParentID": "RECEIVER",
+            "Type": "RECEIVER",
+            "Description": "An upper receiver for the AR-15J assault carbine manufactured by ORSIS. Equipped with a mount for attaching additional devices.",
+            "PrefabPath": "assets/content/items/mods/recievers/reciever_ar15_colt_m4a1_std.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6859872fb5698809d7a4f446": {
+        "en": {
+            "Name": "Anderson AM-15 7.62x39 assault rifle",
+            "ShortName": "AM-15",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "The Anderson AM-15 7.62x39 assault rifle is a 7.62x39mm assault rifle based on the AR-15 platform, offering the modularity of the AR platform with the stopping power of the 7.62x39mm round. Manufactured by Anderson Manufacturing.",
+            "PrefabPath": "assets/content/weapons/m4a1/weapon_colt_m4a1_556x45_container.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68598755a24f2d1dc31ff114": {
+        "en": {
+            "Name": "AM-15 7.62x39 20 inch barrel",
+            "ShortName": "AM-15 20\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A barrel for AR-15 based weapons for 7.62x39 ammo, 20 inches long.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_ar15_508mm.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68598764b693cb1d960bc175": {
+        "en": {
+            "Name": "AM-15 7.62x39 16 inch barrel",
+            "ShortName": "AM-15 16\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A barrel for AR-15 based weapons for 7.62x39 ammo, 16 inches long.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_ar15_adar_406mm.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6859877193867246761215df": {
+        "en": {
+            "Name": "AM-15 7.62x39 upper receiver",
+            "ShortName": "AM-15",
+            "ParentID": "RECEIVER",
+            "Type": "RECEIVER",
+            "Description": "An upper receiver for the AM-15 assault rifle manufactured by Anderson Manufacturing. Equipped with a mount for attaching additional devices.",
+            "PrefabPath": "assets/content/items/mods/recievers/reciever_ar15_colt_m4a1_std.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6828f3c5a1e409ab7d163228": {
+        "en": {
+            "Name": "Kalashnikov AK-12/9 \"Buivol\" 9x39 assault rifle",
+            "ShortName": "AK-12/9",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "The AK-12 is an assault rifle used by the special operations units of the Russian military and other law enforcement agencies. This specific version seems to be a custom-built version chambered in 9x39. The AK-12 is part of the Ratnik equipment kit. Manufactured by Mechanic.",
+            "PrefabPath": "assets/content/weapons/ak12/weapon_izhmash_ak12_545x39_container.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68291dcbc8bb6e883871070f": {
+        "en": {
+            "Name": "Kalashnikov AK-15 7.62x39 assault rifle",
+            "ShortName": "AK-15",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "The AK-15 is an assault rifle used by the special operations units of the Russian military and other law enforcement agencies. This specific version is chambered in 7.62x39. The AK-15 is part of the Ratnik equipment kit.",
+            "PrefabPath": "assets/content/weapons/ak12/weapon_izhmash_ak12_545x39_container.bundle",
+            "TraderId": "PRAPOR"
+        }
+    },
+    "682905e1c929663383729e1f": {
+        "en": {
+            "Name": "Kalashnikov AK-19 5.56x45 assault rifle",
+            "ShortName": "AK-19",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "The AK-19 is an assault rifle used by the special operations units of the Russian military and other law enforcement agencies. The AK-19 is part of the Ratnik equipment kit.",
+            "PrefabPath": "assets/content/weapons/ak12/weapon_izhmash_ak12_545x39_container.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "682912faa514fff2d8f72838": {
+        "en": {
+            "Name": "Kalashnikov AK-19-1 .300 Blackout assault rifle",
+            "ShortName": "AK-19-1",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "The AK-19-1 is an assault rifle used by the special operations units of the Russian military and other law enforcement agencies.The AK-19-1 Variant is chambered in .300 Blackout. The AK-19-1 is part of the Ratnik equipment kit.",
+            "PrefabPath": "assets/content/weapons/ak12/weapon_izhmash_ak12_545x39_container.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "682f527ae74a24cfa1d3f5c5": {
+        "en": {
+            "Name": "Riley Defense RAK74-P semi-automatic rifle",
+            "ShortName": "RAK74-P",
+            "ParentID": "ASSAULT_CARBINE",
+            "Type": "ASSAULT_CARBINE",
+            "Description": "An American-Produced civilian variant of the AK-74-series of rifle, likely imported by a USEC PMC. This rifle is limited to semi-automatic only due to it's nature as a civilian rifle. Manufactured by Riley Defense.",
+            "PrefabPath": "assets/content/weapons/ak74/weapon_izhmash_ak74_545x39_container.bundle",
+            "TraderId": "PRAPOR"
+        }
+    },
+    "6877c5b45aa830fbbd30287d": {
+        "en": {
+            "Name": "Glock 41 45ACP pistol",
+            "ShortName": "Glock 41",
+            "ParentID": "5447b5cf4bdc2d65278b4567",
+            "Type": "HANDGUN",
+            "Description": "Glock 41 is an Austrian pistol designed by Glock company for the Austrian army purposes. Thanks to both its impressive combat characteristics and reliablity it gained wide recognition and popularity as a police, shooting sports and civilian self-defense weapon.",
+            "PrefabPath": "assets/content/weapons/glock17/weapon_glock_glock_17_gen3_9x19_container.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6877ca805df68471d242e39c": {
+        "en": {
+            "Name": "Glock 21 45ACP Barrel",
+            "ShortName": "G21 Barrel",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A standard barrel for the Glock 21 45acp pistol.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_glock_glock_114mm_9x19_std.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6877cbd051bbc7ad6b75cfc0": {
+        "en": {
+            "Name": "Glock 21 45ACP Threaded Barrel",
+            "ShortName": "G21 Thread",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A Threaded barrel for the Glock 21 45acp pistol.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_glock_alpha_wolf_114mm_threaded_9x19.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6877cb6f91986cdeb43d6b8d": {
+        "en": {
+            "Name": "Glock 21 45ACP Compensated Barrel",
+            "ShortName": "G12 Comp",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A Compensated barrel for the Glock 21 45acp pistol.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_glock_glock_114mm_9x19_compensated.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68324e7849e4f772900f58e8": {
+        "en": {
+            "Name": "Remington Model 700 6.5x48 bolt-action sniper rifle",
+            "ShortName": "M700 6.5CM",
+            "ParentID": "SNIPER_RIFLE",
+            "Type": "SNIPER_RIFLE",
+            "Description": "The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. This specific model is chambered to fire the 6.5x48mm Creedmoor round.",
+            "PrefabPath": "assets/content/weapons/m700/weapon_remington_model_700_762x51_container.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "68324f0538b6ba82bdce2bf2": {
+        "en": {
+            "Name": "M700 6.5x48mm 20 inch stainless steel threaded barrel",
+            "ShortName": "M700 20\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 20 inch (508mm) long stainless steel threaded barrel for the Remington Model 700 sniper rifle chambered in 6.5x48mm Creedmoor ammo.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_m700_remington_heavy_5_r_stainless_threaded_508mm.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "68324f72e465bb18760c71d6": {
+        "en": {
+            "Name": "M700 6.5x48mm 26 inch barrel",
+            "ShortName": "M700 26\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 26 inch (508mm) long barrel for the Remington Model 700 sniper rifle chambered in 6.5x48mm Creedmoor ammo.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_m700_remington_heavy_660mm.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "68324f83171416242d1a0ac1": {
+        "en": {
+            "Name": "M700 6.5x48mm 20 inch threaded barrel",
+            "ShortName": "M700 20\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 20 inch (508mm) long threaded barrel for the Remington Model 700 sniper rifle chambered in 6.5x48mm Creedmoor ammo.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_m700_remington_heavy_threaded_508mm.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "68324f9ec1bdc884028b3490": {
+        "en": {
+            "Name": "M700 6.5x48mm 26 inch stainless steel barrel",
+            "ShortName": "M700 26\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 26 inch (508mm) long stainless steel barrel for the Remington Model 700 sniper rifle chambered in 6.5x48mm Creedmoor ammo.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_m700_shilen_stainless_660mm.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683df636e1e3fa1bf165f7ed": {
+        "en": {
+            "Name": "SIG MCX Multicaliber assault rifle",
+            "ShortName": "MCX",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "The 5.56/.300BLK MCX line, designed and manufactured by SIG Sauer, is available in both semi-automatic and automatic versions and features a short-stroke gas piston system, which is inherited from the earlier SIG MPX submachine gun. The .300 Blackout ammo and the MCX are compatible with all AR-15 magazines.",
+            "PrefabPath": "assets/content/weapons/mcx/weapon_sig_mcx_gen1_762x35_container.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "68814661d46adeabb1fd34e4": {
+        "en": {
+            "Name": "Echoes Defense Mosin Nagant Club Stock",
+            "ShortName": "Club",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A stock manufactured in 1984 by Echoes Defense. Heavy",
+            "Weight": 1.95,
+            "PrefabPath": "Mosin/mosin_stock_1.bundle"
+        }
+    },
+    "688147178f10f169ad284c59": {
+        "en": {
+            "Name": "Echoes Defense Precision Stock",
+            "ShortName": "Precision",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A Stock manufactured by Echoes Defense with the design requests of John Tarkovic.",
+            "Weight": 1.65,
+            "PrefabPath": "Mosin/mosin_stock_2.bundle"
+        }
+    },
+    "6881470e381d0bec3a5c1634": {
+        "en": {
+            "Name": "Echoes Defense \"Steampunk\" Stock",
+            "ShortName": "Steampunk",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A Stock manufactured by Echoes Defense for the Mosin Nagant",
+            "Weight": 1.15,
+            "PrefabPath": "Mosin/mosin_stock_3.bundle"
+        }
+    },
+    "68814705330d386beedb261a": {
+        "en": {
+            "Name": "Echoes Defense \"Lone Rider\" Stock",
+            "ShortName": "Lone Rider",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A Stock manufactured by Echoes Defense with the design requests of Rhedd.",
+            "Weight": 1.6,
+            "PrefabPath": "Mosin/mosin_stock_4.bundle"
+        }
+    },
+    "688146faa1fe329f3764fc42": {
+        "en": {
+            "Name": "Echoes Defense \"EBlock\" Stock",
+            "ShortName": "EBlock",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A Stock manufactured by Echoes Defense for the Mosin Nagant",
+            "Weight": 1.8,
+            "PrefabPath": "Mosin/mosin_stock_5.bundle"
+        }
+    },
+    "688146f0804ed8230483b927": {
+        "en": {
+            "Name": "Echoes Defense Mosin Nagant Stock",
+            "ShortName": "Mosin",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A Stock manufactured by Echoes Defense for the Mosin Nagant",
+            "PrefabPath": "Mosin/mosin_stock_6.bundle"
+        }
+    },
+    "6881476e0b6753add5380b28": {
+        "en": {
+            "Name": "Echoes Defense \"Needle\" Front End Assembly",
+            "ShortName": "Needle",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant",
+            "Weight": 1.7,
+            "PrefabPath": "Mosin/mosin_barrel_1.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "688148131b0b0fa0b7898762": {
+        "en": {
+            "Name": "Echoes Defense \"Peg Leg\" Front End Asssembly",
+            "ShortName": "Peg Leg",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant",
+            "Weight": 1.05,
+            "PrefabPath": "Mosin/mosin_barrel_2.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68814800f91cd99eba93b68a": {
+        "en": {
+            "Name": "Echoes Defense Mosin Nagant Front End Assembly",
+            "ShortName": "Mosin",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant",
+            "PrefabPath": "Mosin/mosin_barrel_3.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "688147ee0bb9506a7b837b1b": {
+        "en": {
+            "Name": "Echoes Defense \"Steampunk\" Front End Assembly",
+            "ShortName": "Steampunk",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant",
+            "Weight": 1.8,
+            "PrefabPath": "Mosin/mosin_barrel_4.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "688147da863e8a2ded50343c": {
+        "en": {
+            "Name": "Echoes Defense Hull Front End Assembly",
+            "ShortName": "Hull",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Echoes Defense Unique concept, Front End Assembly, for the Mosin Nagant",
+            "Weight": 2.15,
+            "PrefabPath": "Mosin/mosin_barrel_5.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68814881374149d69521a06c": {
+        "en": {
+            "Name": "Echoes Defense 10 round Mosin Nagant Magazine",
+            "ShortName": "Echoes",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "a 10 round detachable magazine for the Mosin Nagant.",
+            "PrefabPath": "Mosin/mosin_mag_1.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "688148c8b3c62ac647fa167f": {
+        "en": {
+            "Name": "Echoes Defense 20 round Mosin Nagant Magazine",
+            "ShortName": "Echoes",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "a 20 round detachable magazine for the Mosin Nagant.",
+            "PrefabPath": "Mosin/mosin_mag_2.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6881497a58d2d3fa97aa6f3d": {
+        "en": {
+            "Name": "Echoes Defense Crescent Rear Iron Sight",
+            "ShortName": "Crescent",
+            "ParentID": "55818ac54bdc2d5b648b456e",
+            "Type": "55818ac54bdc2d5b648b456e",
+            "Description": "A rear iron sight for the Mosin Nagant. Manufactured by Echoes Defense",
+            "PrefabPath": "Mosin/mosin_irons_1.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6881499888decf78e3f59ca7": {
+        "en": {
+            "Name": "Echoes Defense Blood Moon Rear Iron Sight",
+            "ShortName": "Blood",
+            "ParentID": "55818ac54bdc2d5b648b456e",
+            "Type": "55818ac54bdc2d5b648b456e",
+            "Description": "A rear iron sight for the Mosin Nagant. Manufactured by Echoes Defense",
+            "PrefabPath": "Mosin/mosin_irons_2.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "68814985f041a9d5029b5409": {
+        "en": {
+            "Name": "Echoes Defense Castle Rear Iron Sight",
+            "ShortName": "Castle",
+            "ParentID": "55818ac54bdc2d5b648b456e",
+            "Type": "55818ac54bdc2d5b648b456e",
+            "Description": "A rear iron sight for the Mosin Nagant. Manufactured by Echoes Defense",
+            "PrefabPath": "Mosin/mosin_irons_3.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6851b6e2af2384018031916b": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 pistol",
+            "ShortName": "P320",
+            "ParentID": "5447b5cf4bdc2d65278b4567",
+            "Type": "HANDGUN",
+            "Description": "The Sig Sauer P320 is a modular, striker-fired semi-automatic pistol known for its versatility and accuracy. It's modular design and durable construction lead to its adoption by the U.S. military and various law enforcement and military agencies globally. Manufactured by SIG Sauer.",
+            "PrefabPath": "WeaponP320/sigp320.bundle"
+        }
+    },
+    "6851b7eaae4e0776eacd8f0c": {
+        "en": {
+            "Name": "SIG Sauer SIG Sauer P320 9x19 3.9 inch barrel",
+            "ShortName": "P320 3.9\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations.",
+            "PrefabPath": "WeaponP320/barrel_39.bundle"
+        }
+    },
+    "6851b81c8af065063baef9e7": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 4.7 inch barrel",
+            "ShortName": "P320 4.7\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations.",
+            "PrefabPath": "WeaponP320/barrel_47.bundle"
+        }
+    },
+    "685417290f365b87aefc636f": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.6 inch barrel",
+            "ShortName": "P320 3.6\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations.",
+            "PrefabPath": "WeaponP320/barrel_36.bundle"
+        }
+    },
+    "6851b81a022c968c773eb317": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.9 inch barrel with PMM Duty compensator (Black)",
+            "ShortName": "PMM 3.9\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations.",
+            "PrefabPath": "WeaponP320/comp_39_delta_blk.bundle"
+        }
+    },
+    "68541753c2fb38f2aebaab59": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.6 inch barrel with PMM Micro compensator (Black)",
+            "ShortName": "PMM 3.6\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations.",
+            "PrefabPath": "WeaponP320/comp_36_micro_blk.bundle"
+        }
+    },
+    "6851b9742c25a4ca59b66f56": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.9 inch barrel with PMM Ultra compensator (Black)",
+            "ShortName": "PMM 3.9\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations.",
+            "PrefabPath": "WeaponP320/comp_39_ultra_blk.bundle"
+        }
+    },
+    "6851b93d2a9eb74a5848c75f": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 4.7 inch barrel with PMM Micro compensator (Black)",
+            "ShortName": "PM 4.7\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations.",
+            "PrefabPath": "WeaponP320/comp_47_micro.bundle"
+        }
+    },
+    "6851b9fbf52bb35b3dd1b141": {
+        "en": {
+            "Name": "SIG Sauer P320 3.6 inch pistol slide (Black)",
+            "ShortName": "Compact 3.6\"",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions.",
+            "PrefabPath": "WeaponP320/slide_36_blk.bundle"
+        }
+    },
+    "6851ba413a4b2ace19713b82": {
+        "en": {
+            "Name": "SIG Sauer P320 3.6 inch pistol slide (Burnt Bronze)",
+            "ShortName": "Compact 3.6\"",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions. Burnt Bronze Version.",
+            "PrefabPath": "WeaponP320/slide_36_fde.bundle"
+        }
+    },
+    "6851ba48142a766a3ddbf068": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch pistol slide (Black)",
+            "ShortName": "Sub-Compact 3.9\"",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions.",
+            "PrefabPath": "WeaponP320/slide_39_blk.bundle"
+        }
+    },
+    "6851ba58e3df25a92eb1f1e7": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch pistol slide (Burnt Bronze)",
+            "ShortName": "Sub-Compact 3.9\"",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions. Burnt Bronze version.",
+            "PrefabPath": "WeaponP320/slide_39_fde.bundle"
+        }
+    },
+    "6851ba63dde19f7ba9376418": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch pistol slide (Black)",
+            "ShortName": "Std. 4.7\"",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions.",
+            "PrefabPath": "WeaponP320/slide_47_blk.bundle"
+        }
+    },
+    "6851ba70c4ecd7d4866368f1": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch pistol slide (Burnt Bronze)",
+            "ShortName": "Std. 4.7\"",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions. Burnt Bronze version.",
+            "PrefabPath": "WeaponP320/slide_47_fde.bundle"
+        }
+    },
+    "6851bad98f3bd02ba613fd8a": {
+        "en": {
+            "Name": "SIG Sauer P320 standard trigger",
+            "ShortName": "P320 trig.",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Trigger unit tailored for consistent striker-fired operation.",
+            "PrefabPath": "WeaponP320/trigger.bundle"
+        }
+    },
+    "6851bb61df6b0ce4f48bc269": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 17-round magazine (Black)",
+            "ShortName": "P320",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "Standard-issue steel magazine for the SIG P320 chambered in 9x19mm. Holds 17 rounds with a reliable feed spring and polymer baseplate.",
+            "PrefabPath": "WeaponP320/mag_std.bundle"
+        }
+    },
+    "6851bbdb62458162cb7c6cb1": {
+        "en": {
+            "Name": "SIG Sauer P320 standard rear sight",
+            "ShortName": "STD RS",
+            "ParentID": "55818ac54bdc2d5b648b456e",
+            "Type": "55818ac54bdc2d5b648b456e",
+            "Description": "Factory-standard rear sight for the SIG P320 series. Steel construction with a clean, low-profile notch design for fast sight alignment and target acquisition.",
+            "PrefabPath": "WeaponP320/sight_rear.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6851bcaf86f5053e58873942": {
+        "en": {
+            "Name": "SIG Sauer P320 standard front sight",
+            "ShortName": "STD FS",
+            "ParentID": "55818ac54bdc2d5b648b456e",
+            "Type": "55818ac54bdc2d5b648b456e",
+            "Description": "Factory front sight for the SIG P320, featuring a steel post with a high-visibility dot for quick target acquisition.",
+            "PrefabPath": "WeaponP320/sight_front.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6851bd3f607f3681aabf337d": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch frame (Black)",
+            "ShortName": "P320 4.7\"",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "Full-size polymer grip module for the SIG P320, built to house the 4.7 inch slide and barrel. Features an ergonomic design with aggressive texturing for enhanced control under recoil. Flat Dark Earth version.",
+            "Weight": 0.113,
+            "PrefabPath": "WeaponP320/frame_47_blk.bundle"
+        }
+    },
+    "6851bd9eaf266d68a7f46e08": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch frame (FDE)",
+            "ShortName": "P320 4.7\"",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "Full-size polymer grip module for the SIG P320, built to house the 4.7 inch slide and barrel. Features an ergonomic design with aggressive texturing for enhanced control under recoil.",
+            "Weight": 0.113,
+            "PrefabPath": "WeaponP320/frame_47_fde.bundle"
+        }
+    },
+    "6851bd95705951bda42e2ea9": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch frame (Black)",
+            "ShortName": "P320 3.9\"",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "Sub-Compact polymer grip module for the SIG P320, built to house the 3.9 inch slide and barrel. Features an ergonomic design with aggressive texturing for enhanced control under recoil.",
+            "PrefabPath": "WeaponP320/frame_39_blk.bundle"
+        }
+    },
+    "6851bd8a22decaf508db4dd9": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch frame (FDE)",
+            "ShortName": "P320 3.9\"",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "Sub-Compact polymer grip module for the SIG P320, built to house the 3.9 inch slide and barrel. Features an ergonomic design with aggressive texturing for enhanced control under recoil. Flat Dark Earth version.",
+            "PrefabPath": "WeaponP320/frame_39_fde.bundle"
+        }
+    },
+    "684b257022b8260501141308": {
+        "en": {
+            "Name": "Taran Tactical Pit Viper 9x19 pistol",
+            "ShortName": "Pit Viper",
+            "ParentID": "HANDGUN",
+            "Type": "HANDGUN",
+            "Description": "The TTI Pit Viper 9x19 pistol is an american-built high-performance pistol built around speed and precision; it features a 5 inch (127mm) barrel with a built-in compensator for recoil reduction alongside a fast-reset trigger which allows for a higher rate of fire. Manufactured by Taran Tactical Innovations.",
+            "PrefabPath": "WeaponPitViper/weapon_pitviper_container.bundle"
+        }
+    },
+    "684b2662bab8ebd87f683c57": {
+        "en": {
+            "Name": "TTI Pit Viper 9x19mm barrel",
+            "ShortName": "Pit Viper",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A 5 inch 9x19mm barrel with front sight post for the TTI Pit Viper 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/viper_barrel.bundle"
+        }
+    },
+    "684b2623dd333cf908b7c695": {
+        "en": {
+            "Name": "TTI Pit Viper 9x19mm pistol slide",
+            "ShortName": "Pit Viper",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "An optics-ready slide for the TTI Pit Viper 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/viper_slide.bundle"
+        }
+    },
+    "684b262a5aa7a321ae3a7b5b": {
+        "en": {
+            "Name": "TTI Pit Viper hammer",
+            "ShortName": "Pit Viper",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "A lightweight hammer for the TTI Pit Viper 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/viper_hammer.bundle"
+        }
+    },
+    "684b2626a61732cce6be2fdc": {
+        "en": {
+            "Name": "TTI Viper 2011-style lightweight trigger",
+            "ShortName": "2011",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "Standard lightweight trigger for the TTI Pit Viper 9x19mm handgun.",
+            "PrefabPath": "WeaponPitViper/viper_trigger.bundle"
+        }
+    },
+    "684b261ee900b79b5be17c74": {
+        "en": {
+            "Name": "TTI Pit Viper 21-round 9x19mm magazine",
+            "ShortName": "Pit Viper",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "Standard 21-round magazine for the TTI Pit Viper 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/viper_magazine.bundle"
+        }
+    },
+    "684b271ce72d12cf50b2a0dd": {
+        "en": {
+            "Name": "TTI Pit Viper rear sight",
+            "ShortName": "Pit Viper RS",
+            "ParentID": "55818ac54bdc2d5b648b456e",
+            "Type": "55818ac54bdc2d5b648b456e",
+            "Description": "Standard TTI Pit Viper rear pistol sight.",
+            "PrefabPath": "WeaponPitViper/viper_rs.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "684c82392d2fcfb8cf184096": {
+        "en": {
+            "Name": "Taran Tactical Sand Viper 9x19 pistol",
+            "ShortName": "Sand Viper",
+            "ParentID": "HANDGUN",
+            "Type": "HANDGUN",
+            "Description": "The TTI Sand Viper 9x19 pistol is an american-built high-performance pistol built around speed and precision; it features a 5 inch (127mm) barrel with a built-in compensator for recoil reduction alongside a fast-reset trigger which allows for a higher rate of fire. Manufactured by Taran Tactical Innovations.",
+            "PrefabPath": "WeaponPitViper/weapon_sandviper_container.bundle"
+        }
+    },
+    "684c83519d828b835e4de523": {
+        "en": {
+            "Name": "TTI Viper 2011-series 9x19 barrel (Black)",
+            "ShortName": "2011",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A 5 inch 9x19mm barrel with front sight post for the TTI Viper 2011-series 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/barrel_sandviper.bundle"
+        }
+    },
+    "684c833b3bdccfaa40d0a6dd": {
+        "en": {
+            "Name": "TTI Sand Viper 9x19mm pistol slide",
+            "ShortName": "Sand Viper",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "An optics-ready slide for the TTI Sand Viper 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/sandviper_slide.bundle"
+        }
+    },
+    "684c8311b6f88a4f907a56da": {
+        "en": {
+            "Name": "TTI Viper 2011-series hammer (Black)",
+            "ShortName": "2011",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "A lightweight hammer for the TTI Viper-series 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/sandviper_hammer.bundle"
+        }
+    },
+    "684c82e76dabc752e00593bb": {
+        "en": {
+            "Name": "TTI Viper 2011-style lightweight trigger (Black)",
+            "ShortName": "2011",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "Standard lightweight trigger for the TTI Pit Viper 9x19mm handgun.",
+            "PrefabPath": "WeaponPitViper/sandviper_trigger.bundle"
+        }
+    },
+    "684c82b542181ad26bb14ba7": {
+        "en": {
+            "Name": "TTI Sand Viper 21-round 9x19mm magazine",
+            "ShortName": "Sand Viper",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "Standard 21-round magazine for the TTI Viper-series 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/sandviper_mag.bundle"
+        }
+    },
+    "684e0b554db15cdca601b0eb": {
+        "en": {
+            "Name": "Taran Tactical Pit Viper 9x19 pistol (Black)",
+            "ShortName": "Pit Viper",
+            "ParentID": "HANDGUN",
+            "Type": "HANDGUN",
+            "Description": "The TTI Pit Viper 9x19 pistol is an american-built high-performance pistol built around speed and precision; it features a 5 inch (127mm) barrel with a built-in compensator for recoil reduction alongside a fast-reset trigger which allows for a higher rate of fire. Manufactured by Taran Tactical Innovations.",
+            "PrefabPath": "WeaponPitViper/weapon_blackviper_container.bundle"
+        }
+    },
+    "684e0c09f79c6ec37bba1cca": {
+        "en": {
+            "Name": "TTI Pit Viper 21-round 9x19mm magazine (Black)",
+            "ShortName": "Pit Viper",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "Standard 21-round magazine for the TTI Viper-series 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/blackviper_mag.bundle"
+        }
+    },
+    "684e0bef63b548c92ff2e134": {
+        "en": {
+            "Name": "TTI Pit Viper 9x19mm pistol slide (Black)",
+            "ShortName": "Pit Viper",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "An optics-ready slide for the TTI Pit Viper 9x19mm pistol.",
+            "PrefabPath": "WeaponPitViper/blackviper_slide.bundle"
+        }
+    },
+    "682a97a707ec1d7ca369afc4": {
+        "en": {
+            "Name": "FN SCAR-L MK2 .300 Blackout assault rifle",
+            "ShortName": "SCAR-L",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "The FN SCAR-L (Special Operations Forces Combat Assault Rifle - Light) assault rifle chambered in 5.56x45 NATO rounds, was adopted by the US SOCOM as the Mk 16. Features a side-folding polymer stock and a free-floating, cold hammer-forged Mil-Spec barrel with hardchromed bore. Fully-ambidextrous operating controls instantly adapt the SCAR to any user or any shooting position. The receiver-integrated optical rail plus three accessory rails enable mounting of a wide variety of scopes, electronic sights, tactical lights and lasers. Manufactured by Fabrique Nationale Herstal.",
+            "PrefabPath": "assets/content/weapons/scar/weapon_fn_mk16_556x45_container.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "682b26375d8f048fff0b6aab": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout 10 inch barrel",
+            "ShortName": "MK.2 10\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 10 inches long (254mm) CQB barrel for the SCAR-series weapons chambered in .300 Blackout ammo.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_mk16_fn_254mm_556x45.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "682b2d48d13aded50d00dd7e": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout 14 inch barrel",
+            "ShortName": "MK.2 14\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 14 inches long (355mm) STD barrel for the SCAR-series weapons chambered in .300 Blackout ammo.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_mk16_fn_355mm_556x45.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "682b2e33350460eec842c33f": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout 18 inch barrel",
+            "ShortName": "MK.2 18\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 18 inches long (456mm) LB barrel for the SCAR-series weapons chambered in .300 Blackout ammo.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_mk16_fn_457mm_556x45.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "682b2a1b3326cca5a1ced18d": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout upper receiver",
+            "ShortName": "MK.2",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "An upper receiver for the SCAR-L assault rifle, manufactured by Fabrique Nationale Herstal. Features a top rail for installation of additional equipment.",
+            "PrefabPath": "assets/content/items/mods/recievers/reciever_mk16_fn_scar_l_std.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "682a543094114c092df7373e": {
+        "en": {
+            "Name": "Molot Arms VPO-208 .366 TKM carbine",
+            "ShortName": "VPO-208",
+            "ParentID": "ASSAULT_CARBINE",
+            "Type": "ASSAULT_CARBINE",
+            "Description": "The VPO-208 carbine is a .366 TKM conversion of the Simonov SKS intended to fill a gap in the Russian civilian market. Due to the smoothbore barrel and the profile of the round, this gun is legally considered a shotgun in Russia.",
+            "PrefabPath": "assets/content/weapons/sks/weapon_molot_op_sks_762x39_container.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6831efcaf17211a895bbccc4": {
+        "en": {
+            "Name": "Knight's Armament Company SR-25 E2 PR 6.5x48 assault rifle",
+            "ShortName": "SR-25",
+            "ParentID": "5447b6194bdc2d67278b4567",
+            "Type": "5447b6194bdc2d67278b4567",
+            "Description": "The SR-25 Precision Rifle is the latest evolution of the precision 7.62mm NATO semi-automatic rifle. An ambidextrous bolt release, selector, and magazine release offers the left-handed user the ergonomic advantages inherent to AR-15 based controls, as well as giving right-handed users alternate methods of manipulation to increase efficiency of movement. The Drop-In 2-Stage Trigger serves as an aid to long range precision marksmanship. The E2 bolt and gas system provides superior reliability in function whether suppressed or unsuppressed.",
+            "Weight": 0.54,
+            "PrefabPath": "assets/content/weapons/sr25/weapon_kac_sr25_762x51_container.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683d23831960b7bac66f4f05": {
+        "en": {
+            "Name": "Echoes Defense SR-8.6 8.6 Blackout assault rifle",
+            "ShortName": "SR-8.6",
+            "ParentID": "5447b6194bdc2d67278b4567",
+            "Type": "5447b6194bdc2d67278b4567",
+            "Description": "The SR-8.6 Precision Rifle is the latest evolution of the precision semi-automatic rifle. An ambidextrous bolt release, selector, and magazine release offers the left-handed user the ergonomic advantages inherent to AR-15 based controls, as well as giving right-handed users alternate methods of manipulation to increase efficiency of movement. The Drop-In 2-Stage Trigger serves as an aid to long range precision marksmanship. The E2 bolt and gas system provides superior reliability in function whether suppressed or unsuppressed. Chambered in 8.6 Blackout.",
+            "Weight": 0.54,
+            "PrefabPath": "assets/content/weapons/sr25/weapon_kac_sr25_762x51_container.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "67b05e25d83f07b7b587c0b5": {
+        "en": {
+            "Name": "HK UMP 9x19 submachine gun",
+            "ShortName": "UMP9",
+            "ParentID": "5447b5e04bdc2d62278b4567",
+            "Type": "5447b5e04bdc2d62278b4567",
+            "Description": "The Heckler & Koch UMP submachine gun was designed by German company Heckler & Koch in the 1990s as a lighter and cheaper analog of the MP5. This version is designed to fire a 9x19mm cartridge.",
+            "Weight": 0.48,
+            "PrefabPath": "WeaponUMP9/ump9_container.bundle"
+        }
+    },
+    "67b05e48729b9634d308785b": {
+        "en": {
+            "Name": "HK UMP 9 9x19mm 30-round magazine",
+            "ShortName": "UMP 9",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "30-round 9x19mm magazine for UMP 9.",
+            "PrefabPath": "WeaponUMP9/ump9_mag.bundle"
+        }
+    },
+    "67b103c4de263ed687dc57df": {
+        "en": {
+            "Name": "HK UMP 9 9x19mm 20-round magazine",
+            "ShortName": "UMP 9",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "20-round 9x19mm magazine for UMP 9.",
+            "PrefabPath": "WeaponUMP9/ump9_magazine_20.bundle"
+        }
+    },
+    "67b103d5de03be3c18660473": {
+        "en": {
+            "Name": "HK UMP 9 9x19mm 42-round magazine",
+            "ShortName": "UMP 9",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "42-round 9x19mm magazine for UMP 9.",
+            "PrefabPath": "WeaponUMP9/ump9_magazine_40.bundle"
+        }
+    },
+    "67b177a799cc45072ce66e17": {
+        "en": {
+            "Name": "HK UMP 9x19mm 8 inch threaded barrel",
+            "ShortName": "UMP-9 8\" thr.",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A threaded barrel for the HK UMP submachine gun, chambered in 9x19mm Parabellum ammo, 8 inches (203mm) long.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_ump_203mm_threaded_1143x23.bundle"
+        }
+    },
+    "67b177b22bb79fe63fea01d8": {
+        "en": {
+            "Name": "HK UMP 9x19mm 8 inch barrel",
+            "ShortName": "UMP-9 8\"",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A barrel for the HK UMP submachine gun, chambered in 9x19mm Parabellum ammo, 8 inches (200mm) long.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_ump_200mm_1143x23.bundle"
+        }
+    },
+    "683e1e4fb9312d2a544b2834": {
+        "en": {
+            "Name": "Aklys Defense Velociraptor 7.62x39 assault rifle",
+            "ShortName": "Velociraptor 7.62",
+            "ParentID": "ASSAULT_RIFLE",
+            "Type": "ASSAULT_RIFLE",
+            "Description": "A special modification based on the AK assault rifle chambered in 7.62x39mm, manufactured by Aklys Defense. It replaces the standard barrel assembly with a modified integrally suppressed barrel, which allowed to achieve a significantly reduced sound signature.",
+            "PrefabPath": "assets/content/weapons/velociraptor/weapon_aklys_defense_velociraptor_762x35_container.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "684489fe2cc79fb0b0fd98af": {
+        "en": {
+            "Name": "M16A1 5.56x45 upper reciever",
+            "ShortName": "M16A1",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Upper reciever for AR-15 pattern rifles styled after the M16A1 series of upper recievers. Equipped with a built-in carryhandle for ease of transportation.",
+            "PrefabPath": "Attachments/Receivers/reciever_ar15_m16a1.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "684488b1c9ead5b831d49ac8": {
+        "en": {
+            "Name": "M16A2 5.56x45 upper reciever",
+            "ShortName": "M16A2",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "Upper reciever for AR-15 pattern rifles styled after the M16A2 series of upper recievers. Equipped with a built-in carryhandle for ease of transportation.",
+            "PrefabPath": "Attachments/Receivers/reciever_ar15_m16a2.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6838e20d9d86f2aa3a05fc37": {
+        "en": {
+            "Name": "Echoes Defense M45A1 custom pistol slide with ACRO mount",
+            "ShortName": "M45A1 ACRO",
+            "ParentID": "RECEIVER",
+            "Type": "RECEIVER",
+            "Description": "A custom-made M45A1 slide routed to fit an Aimpoint ACRO plate mount. Manufactured by Echoes Defense.",
+            "PrefabPath": "Attachments/Receivers/reciever_m45a1_acro.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6837aa4c2491fc57390a6cc4": {
+        "en": {
+            "Name": "M1911A1 pistol slide with RMR mount",
+            "ShortName": "1911 RMR",
+            "ParentID": "RECEIVER",
+            "Type": "RECEIVER",
+            "Description": "A standard-issue slide for the M1911A1 pistol, modified to accept an RMR pistol optic. Manufactured by Colt.",
+            "Weight": 0.38,
+            "PrefabPath": "Attachments/Receivers/rmr_1911.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68876b14f7c109ba48f1d913": {
+        "en": {
+            "Name": "FN Five-seveN MK2 pistol slide (FDE)",
+            "ShortName": "5-7",
+            "ParentID": "55818a304bdc2db5418b457d",
+            "Type": "RECEIVER",
+            "Description": "A FDE slide for the Five-seveN MK2 pistol, manufactured by Fabrique Nationale Herstal.",
+            "PrefabPath": "Attachments/Receivers/reciever_57_fn_five_seven_cover_std_fde.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "682a687311702a43c945c16b": {
+        "en": {
+            "Name": "VPO-208 .366 TKM 520mm smoothbore barrel",
+            "ShortName": "VPO 208 520mm",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A standard-issue 520mm barrel for the VPO-208 carbine. Manufactured by Molot Arms.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_sks_molot_520mm_762x39.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "683b8b1c34db67335d606cde": {
+        "en": {
+            "Name": "AR-15 5.56x45 7.5 inch barrel",
+            "ShortName": "AR-15 7.5\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A  7.5 inch (190.5mm) barrel for AR-15 based weapons for 5.56x45 NATO ammo.",
+            "Weight": 0.383,
+            "PrefabPath": "Attachments/Barrels/barrel_ar15_7.5inch.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68396f06a46bcb7eff21b8b9": {
+        "en": {
+            "Name": "MCX .300 BLK 16 inch barrel",
+            "ShortName": "MCX 16\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 16 inch (406mm) barrel for MCX-based weapons, chambered in .300 BLK.",
+            "Weight": 0.853,
+            "PrefabPath": "Attachments/Barrels/barrel_mcx_406mm_762x35.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "683dfa33e56f6b8928521a6b": {
+        "en": {
+            "Name": "MCX 5.56x45 16 inch barrel",
+            "ShortName": "MCX 5.56 16\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 16 inch (406mm) barrel for MCX-based weapons, chambered in 5.56x45.",
+            "Weight": 0.853,
+            "PrefabPath": "Attachments/Barrels/barrel_mcx_406mm_762x35.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "683dfe5498130dba46752d1c": {
+        "en": {
+            "Name": "MCX 5.56x45 9 inch barrel",
+            "ShortName": "MCX 5.56 9\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 9 inch (229mm) barrel for MCX-based weapons, chambered in 5.56x45.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_mcx_229mm_762x35.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "683dfeaeff18ffe3496e1a9b": {
+        "en": {
+            "Name": "MCX 5.56x45 6.75 inch barrel",
+            "ShortName": "MCX 5.56 6.75\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A 6.75 inch (171mm) barrel for MCX-based weapons, chambered in 5.56x45.",
+            "PrefabPath": "assets/content/items/mods/barrels/barrel_mcx_171mm_762x35.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "684b8286dde6947266032faa": {
+        "en": {
+            "Name": "AR-15 M16-series 5.56x45 20 inch rifle length barrel",
+            "ShortName": "M16 20\"",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A barrel for AR-15 based weapons for 5.56x45 NATO ammo, 20 inches long.",
+            "PrefabPath": "Attachments/Barrels/barrel_m16_full.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "687159e9b65803e26805d752": {
+        "en": {
+            "Name": "AR-15 M16-series 5.56x45 Dissapator barrel",
+            "ShortName": "Dissapator",
+            "ParentID": "BARREL",
+            "Type": "BARREL",
+            "Description": "A barrel for AR-15 based weapons for 5.56x45 NATO ammo",
+            "PrefabPath": "Attachments/Barrels/barrel_ar15_diss.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "687527737814532e07abe6d5": {
+        "en": {
+            "Name": "Mk-18 .338 LM \"ThunderLite\" barrel",
+            "ShortName": "Thunderlite",
+            "ParentID": "555ef6e44bdc2de9068b457e",
+            "Type": "BARREL",
+            "Description": "A Lite for Mk-18 .338 LM sniper rifle, manufactured by Echoes Defense",
+            "Weight": 1.0,
+            "PrefabPath": "Attachments/Barrels/mk18_carbine_barrel.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68254a77a7fcfa4007cc5250": {
+        "en": {
+            "Name": "DS ARMS RPD metal handguard",
+            "ShortName": "DSA RPD",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A Metal Handguard offering a modernised attachment system for the RPD and RPDN. Manufactured by DS Arms.",
+            "PrefabPath": "Attachments/dsarmshg.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6744ce7b3e21501218ed77df": {
+        "en": {
+            "Name": "AR-15 JSOC Delta Force free-floating handguard",
+            "ShortName": "JSOC",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "Engineered for elite Delta Force operatives, the Delta Tactical Free-Float Handguard is a robust and lightweight addition to any rifle setup. Designed for missions in rugged terrains like Bosnia, its matte black finish offers superior durability and low-light concealment. This handguard provides exceptional modularity, with multiple attachment points for tactical accessories, ensuring adaptability in high-stakes operations. Its precision-machined free-float design enhances accuracy while maintaining reliability in the harshest conditions, making it the trusted choice for covert and specialized missions.",
+            "Weight": 0.43,
+            "PrefabPath": "Attachments/jsoc.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68376430e87603a6a5237129": {
+        "en": {
+            "Name": "AR-15 Colt M4 Carbine Length FSB lower handguard",
+            "ShortName": "FSB",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A carbine length lower handguard part manufactured by Colt, a standard-issue handguard for the M4A1 assault rifles. Modified to accept a vintage Super QXL Diving flashlight.",
+            "Weight": 0.09,
+            "PrefabPath": "Attachments/Handguards/handguard_fsb_clam_lower.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683bc86a38cff254bc388eb7": {
+        "en": {
+            "Name": "Velociraptor polymer handguard with M-LOK rail",
+            "ShortName": "Vel M-LOK",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A polymer handguard for the Velociraptor assault rifle. A modified version of the Tapco AK handguard based on the Galil AR handguard, designed to be installed over the suppressor shroud, preventing possible injury to the shooter's hands during firing. Modified with a 2.5 inch M-LOK rail to accept foregrips.",
+            "PrefabPath": "Attachments/Handguards/handguard_velociraptor_railed.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683c5c81a9078ec8bb7cbfc0": {
+        "en": {
+            "Name": "SA58/FAL Belgian Style Wooden 3-hole handguard",
+            "ShortName": "FAL WOOD",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The Belgian variant handguard for FAL rifles manufactured by DS Arms.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_l1a1_wood.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efa184b18a7908c86ed28": {
+        "en": {
+            "Name": "AR-15 Echoes Defense \"Kat Skratch\" 4 inch handguard",
+            "ShortName": "\"Kat Skratch\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "Compact and mean, the Kat Skratch delivers no-nonsense grip and rail space in a lightweight, minimalist package. Its aggressive slash-cut vents give it a distinctive look and enhanced cooling for rapid-fire runs.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_kittykat_picc.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efaf9331c7a5ce371647e": {
+        "en": {
+            "Name": "AR-15 DPMS \"Kitty Kat\" 4 inch free-float handguard",
+            "ShortName": "\"Kitty Kat\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A compact 4 inch (102mm) free-float aluminum handguard designed for AR-platform SBRs. Lightweight and durable, it offers improved barrel stability and limited rail space for essential attachments. Favored in close-quarters builds where speed and maneuverability are critical.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_kittykat.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efdcfceb019abc8a0e386": {
+        "en": {
+            "Name": "AR-15 Daniel Defense RIS II 12.25 handguard (Black)",
+            "ShortName": "RIS II 12.25\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The Daniel Defense Rail Interface System (RIS II) was designed at the request of the United States Special Operations Command (SOCOM) for the SOPMOD II program. SOCOM had a specific requirement for a free float M203 solution and Daniel Defense responded, designing a revolutionary product to meet the government’s need. The Daniel Defense RIS II allows the individual operator to free float the M203 grenade launcher without additional parts. As important, special tools are not required to mount the M203 grenade launcher. This was accomplished by integrating all of the needed parts to free float the M203 into the rail itself. The Daniel Defense RIS II is to be used in conjunction with the MK12 Low Profile Gas Block.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_dd_ris_iii_blk.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efdc53116a4b8bbbe6a73": {
+        "en": {
+            "Name": "AR-15 Precision Reflex GEN III Delta Carbon carbine length handguard",
+            "ShortName": "Delta Carbon",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The GEN III Delta Carbon handguard for AR-15 systems, equipped with a custom interface for the installation of additional devices and accessories. Manufactured by Precision Reflex.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_gen_iii_delta_carbon_fiber_forearm_carbine_length.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efdbae549dfcc0132c41d": {
+        "en": {
+            "Name": "AR-15 Midwest Industries Drop-In Carbine length Handguard",
+            "ShortName": "MI Carbine",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The Midwest Industries Drop-In Carbine Handguard is lightweight, resilient against wear and weather. It has a simple drop-in installation, making it the ideal platform to mount your accessories of choice and support your attack readiness long term.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_kac_short_quad_rail.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efdb7db86d6db51c97819": {
+        "en": {
+            "Name": "AR-15 NcSTAR/VISM 13 inch KeyMod handguard",
+            "ShortName": "VMARKMCE 13\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "This lightweight, drop-in aluminum handguard offers extended rail space for carbine-length AR-15s. It installs easily using the factory delta ring and front cap—no gunsmithing required. Featuring a full-length Picatinny top rail and KeyMod slots on seven sides, it allows versatile accessory mounting. Includes two KeyMod-to-Picatinny rail sections for added flexibility. Durable, anodized finish and solid lock-up make it a reliable upgrade for any MIL-SPEC setup.",
+            "Weight": 0.28,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_keymod_gasblock_cutout.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efdaed6c2ff9b59d1feaa": {
+        "en": {
+            "Name": "AR-15 Midwest Industries AR10 Gen2 rifle length handguard",
+            "ShortName": "AR10-RHG2",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The Midwest Industries AR-10 Gen2 handguard is Rifle Length and made for use on ArmaLite AR-10 rifles. It has a two piece drop-in design with no gunsmithing for installation. This handguard is incredibly lightweight made of 6061 aluminum and has MIL-STD 1913 rails that are T-marked for accessory location.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_long_kac_quad_rail.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6849dafc5c92377eeabaee5e": {
+        "en": {
+            "Name": "AR-15 Model 601/M16A1 12 inch triangular handguard (Wood)",
+            "ShortName": "M16A1 12\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "An Authentic 12 inch (305mm) triangular polymer handguard for rifle-length AR-15s. Features aluminum heat shields and fits standard delta ring setups. Dark Wood version.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_m16a1_wood.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efda465871989f2a4da9a": {
+        "en": {
+            "Name": "AR-15 Model 601/M16A1 12 inch triangular handguard",
+            "ShortName": "M16A1 12\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "An Authentic 12 inch (305mm) triangular polymer handguard for rifle-length AR-15s. Features aluminum heat shields and fits standard delta ring setups.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_m16a1.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efd8691b20f2253241411": {
+        "en": {
+            "Name": "AR-15 A2-style 12 inch polymer handguard",
+            "ShortName": "M16A2 12\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The AR-15 A2 Handguard features a traditional two-piece construction with standard all-black polymer as the key material. This one is likely a reproduction model for the civilian market.",
+            "Weight": 0.215,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_m16a2.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efd7cb750cc7bddbd232f": {
+        "en": {
+            "Name": "AR-15 NcSTAR 13 inch M-LOK handguard",
+            "ShortName": "VMARMLCE 13\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "This lightweight, drop-in aluminum handguard offers extended rail space for carbine-length AR-15s. It installs easily using the factory delta ring and front cap—no gunsmithing required. Featuring a full-length Picatinny top rail and M-LOK slots on seven sides, it allows versatile accessory mounting. Includes several M-LOK mounting rail sections for added flexibility. Durable, anodized finish and solid lock-up make it a reliable upgrade for any MIL-SPEC setup.",
+            "Weight": 0.28,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_mlok_gasblock_cutout.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efd71f59c98d2c4627562": {
+        "en": {
+            "Name": "AR-15 Lancer Tactical modified lightweight 12 inch handguard",
+            "ShortName": "Lancer 12\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "Lightweight 12 inch (266mm) free-float aluminum handguard with full-length Picatinny top rail and M-LOK slots on all sides. Durable, sleek, and perfect for adding optics or accessories to your AR build.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_round_mlok.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efd600f2babf75038dc1c": {
+        "en": {
+            "Name": "AR-15 Echoes Defense \"Resonant\" handguard",
+            "ShortName": "Resonant",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The Resonant Handguard from Echoes Defense is a top-of-the-line quality quad rail handguard",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_slash_quad_rail.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683efd541d3e10a927b1eb47": {
+        "en": {
+            "Name": "AR-15 Wooden 6.6 inch M-LOK handguard",
+            "ShortName": "AR-15 Wood",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A Wooden 6.6 inch handguard featuring 2 side-mounted M-LOK rails for attaching a tactical device such as a flashlight or laser module.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_wood_mlok.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "684b0ebacd8783bec9435103": {
+        "en": {
+            "Name": "AR-15 Colt carbine length triangular handguard",
+            "ShortName": "Tri. Carbine",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "Classic triangular polymer handguard in a shortened, carbine-length profile. Designed for retro-style AR-15 builds, it offers vintage aesthetics with modern durability. Fits standard delta ring setups and includes aluminum heat shields for heat resistance during sustained fire. Manufactured by Colt.",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/m16a1short.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "684c6355888cef0bda78b7ab": {
+        "en": {
+            "Name": "Echoes Defense JSOC Fiberglass 12\" Handguard (Black)",
+            "ShortName": "Fiberglass 12\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A Faithful recreation to the rare Fiberglass handguards used by JSOC",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_black.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "684c62af556049c4354d8472": {
+        "en": {
+            "Name": "Echoes Defense JSOC Fiberglass 12\" Handguard (Olive Drab)",
+            "ShortName": "Fiberglass 12\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A Faithful recreation to the rare Fiberglass handguards used by JSOC",
+            "Weight": 0.63,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_od.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "684c5d9c3df011a53ac540c8": {
+        "en": {
+            "Name": "HK MP5 G3-Style wooden handguard",
+            "ShortName": "MP5/G3",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A wood and metal handguard for the HK-produced MP5 SMGs, based on the wooden furniture used on the HK G3 battle rifles. Manufactured by Heckler & Koch.",
+            "Weight": 0.44,
+            "PrefabPath": "Attachments/Handguards/mp5_wood.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "686ac0a97472b14e08b93fdb": {
+        "en": {
+            "Name": "HK MP5 GSG-16 Flashlight Handguard",
+            "ShortName": "GSG-16",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "This is an MP5-style flashlight handguard designed to fit the GSG-16 (fits both long and short models). It’s made out of a durable nylon-like resin",
+            "Weight": 0.44,
+            "PrefabPath": "Attachments/Handguards/handguard_mp5_flashlight.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6853451cff5342daf833734a": {
+        "en": {
+            "Name": "AR-15 Diemaco C7A2 12 inch polymer handguard",
+            "ShortName": "C7A2 12\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The AR-15 A2 Handguard features a traditional two-piece construction with standard all-black polymer as the key material. This one is likely a reproduction model for the civilian market.",
+            "Weight": 0.215,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_colt_c7a2.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6854fc746b14c40157c24657": {
+        "en": {
+            "Name": "AR-15 Diemaco C8A2 Carbine Length handguard",
+            "ShortName": "C8 Carbine",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A carbine length handguard manufactured by Diemaco/Colt Canada, a standard-issue handguard for the C8A2 assault rifles.",
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_colt_c8a2_top.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6854fd553cac02391571d46d": {
+        "en": {
+            "Name": "AR-15 Diemaco C8A2 Carbine Length lower handguard",
+            "ShortName": "C8 Carbine",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A carbine length lower handguard part manufactured by Diemaco/Colt Canada, a standard-issue handguard for the C8A2 assault rifles.",
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_colt_c8a2_bottom.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68599a3ea897c112c06b300a": {
+        "en": {
+            "Name": "AR-15 BCM® KMR Alpha 13 inch KeyMod handguard",
+            "ShortName": "BCM Alpha 13\"",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "Manufactured from aluminum, it is lightweight yet durable. Also featuring a proprietary patent pending mounting, indexing and lock up system that mitigates 12:00 rail movement under heat generated from the barrel nut.",
+            "Weight": 0.28,
+            "PrefabPath": "Attachments/Handguards/handguard_ar15_bcm_alpha_13_keymod.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68752546fed6022e4313e180": {
+        "en": {
+            "Name": "Echoes Defense MK-18 \"ThunderLite\" Handguard",
+            "ShortName": "ThunderLite",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "A lightweight Short M-LOK-compatible handguard for the Mk-18 rifle. Manufactured by Echoes Defense",
+            "Weight": 1.0,
+            "PrefabPath": "Attachments/Handguards/mk18_carbine_handguard.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68448bf2f4f9b64cb687698d": {
+        "en": {
+            "Name": "AR-15 A1/A2 Carryhandle Piccatinny mount",
+            "ShortName": "A2 Carry",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "placeholder",
+            "PrefabPath": "Attachments/Mounts/mount_carryhandle.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68448c3ea713d53905743800": {
+        "en": {
+            "Name": "AR-15 A1/A2 Gooseneck Carryhandle mount",
+            "ShortName": "Gooseneck",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "placeholder",
+            "PrefabPath": "Attachments/Mounts/mount_gooseneck.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6845a2443b726a816a6ca79e": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount",
+            "ShortName": "DUAL45",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts.",
+            "PrefabPath": "Attachments/Mounts/mount_cn_dual45_blk.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6845a36582114b67fdc12a16": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount (FDE)",
+            "ShortName": "DUAL45",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts. Flat Dark Earth version.",
+            "PrefabPath": "Attachments/Mounts/mount_cn_dual45_fde.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6845a394ddfdb4cac936974e": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount (Anthracite)",
+            "ShortName": "DUAL45",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts. Anthracite version.",
+            "PrefabPath": "Attachments/Mounts/mount_cn_dual45_anth.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6845a930e3dfd938256267a2": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount (Olive Drab)",
+            "ShortName": "DUAL45",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts. Olive Drab version.",
+            "PrefabPath": "Attachments/Mounts/mount_cn_dual45_od.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "685097dbb9aa83c9e35c5027": {
+        "en": {
+            "Name": "Glock MOS slide cap",
+            "ShortName": "Glock Cap",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A plate that screws into the top of a Glock MOS pistol slide to cover the plate mounting system. Manufactured by Glock.",
+            "PrefabPath": "Attachments/Mounts/mount_glock_mos_slide_cap.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "686a5a6247c881f613196f91": {
+        "en": {
+            "Name": "Canted Aim",
+            "ShortName": "Canted Aim",
+            "ParentID": "55818ad54bdc2ddc698b4569",
+            "Type": "REFLEX_SIGHT",
+            "Description": "Most jank way to add canted aiming you'll ever see, but it works - Thanks QwertyAlex for code help",
+            "PrefabPath": "Attachments/Mounts/mount_canted_aim.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "ebcc99cb85a882749d8a0420": {
+        "en": {
+            "Name": "AR-15 Echoes Defense Skull Crusher 12 inch handguard (Black)",
+            "ShortName": "Skull Crusher",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The Skull Crusher handguard, machined out of aircraft grade aluminum and moistened with Nikita's bath water, this handguard will carry you to victory.",
+            "PrefabPath": "Mods/AR15_Handguards/skull_hg_black.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "4bdd458936bdc4396f208687": {
+        "en": {
+            "Name": "AR-15 Echoes Defense Skull Crusher 12 inch handguard (Brushed)",
+            "ShortName": "Skull Crusher",
+            "ParentID": "55818a104bdc2db9688b4569",
+            "Type": "HANDGUARD",
+            "Description": "The Skull Crusher handguard, machined out of aircraft grade aluminum and moistened with Nikita's bath water, this handguard will carry you to victory.",
+            "PrefabPath": "Mods/AR15_Handguards/skull_hg_brushed_metal.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "4d22dc1279e41c4c46a9cde0": {
+        "en": {
+            "Name": "Skull Crusher full length rail section (Top)",
+            "ShortName": "Skull Rail",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A full length rail section designed specifically for the Echoes Defense Skull Crusher handguard.",
+            "PrefabPath": "Mods/Mounts/skull_hg_top_rail.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "390e66bf9f75d28e786fb0db": {
+        "en": {
+            "Name": "Skull Crusher full length rail section (Side)",
+            "ShortName": "Skull Rail",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A full length rail section designed specifically for the Echoes Defense Skull Crusher handguard.",
+            "PrefabPath": "Mods/Mounts/skull_hg_side_rail.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6ff6f054279ba21c8a85fa30": {
+        "en": {
+            "Name": "Skull Crusher full length rail section (Bottom)",
+            "ShortName": "Skull Rail",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "A full length rail section designed specifically for the Echoes Defense Skull Crusher handguard.",
+            "PrefabPath": "Mods/Mounts/skull_hg_bottom_rail.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "68267e4dc84aa702da36b421": {
+        "en": {
+            "Name": "Echoes Defense 03-07 Dovetail Mount",
+            "ShortName": "03-07",
+            "ParentID": "55818b224bdc2dde698b456f",
+            "Type": "55818b224bdc2dde698b456f",
+            "Description": "Engineered by Echoes Defense, the 03-07 is the perfect choice for any of your Dovetail needs",
+            "PrefabPath": "Attachments/etdovetail.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "6826761eaefcd071ca622242": {
+        "en": {
+            "Name": "Echoes Defense EA-RPD \"Afterburn\" 7.62x39 sound suppressor",
+            "ShortName": "Afterburn",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The Echoes Defense EA-RPD 7.62mm suppressor is a device manufactured by Echoes Defense Company for use with the RPD 7.62x39 light machine gun, providing a stylish and effective method of suppressing the RPD.",
+            "PrefabPath": "Attachments/echoestacticalrpdsuppressor.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6823f57adeb9bd789d936480": {
+        "en": {
+            "Name": "DS ARMS RPD trigger group adapter",
+            "ShortName": "DSA adpt.",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "A Trigger Group for the RPD and RPDN that allows for a buffer tube and SA58 grip",
+            "PrefabPath": "Attachments/dsarmtrigger.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "677156e8951dc3e9452c2520": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Alpine)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/alpine.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "67716a073c81118d119d2709": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Supreme)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/supreme.bundle"
+        }
+    },
+    "677b046719b59126015ca29d": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (MC-Arid)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/mcarid.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "677b199194edfa4e074cb73d": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Highlander)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/highland.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "67716a6fd639fc1f46654118": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/black.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "677175a7a7e415e777e70142": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Coyote Tan)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/coyote.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "677175c6e30ba9a64c9dcbfa": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Mandrake)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/mandrake.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "677175e54489e67f44d07ee5": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (MC-Black)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/mcblack.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6771762ffb090be84351f8b2": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Multicam)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/mccoyote.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6771762c43e298cc1868787c": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (OD)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/olive.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "67717641daf63be4d82fd0ae": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Typhoon)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/typhoon.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6771765fb92297fbbff35005": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Woodland)",
+            "ShortName": "Strikewrap",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability.",
+            "PrefabPath": "dustveil/woodland.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "676ae8df0a06ddaacadf9000": {
+        "en": {
+            "Name": "Echoes Defense Nightfall LX .45 ACP sound suppressor",
+            "ShortName": "Nightfall LX",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "A pristine .45 ACP suppressor crafted for the USP, its flawless finish gleams under the light, reflecting the craftsmanship of a tool untouched by battle. Silent, sleek, and ready for flawless execution.",
+            "Weight": 0.6,
+            "PrefabPath": "Attachments/uspelite.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "676ad911fea83190f42c8921": {
+        "en": {
+            "Name": "Echoes Defense Nightfall LX .45 ACP sound suppressor (Worn)",
+            "ShortName": "Nightfall LX",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "A well-worn .45 ACP suppressor for the USP, bearing scratches and faded engravings that hint at years of silent work in the field. Despite its weathered look, it still delivers deadly quiet precision.",
+            "Weight": 0.6,
+            "PrefabPath": "Attachments/uspworn.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "66e6079e3436b2699e9d7d8c": {
+        "en": {
+            "Name": "Haggar Arms Xenon-45 .45 ACP sound suppressor",
+            "ShortName": "Xenon-45",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The Haggar Arms Xenon-45 is a robust, high-performance suppressor engineered specifically for .45 ACP rounds. Designed for tactical and covert operations, this suppressor significantly reduces both sound and muzzle flash, providing the operator with a quieter shot without sacrificing stopping power. Its durable titanium alloy build ensures longevity and reliable performance, even under sustained fire. The Xenon-45’s compact design and advanced baffle system minimize weight and recoil, making it an excellent choice for close-quarter engagements where stealth is paramount. Whether for professional operators or dedicated enthusiasts, the Xenon-45 delivers unmatched sound suppression and precision.",
+            "Weight": 0.6,
+            "PrefabPath": "Attachments/viper1911supp.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "66e4fcaf9d49225cdd35eebb": {
+        "en": {
+            "Name": "Fulson Machine Hex 46 Multi-Caliber sound suppressor",
+            "ShortName": "Hex 46",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The Fulson Machine Hex 46 is a cutting-edge multicaliber suppressor engineered by EpicRangeTime Industries, renowned for its reliability and versatility. Capable of handling a wide range of calibers, from 9mm to .45 ACP, this suppressor features a unique hexagonal design that maximizes sound suppression while maintaining balance and precision. Its robust construction ensures durability under heavy use, and the sleek, modern finish makes it a favored choice among elite operators. Whether for tactical missions or range practice, the Hex 46 delivers optimal performance across multiple platforms.",
+            "Weight": 0.6,
+            "PrefabPath": "Attachments/viperhexs.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6771857578614af1411b7d9e": {
+        "en": {
+            "Name": "RSB M-LOK foregrip (FDE)",
+            "ShortName": "RSB",
+            "ParentID": "55818af64bdc2d5b648b4570",
+            "Type": "FOREGRIP",
+            "Description": "A compact and lightweight foregrip designed for precision and control. The RSB M-LOK grip features an ergonomic, low-profile design that enhances weapon handling without adding unnecessary bulk. Machined from durable aluminum, it offers superior strength while maintaining minimal weight. Compatible with all M-LOK mounting systems, this grip is built for operators who demand reliability and performance in high-intensity environments. Perfect for stabilizing rapid fire or maintaining accuracy during prolonged engagements.",
+            "Weight": 0.2,
+            "PrefabPath": "Attachments/rsbfde.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "677187150147ea6631f5b93f": {
+        "en": {
+            "Name": "RSB M-LOK foregrip",
+            "ShortName": "RSB",
+            "ParentID": "55818af64bdc2d5b648b4570",
+            "Type": "FOREGRIP",
+            "Description": "A compact and lightweight foregrip designed for precision and control. The RSB M-LOK grip features an ergonomic, low-profile design that enhances weapon handling without adding unnecessary bulk. Machined from durable aluminum, it offers superior strength while maintaining minimal weight. Compatible with all M-LOK mounting systems, this grip is built for operators who demand reliability and performance in high-intensity environments. Perfect for stabilizing rapid fire or maintaining accuracy during prolonged engagements.",
+            "Weight": 0.2,
+            "PrefabPath": "Attachments/rsb.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68260152bf9583fe2cd70a42": {
+        "en": {
+            "Name": "Die Free Kung Fu AR-15 pistol grip",
+            "ShortName": "Kung Fu",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "Designed for AR15/M4 and AR10/SR25 platforms, the Kung Fu Grip has a reduced angle providing a natural fighting posture when firing from modern standing and prone positions.  It improves comfort when installed on firearms with a shorter length of pull, but feels right at home on standard LOP platforms as well.",
+            "Weight": 0.1,
+            "PrefabPath": "Attachments/kungfublk.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68261803baf2cffc81f2d5eb": {
+        "en": {
+            "Name": "Die Free Kung Fu AR-15 pistol grip (FDE)",
+            "ShortName": "Kung Fu",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "Designed for AR15/M4 and AR10/SR25 platforms, the Kung Fu Grip has a reduced angle providing a natural fighting posture when firing from modern standing and prone positions.  It improves comfort when installed on firearms with a shorter length of pull, but feels right at home on standard LOP platforms as well. Flat Dark Earth edition.",
+            "Weight": 0.1,
+            "PrefabPath": "Attachments/kungfutan.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6826181fad2b06c46f7e22a8": {
+        "en": {
+            "Name": "Die Free Kung Fu AR-15 pistol grip (Green)",
+            "ShortName": "Kung Fu",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "Designed for AR15/M4 and AR10/SR25 platforms, the Kung Fu Grip has a reduced angle providing a natural fighting posture when firing from modern standing and prone positions.  It improves comfort when installed on firearms with a shorter length of pull, but feels right at home on standard LOP platforms as well. Olive Green edition.",
+            "Weight": 0.1,
+            "PrefabPath": "Attachments/kungfugreen.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68270d45b3ca3e273669166a": {
+        "en": {
+            "Name": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor with Manta cover",
+            "ShortName": "556-MANTA",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The SureFire SOCOM556-MINI MONSTER 5.56x45 and .223 sound suppressor is a shorter version of the SOCOM556-MONSTER. Can only be installed on compatible SureFire muzzle devices.",
+            "Weight": 0.443,
+            "PrefabPath": "Attachments/mantablk.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6827160c55ebffbfa1015d86": {
+        "en": {
+            "Name": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor with Manta cover (FDE)",
+            "ShortName": "556-MANTA",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The SureFire SOCOM556-MINI MONSTER 5.56x45 and .223 sound suppressor is a shorter version of the SOCOM556-MONSTER. Can only be installed on compatible SureFire muzzle devices.",
+            "Weight": 0.443,
+            "PrefabPath": "Attachments/mantatan.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68271639f45b338d89a09d20": {
+        "en": {
+            "Name": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor with Manta cover (Green)",
+            "ShortName": "556-MANTA",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The SureFire SOCOM556-MINI MONSTER 5.56x45 and .223 sound suppressor is a shorter version of the SOCOM556-MONSTER. Can only be installed on compatible SureFire muzzle devices.",
+            "Weight": 0.443,
+            "PrefabPath": "Attachments/mantagreen.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68272a652182ac144f61b957": {
+        "en": {
+            "Name": "Emissary Development Handbrake MLOK tactical foregrip",
+            "ShortName": "Handbrake",
+            "ParentID": "55818af64bdc2d5b648b4570",
+            "Type": "FOREGRIP",
+            "Description": "the Handbrake tactical handstop utilizes a unique forward-swept angle for enhanced ergonomics and ultimate control. Its Optimized size and tapered walls are designed for maximum comfort.",
+            "Weight": 0.026,
+            "PrefabPath": "Attachments/handbrake.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6828cd508974345baeecac96": {
+        "en": {
+            "Name": "Emissary Development Handbrake MLOK tactical foregrip (FDE)",
+            "ShortName": "Handbrake",
+            "ParentID": "55818af64bdc2d5b648b4570",
+            "Type": "FOREGRIP",
+            "Description": "the Handbrake tactical handstop utilizes a unique forward-swept angle for enhanced ergonomics and ultimate control. Its Optimized size and tapered walls are designed for maximum comfort.",
+            "Weight": 0.026,
+            "PrefabPath": "Attachments/handbraketan.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6828cd620cb2ca5c4c8b318b": {
+        "en": {
+            "Name": "Emissary Development Handbrake MLOK tactical foregrip (Green)",
+            "ShortName": "Handbrake",
+            "ParentID": "55818af64bdc2d5b648b4570",
+            "Type": "FOREGRIP",
+            "Description": "the Handbrake tactical handstop utilizes a unique forward-swept angle for enhanced ergonomics and ultimate control. Its Optimized size and tapered walls are designed for maximum comfort.",
+            "Weight": 0.026,
+            "PrefabPath": "Attachments/handbrakegreen.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683368ab9e96f9b3e2abf1d0": {
+        "en": {
+            "Name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab",
+            "ShortName": "Magpul",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine.",
+            "PrefabPath": "Attachments/pmagtab.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68338f4801ba4290915da736": {
+        "en": {
+            "Name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab (FDE)",
+            "ShortName": "Magpul",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine.",
+            "PrefabPath": "Attachments/pmagtabfde.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6833970200939258111e5a56": {
+        "en": {
+            "Name": "AR-15 5.56x45 Magpul PMAG 20 GEN M3 W STANAG 20-round magazine With Paracord Pull Tab",
+            "ShortName": "Magpul",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "A 20-round polymer Magpul PMAG GEN M3 20 magazine.",
+            "PrefabPath": "Attachments/pmag20tabfde.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683397e656ccb7971bd5fa9e": {
+        "en": {
+            "Name": "AR-15 5.56x45 Colt STANAG 30-round magazine",
+            "ShortName": "Stanag",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "AR-15 5.56x45 Colt STANAG 30-round magazine.",
+            "PrefabPath": "Attachments/stanagtab.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6834452e20ebf01ead39f660": {
+        "en": {
+            "Name": "AK-74 5.45x39 6L23 30-round magazine Taped (Plum) ",
+            "ShortName": "PLum",
+            "ParentID": "5448bc234bdc2d3c308b4569",
+            "Type": "MAGAZINE",
+            "Description": "AK-74 5.45x39 6L23 30-round magazine Taped (Plum).",
+            "PrefabPath": "Attachments/plumtape.bundle",
+            "TraderId": "PRAPOR"
+        }
+    },
+    "6835a63bdbc98d9bc34e025b": {
+        "en": {
+            "Name": "COLT M4A1 gas block with Mossie Midnight 1913 FSB Mount",
+            "ShortName": "FSB Mount",
+            "ParentID": "56ea9461d2720b67698b456f",
+            "Type": "GAS_BLOCK",
+            "Description": "The Mossie Midnight Mount is designed to place a 1913 Picatinny based weapon light at 12 o'clock for ambidextrous use. It easily installs on most standard and F marked front sight bases (FSB). The host weapon is not modified, which is especially important to many law enforcement officers who may not be allowed to alter their issued weapons.",
+            "Weight": 0.2,
+            "PrefabPath": "Attachments/gaspistolrail.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6835ec3c422a8b7b258768af": {
+        "en": {
+            "Name": "Colt M4A1 gas block with Mossie Midnight 1913 FSB Mount",
+            "ShortName": "FSB Mount",
+            "ParentID": "56ea9461d2720b67698b456f",
+            "Type": "GAS_BLOCK",
+            "Description": "The Mossie Midnight Mount is designed to place a 1913 Picatinny based weapon light at 12 o'clock for ambidextrous use. It easily installs on most standard and F marked front sight bases (FSB). The host weapon is not modified, which is especially important to many law enforcement officers who may not be allowed to alter their issued weapons.",
+            "Weight": 0.2,
+            "PrefabPath": "Attachments/lasergasblock.bundle"
+        }
+    },
+    "68343b29f48104d3a6265db3": {
+        "en": {
+            "Name": "Blackhawk! Smoke Stack .45 ACP sound suppressor",
+            "ShortName": "Smoke Stack",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The BLACKHAWK! Smoke Stack Sound Suppressor is engineered for centerfire pistols up to .45ACP. Its durable construction, easy disassembly, and effective noise reduction make it a top choice for both professional and recreational shooters. The included accessories and user-friendly design ensure reliable performance and maintenance.",
+            "PrefabPath": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_blk.bundle"
+        }
+    },
+    "68343c10334d72dc0066a8f3": {
+        "en": {
+            "Name": "Blackhawk! Smoke Stack .45 ACP sound suppressor (FDE)",
+            "ShortName": "Smoke Stack",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The BLACKHAWK! Smoke Stack Sound Suppressor is engineered for centerfire pistols up to .45ACP. Its durable construction, easy disassembly, and effective noise reduction make it a top choice for both professional and recreational shooters. The included accessories and user-friendly design ensure reliable performance and maintenance. Flat Dark Earth version.",
+            "PrefabPath": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_fde.bundle"
+        }
+    },
+    "6836413a03209f8dd9418b47": {
+        "en": {
+            "Name": "M1911 custom side grips (Acajou Wood)",
+            "ShortName": "1911",
+            "ParentID": "PISTOLGRIP",
+            "Type": "PISTOLGRIP",
+            "Description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defense. Acajou Wood finish version.",
+            "PrefabPath": "Attachments/Grips/pistolgrip_m1911_acajou.bundle"
+        }
+    },
+    "683641bc924a022369e8b818": {
+        "en": {
+            "Name": "M1911 Kiba Arms Geneburn side grips (Silver)",
+            "ShortName": "Geneburn",
+            "ParentID": "PISTOLGRIP",
+            "Type": "PISTOLGRIP",
+            "Description": "Custom grip panels for the M1911 pistol, spray-painted silver attempting to emulate a real metal finish. Likely manufactured by a Scav.",
+            "PrefabPath": "Attachments/Grips/pistolgrip_m1911_gold.bundle"
+        }
+    },
+    "683642d774c8a3249e433193": {
+        "en": {
+            "Name": "M1911 custom side grips (Plastic Hex)",
+            "ShortName": "1911",
+            "ParentID": "PISTOLGRIP",
+            "Type": "PISTOLGRIP",
+            "Description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defense. Hexagonal Plastic version.",
+            "PrefabPath": "Attachments/Grips/pistolgrip_m1911_hex.bundle"
+        }
+    },
+    "683642e9e4842d8783ec31f1": {
+        "en": {
+            "Name": "M1911 custom side grips (Ivory)",
+            "ShortName": "1911",
+            "ParentID": "PISTOLGRIP",
+            "Type": "PISTOLGRIP",
+            "Description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defense. Rare Ivory version.",
+            "PrefabPath": "Attachments/Grips/pistolgrip_m1911_ivory.bundle"
+        }
+    },
+    "6836435fa5c9a5c64140f957": {
+        "en": {
+            "Name": "M1911 rubber side grips",
+            "ShortName": "1911 Rubber",
+            "ParentID": "PISTOLGRIP",
+            "Type": "PISTOLGRIP",
+            "Description": "Custom-made side grip panels for the M1911A1 pistol made of highly-ergonomic rubber for better gripping. manufactured by Echoes Defense.",
+            "PrefabPath": "Attachments/Grips/pistolgrip_m1911_rubber.bundle"
+        }
+    },
+    "68363c6fbfd14a9526e8601b": {
+        "en": {
+            "Name": "SureFire X300 Ultra tactical flashlight",
+            "ShortName": "X300U",
+            "ParentID": "55818b164bdc2ddc698b456c",
+            "Type": "55818b164bdc2ddc698b456c",
+            "Description": "The SureFire X300 Ultra weapon-mounted tactical flashlight features a high-performance LED that generates 1000 lumens of stunning white light to produce a tight beam with extended reach and significant surround light for peripheral vision. The X300U is engineered to fit virtually any rail-equipped pistol or rifle. ",
+            "Weight": 0.1,
+            "PrefabPath": "Attachments/x300.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6836e6fef34cc1ae734b444c": {
+        "en": {
+            "Name": "Colt M4A1 gas block with Promag bayonet lug rail",
+            "ShortName": "FSB Lug Rail",
+            "ParentID": "56ea9461d2720b67698b456f",
+            "Type": "GAS_BLOCK",
+            "Description": "with a much lower cost than quad rail. The forward mount does not affect the standard hand guard when not using the bi-pod. very stable platform with the set screw take up hardware.",
+            "Weight": 0.3,
+            "PrefabPath": "Attachments/gasblock3.bundle"
+        }
+    },
+    "68377cc2b7f87dd53a2380ad": {
+        "en": {
+            "Name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor",
+            "ShortName": "Phantom M2 QD",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The 7.62 Phantom M2 QD silencer employs rugged stainless steel and Inconel 718 construction for increased strength, superior durability, and remarkable weight savings. This suppressor offers outstanding sound reduction (32 dB). YHM’s QD muzzle devices are as durable as they come, allowing this suppressor to silence its host firearm in an impressive manner.",
+            "PrefabPath": "Attachments/Suppressors/silencer_yhm_phantom_blk.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68377e40800180a1a99c73a3": {
+        "en": {
+            "Name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor (FDE)",
+            "ShortName": "Phantom M2 QD",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The 7.62 Phantom M2 QD silencer employs rugged stainless steel and Inconel 718 construction for increased strength, superior durability, and remarkable weight savings. This suppressor offers outstanding sound reduction (32 dB). YHM’s QD muzzle devices are as durable as they come, allowing this suppressor to silence its host firearm in an impressive manner. Flat Dark Earth version.",
+            "PrefabPath": "Attachments/Suppressors/silencer_yhm_phantom_fde.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68377e36c0ce47ccaae55254": {
+        "en": {
+            "Name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor (Wraith)",
+            "ShortName": "Phantom M2 QD",
+            "ParentID": "550aa4cd4bdc2dd8348b456c",
+            "Type": "SILENCER",
+            "Description": "The 7.62 Phantom M2 QD silencer employs rugged stainless steel and Inconel 718 construction for increased strength, superior durability, and remarkable weight savings. This suppressor offers outstanding sound reduction (32 dB). YHM’s QD muzzle devices are as durable as they come, allowing this suppressor to silence its host firearm in an impressive manner. Kryptek Wraith version.",
+            "PrefabPath": "Attachments/Suppressors/silencer_yhm_phantom_wraith.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "6837716de936d83c13099eea": {
+        "en": {
+            "Name": "Super QXL Diving flashlight",
+            "ShortName": "QXL",
+            "ParentID": "55818b164bdc2ddc698b456c",
+            "Type": "55818b164bdc2ddc698b456c",
+            "Description": "Super rare Dive light modified to fit on clamshell handguards, via stretching a bicycle inner tuber over and affixing hoseclamps for mounting (Note delta did this back in the 90's) Outputs 70-80 lumens",
+            "Weight": 0.1,
+            "PrefabPath": "Attachments/qxl.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68398cd864a9d113ebab1b77": {
+        "en": {
+            "Name": "Super QXL Diving flashlight (Woodland Wrap)",
+            "ShortName": "QXL",
+            "ParentID": "55818b164bdc2ddc698b456c",
+            "Type": "55818b164bdc2ddc698b456c",
+            "Description": "Super rare Dive light modified to fit on clamshell handguards, via stretching a bicycle inner tuber over and affixing hoseclamps for mounting (Note delta did this back in the 90's) Outputs 70-80 lumens",
+            "Weight": 0.1,
+            "PrefabPath": "Attachments/qxlcam.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68395bb9f92a92ea0555e4a1": {
+        "en": {
+            "Name": "AR-15 Noveske KX3 5.56x45 flash hider (Desert)",
+            "ShortName": "KX3 556",
+            "ParentID": "FLASHHIDER",
+            "Type": "FLASHHIDER",
+            "Description": "The Noveske KX3 Flash hider, aka the Burning Pig, is designed to increase reliability in short-barreled members of AR-15 family by increasing backpressure and directing the muzzle blast forward of the shooter. Although originally designed for short-barreled AR-15s, it will work on any barrel length and have since been introduced for a variety of mounts. This particular KX3 may be used on \n5.56mm = 1/2x28 \n300BLK, 6.8, & 7.62 = 5/8x24\nGerman rifles = M15x1 \nM14x1LH",
+            "PrefabPath": "Attachments/Muzzles/kx3_tan.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68395c7abb2e79c208842d7e": {
+        "en": {
+            "Name": "AR-15 Noveske KX3 5.56x45 flash hider (OD)",
+            "ShortName": "KX3 556",
+            "ParentID": "FLASHHIDER",
+            "Type": "FLASHHIDER",
+            "Description": "The Noveske KX3 Flash hider, aka the Burning Pig, is designed to increase reliability in short-barreled members of AR-15 family by increasing backpressure and directing the muzzle blast forward of the shooter. Although originally designed for short-barreled AR-15s, it will work on any barrel length and have since been introduced for a variety of mounts. This particular KX3 may be used on \n5.56mm = 1/2x28 \n300BLK, 6.8, & 7.62 = 5/8x24\nGerman rifles = M15x1 \nM14x1LH",
+            "PrefabPath": "Attachments/Muzzles/kx3_od.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68536b5a8533ef3b3f1312c6": {
+        "en": {
+            "Name": "AR-15 Diemaco C7-style front sight tri-rail with gas block",
+            "ShortName": "C7A2",
+            "ParentID": "56ea9461d2720b67698b456f",
+            "Type": "GAS_BLOCK",
+            "Description": "A standard-issue front sight with gas block for M4-style assault rifles, manufactured by Diemaco (Colt Canada.)",
+            "PrefabPath": "Attachments/gasBlocks/gas_block_c7a2_tri.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ca7ab1a059f229b96e1a3": {
+        "en": {
+            "Name": "Trijicon SRO2 reflex sight",
+            "ShortName": "SRO2",
+            "ParentID": "55818acf4bdc2dde698b456b",
+            "Type": "COMPACT_REFLEX_SIGHT",
+            "Description": "The Trijicon SRO2® (Specialized Reflex Optic) is designed with a maximized field of view and a clean, crisp red dot that deliver improved pistol accuracy in competitive-shooting and target-shooting applications. It is engineered with care to ensure that the optic can sustain plenty of abuse. Manufactured by Trijicon.",
+            "Weight": 0.046,
+            "PrefabPath": "Attachments/Sights/scope_base_trijicon_sro.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ca7a7dd567362e6a2d719": {
+        "en": {
+            "Name": "Trijicon SRO2 reflex sight (FDE)",
+            "ShortName": "SRO2",
+            "ParentID": "55818acf4bdc2dde698b456b",
+            "Type": "COMPACT_REFLEX_SIGHT",
+            "Description": "The Trijicon SRO2® (Specialized Reflex Optic) is designed with a maximized field of view and a clean, crisp red dot that deliver improved pistol accuracy in competitive-shooting and target-shooting applications. It is engineered with care to ensure that the optic can sustain plenty of abuse. Manufactured by Trijicon. Flat Dark Earth version.",
+            "Weight": 0.046,
+            "PrefabPath": "Attachments/Sights/scope_base_trijicon_sro_fde.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ef6bc3fcbe11882807386": {
+        "en": {
+            "Name": "SIG Sauer ROMEO3 reflex sight",
+            "ShortName": "ROMEO3",
+            "ParentID": "55818acf4bdc2dde698b456b",
+            "Type": "COMPACT_REFLEX_SIGHT",
+            "Description": "Lightweight open red dot sight built from durable aluminum and equipped with motion-activated illumination, the ROMEO3 offers quick target acquisition in close to mid-range encounters. Compact and reliable—ideal for low-profile builds or fast CQB setups. Manufactured by SIG Sauer.",
+            "Weight": 0.04,
+            "PrefabPath": "Attachments/Sights/scope_sig_romeo_3.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684f2ebbd4f01748a7d154b9": {
+        "en": {
+            "Name": "SIG Sauer ROMEO3 reflex sight (FDE)",
+            "ShortName": "ROMEO3",
+            "ParentID": "55818acf4bdc2dde698b456b",
+            "Type": "COMPACT_REFLEX_SIGHT",
+            "Description": "Lightweight open red dot sight built from durable aluminum and equipped with motion-activated illumination, the ROMEO3 offers quick target acquisition in close to mid-range encounters. Compact and reliable—ideal for low-profile builds or fast CQB setups. Manufactured by SIG Sauer. Flat Dark Earth version.",
+            "Weight": 0.04,
+            "PrefabPath": "Attachments/Sights/scope_sig_romeo3_fde.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684f2eed5600200459543ecc": {
+        "en": {
+            "Name": "SIG Sauer ROMEO3 reflex sight (Graphite)",
+            "ShortName": "ROMEO3",
+            "ParentID": "55818acf4bdc2dde698b456b",
+            "Type": "COMPACT_REFLEX_SIGHT",
+            "Description": "Lightweight open red dot sight built from durable aluminum and equipped with motion-activated illumination, the ROMEO3 offers quick target acquisition in close to mid-range encounters. Compact and reliable—ideal for low-profile builds or fast CQB setups. Manufactured by SIG Sauer. Graphite version.",
+            "Weight": 0.04,
+            "PrefabPath": "Attachments/Sights/scope_sig_romeo3_graphite.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685b40db60670990eb71ca2d": {
+        "en": {
+            "Name": "EOTech EXPS3 holographic sight (Black)",
+            "ShortName": "EXPS3",
+            "ParentID": "55818ad54bdc2ddc698b4569",
+            "Type": "REFLEX_SIGHT",
+            "Description": "The EOTech EXPS3 holographic sight. Thanks to design features it can be used with a wide range of weapons, even with non-folding sights. Compatible with night vision devices by means of the NV reticle mode. Utilized by US SOCOM as a sight for operations in confined spaces.",
+            "Weight": 0.07,
+            "PrefabPath": "Attachments/Sights/scope_all_eotech_exps3_0_black.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68261c84b56f34d8f6a39e1f": {
+        "en": {
+            "Name": "AR-15 Magpul CTR Carbine stock with Cheek-riser",
+            "ShortName": "CTR",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": " Drop-in replacement buttstock for AR15/M16 carbines by Magpul Original Equipment. Uses mil-spec sized receiver extension tubes. Frame profile avoids snagging and shields the release latch to prevent accidental activation, includes a standard 0.30 thick rubber butt-pad to prevent slippage even with body armor or modular gear. Comes in black and flat dark earth. ",
+            "Weight": 0.265,
+            "PrefabPath": "Attachments/ctrblk.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68262b6ab2e85c37abd16acb": {
+        "en": {
+            "Name": "AR-15 Magpul CTR Carbine stock with Cheek-riser (FDE)",
+            "ShortName": "CTR",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": " Drop-in replacement buttstock for AR15/M16 carbines by Magpul Original Equipment. Uses mil-spec sized receiver extension tubes. Frame profile avoids snagging and shields the release latch to prevent accidental activation, includes a standard 0.30 thick rubber butt-pad to prevent slippage even with body armor or modular gear. Comes in black and flat dark earth. ",
+            "Weight": 0.265,
+            "PrefabPath": "Attachments/ctrfde.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68262ce3a88c1f4f57e5ee37": {
+        "en": {
+            "Name": "AR-15 Magpul CTR Carbine stock with Cheek-riser (Green)",
+            "ShortName": "CTR",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": " Drop-in replacement buttstock for AR15/M16 carbines by Magpul Original Equipment. Uses mil-spec sized receiver extension tubes. Frame profile avoids snagging and shields the release latch to prevent accidental activation, includes a standard 0.30 thick rubber butt-pad to prevent slippage even with body armor or modular gear. Comes in black and flat dark earth. ",
+            "Weight": 0.265,
+            "PrefabPath": "Attachments/ctrgreen.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "682649d62fc7db84eb78548b": {
+        "en": {
+            "Name": "AR-15 High Standard M4SS Stock With Cheek-riser",
+            "ShortName": "M4SS",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "The High Standard M4SS telescoping stock closely follows the classic M4A1 stock except for a few geometry details. ",
+            "Weight": 0.735,
+            "PrefabPath": "Attachments/m4ssblk.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68264cf5f5076a3afe8dcb20": {
+        "en": {
+            "Name": "AR-15 High Standard M4SS Stock With Cheek-riser (FDE)",
+            "ShortName": "M4SS",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "The High Standard M4SS telescoping stock closely follows the classic M4A1 stock except for a few geometry details. ",
+            "Weight": 0.735,
+            "PrefabPath": "Attachments/m4sstan.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68264d1d459d08917414601f": {
+        "en": {
+            "Name": "AR-15 High Standard M4SS Stock With Cheek-riser (Green)",
+            "ShortName": "M4SS",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "The High Standard M4SS telescoping stock closely follows the classic M4A1 stock except for a few geometry details.",
+            "Weight": 0.735,
+            "PrefabPath": "Attachments/m4ssgrn.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68350ff39748ffaecb636c6e": {
+        "en": {
+            "Name": "SV-98 wooden stock (Digital Flora)",
+            "ShortName": "SV98 wood",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Digital Flora version.",
+            "PrefabPath": "Attachments/Stocks/stock_sv98_digital_flora.bundle"
+        }
+    },
+    "68351058699470f269c98eab": {
+        "en": {
+            "Name": "SV-98 wooden stock (Winter Flora)",
+            "ShortName": "SV98 wood",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Digital Flora Winter version.",
+            "PrefabPath": "Attachments/Stocks/stock_sv98_flora_winter.bundle"
+        }
+    },
+    "683510625b6fd52fe74c8b0c": {
+        "en": {
+            "Name": "SV-98 wooden stock (KLMK)",
+            "ShortName": "SV98 wood",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. KLMK (Kamuflirovannyi Letnyi Maskirovochnyi Kombinezon or, 'Camouflaged Summer Disguise Coverall') version.",
+            "PrefabPath": "Attachments/Stocks/stock_sv98_kmlk.bundle"
+        }
+    },
+    "683510aa16c0a8efa99385d1": {
+        "en": {
+            "Name": "SV-98 wooden stock (Mandrake)",
+            "ShortName": "SV98 wood",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Kryptek Mandrake version.",
+            "PrefabPath": "Attachments/Stocks/stock_sv98_mandrake.bundle"
+        }
+    },
+    "683510bfbc971d605251b860": {
+        "en": {
+            "Name": "SV-98 wooden stock (Tiger Stripe)",
+            "ShortName": "SV98 wood",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Tiger Stripe version.",
+            "PrefabPath": "Attachments/Stocks/stock_sv98_tiger.bundle"
+        }
+    },
+    "68336505ff3b852822eb0d1f": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue.",
+            "Weight": 0.265,
+            "PrefabPath": "Attachments/Stocks/m700_arma.bundle"
+        }
+    },
+    "6837c322fc2a43f4deea2cf4": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue.",
+            "Weight": 0.265,
+            "PrefabPath": "Attachments/Stocks/m700_sky.bundle"
+        }
+    },
+    "68338b87fc8103da63185201": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock (Funny)",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Funny version.",
+            "Weight": 0.285,
+            "PrefabPath": "Attachments/Stocks/stock_m700_hogue_overmolded_ahegao_stock.bundle"
+        }
+    },
+    "6833bdf80131ff59f7a66603": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue.",
+            "Weight": 0.285,
+            "PrefabPath": "Attachments/Stocks/m700_fleck.bundle"
+        }
+    },
+    "6833df274c23dc6c04c9b871": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock (Black)",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Solid Black version.",
+            "Weight": 0.255,
+            "PrefabPath": "Attachments/Stocks/stock_m700_hogue_overmolded_black_stock.bundle"
+        }
+    },
+    "6833e472ced13fc24fb637c7": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock (Worn Olive)",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Worn Olive version.",
+            "Weight": 0.215,
+            "PrefabPath": "Attachments/Stocks/stock_m700_hogue_overmolded_olive_stock.bundle"
+        }
+    },
+    "6833ef7b6a70be570968799f": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue.",
+            "Weight": 0.215,
+            "PrefabPath": "Attachments/Stocks/m700_brown.bundle"
+        }
+    },
+    "6833ef99823dfcc6cfaf86cd": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue.",
+            "Weight": 0.215,
+            "PrefabPath": "Attachments/Stocks/m700_something.bundle"
+        }
+    },
+    "6833efad6df4433edf26c14c": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue.",
+            "Weight": 0.215,
+            "PrefabPath": "Attachments/Stocks/m700_russian.bundle"
+        }
+    },
+    "6833efc07461f78c2a3c8015": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue.",
+            "Weight": 0.215,
+            "PrefabPath": "Attachments/Stocks/m700_leafy.bundle"
+        }
+    },
+    "683c5df82412c471872f202f": {
+        "en": {
+            "Name": "SA58/FAL humpback wooden stock",
+            "ShortName": "SA58 wood",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "A wooden humpback-style stock for FAL-style rifles.",
+            "PrefabPath": "Attachments/Stocks/stock_l1a1_wood.bundle"
+        }
+    },
+    "683f0510d6e616e483b9bbcb": {
+        "en": {
+            "Name": "DPMS CAR-15 Fiberlite Stock",
+            "ShortName": "CAR-15",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Retro DPMS CAR-15 Kit alows you to add some throw back vibes with some modern features to your new build. Everything you need to complete out the stock assembly is included with this kit and will give your new build or existing lower that old school flare you have been craving.",
+            "PrefabPath": "Attachments/Stocks/stock_ar15_fiberlite.bundle"
+        }
+    },
+    "683f054fe68ee1c225002090": {
+        "en": {
+            "Name": "AR-15 Armalite M16A1-style stock",
+            "ShortName": "M16A1",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The Armalite M16A1 Stock is a rugged, fixed polymer stock modeled after the original Vietnam-era design. Its classic shape offers solid recoil control and a timeless aesthetic for vintage rifle builds.",
+            "PrefabPath": "Attachments/Stocks/stock_ar15_m16a1.bundle"
+        }
+    },
+    "683f056981079dd84d52681d": {
+        "en": {
+            "Name": "NCR Ranger M16A1 Wooden stock",
+            "ShortName": "NCR Stock",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "Patrolling the Mojave almost makes you wish for a nuclear winter",
+            "PrefabPath": "Attachments/Stocks/stock_ar15_wood_m16a1.bundle"
+        }
+    },
+    "683f0586083dc0841a3ae0fc": {
+        "en": {
+            "Name": "Battle Arms AR-15 VERT GEN2 PDW Stock",
+            "ShortName": "VERT EXTENDED",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "Battle Arms AR-15 VERT PDW Stock System. With lightweight engineering this stock system is only 19.5 oz!  That's 30%-40% lighter that traditional PDW Stock Systems.  And with simple \"bolt on\" installation this stock system is compatible with most AR-15 style lower receivers.",
+            "PrefabPath": "Attachments/Stocks/stock_ar15_pdw_extended.bundle"
+        }
+    },
+    "683f05abfde64f8d79afaa5e": {
+        "en": {
+            "Name": "AR-15 ODIN Works Padded Pistol Buffer Tube",
+            "ShortName": "ODIN",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "Padded pistol buffer tube.",
+            "PrefabPath": "Attachments/Stocks/stock_ar15_padded_buffertube.bundle"
+        }
+    },
+    "683f059f370de8b72f4eb839": {
+        "en": {
+            "Name": "Battle Arms AR-15 VERT GEN2 PDW Stock",
+            "ShortName": "VERT Collapsed",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "Battle Arms AR-15 VERT PDW Stock System. With lightweight engineering this stock system is only 19.5 oz!  That's 30%-40% lighter that traditional PDW Stock Systems.  And with simple \"bolt on\" installation this stock system is compatible with most AR-15 style lower receivers.",
+            "PrefabPath": "Attachments/Stocks/stock_ar15_pdw_collapsed.bundle"
+        }
+    },
+    "684c5f7f391c29580d74da8e": {
+        "en": {
+            "Name": "HK MP5 A2 wooden stock",
+            "ShortName": "MP5A2",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "A custom wooden-finished fixed stock for the MP5A2 submachine gun manufactured by Heckler & Koch.",
+            "PrefabPath": "Attachments/Stocks/stock_mp5a2_wood.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6853451a659f4ba885e37fd3": {
+        "en": {
+            "Name": "AR-15 Diemaco C7A2 Fiberlite stock",
+            "ShortName": "C7A2",
+            "ParentID": "STOCK",
+            "Type": "STOCK",
+            "Description": "The C7A2 stock is a slightly modified version of the CAR-15 stock and features a bumpy texture for better grip in cold or CBRN (chemical, biological, radiological, and nuclear) conditions. Manufactured by Diemaco (a.k.a. Colt Canada)",
+            "PrefabPath": "Attachments/Stocks/stock_ar15_colt_c7a2.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6863fe73d2c7849544e2993e": {
+        "en": {
+            "Name": "ZenitCo 1913 Adapter",
+            "ShortName": "1913",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "The 1913 ZenitCo Adapter is an adapter that lets you mount your ZenitoCo PT-1 or PT-3 to any 1913 rail compatible gun.   Machined out of steel these adapters are built to last",
+            "PrefabPath": "Attachments/Stocks/stock_picc_adapter_zenitco.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "686ac1b520c6bd3cace3aa22": {
+        "en": {
+            "Name": "Choate MP5K/SP89/SP5K 9mm Folding Stock",
+            "ShortName": "Choate",
+            "ParentID": "55818a594bdc2db9688b456a",
+            "Type": "STOCK",
+            "Description": "Each stock features the same quick, open steel housing and folding arm found on all HK stock offerings. Each stock is backed by the manufacturer's lifetime warranty but built tough enough that you will never have to use it! Made in the USA and counts as one US-made 922r compliant part. This is the same stock that Choate makes directly for HK.",
+            "PrefabPath": "Attachments/Stocks/stock_mp5k.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683246a74073e586d112af9f": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Norma Match",
+            "ShortName": "Match",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "6.5x48mm Creedmoor is a centrefire rifle cartridge introduced by Hornady in 2007. The 6.5mm Creedmoor was designed specifically for long-range target shooting, although it has been used successfully in medium game hunting. Bullet-for-bullet, the 6.5mm Creedmoor achieves a slower muzzle velocity than longer cartridges such as the 6.5-284 Norma or magnum cartridges such as the 6.5mm Remington Magnum. However, with an overall length of 2.825 inches (71.8 mm), it can be chambered in short-action rifles.",
+            "Weight": 0.024,
+            "PrefabPath": "Ammo/patron_65cm_match.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "68325a63730b17c69ee176eb": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor HPBT Match",
+            "ShortName": "HPBT",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "6.5x48mm Creedmoor HPBT (Hollow Point Boat Tail) is a rifle round intended for use against big game at long range, and as such has very little penetration in favour of high flesh-based damage. Red Tracer version.",
+            "Weight": 0.024,
+            "PrefabPath": "Ammo/patron_65cm_match.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "6833baea86387d71b68abd6f": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Hornady ELD-X",
+            "ShortName": "ELD-X",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "6.5x48mm Creedmoor Hornady ELD-X (Extremely Low Drag - eXpanding) is a precision-engineered cartridge tailored for long-range hunting and tactical applications. Pairing the aerodynamic efficiency of the ELD-X projectile with a compact, high-efficiency 48mm case, this round delivers exceptional terminal performance, flat trajectories, and consistent expansion across a wide range of velocities.",
+            "Weight": 0.024,
+            "PrefabPath": "Ammo/patron_65cm_eldx.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "6833bae4baa31474639bea7d": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Norma AP",
+            "ShortName": "AP",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "6.5x48mm Creedmoor Armor Piercing (AP) round is a high-performance, intermediate-caliber cartridge engineered for precision, penetration, and adaptability in modern combat scenarios. Designed to bridge the gap between traditional intermediate and full-power rifle cartridges, this round is optimized for long-range accuracy, superior ballistic performance, and armor penetration capabilities against hardened targets.",
+            "Weight": 0.024,
+            "PrefabPath": "Ammo/patron_65cm_ap.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "6833ba38a1c9ff155c04e56f": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Terminal Ascent",
+            "ShortName": "FPTA",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "Any hunt. Any range. Go beyond what you ever thought possible with Federal Premium Terminal Ascent Bonded construction penetrates deep on close targets, while the patented Slipstream™ polymer tip initiates expansion at velocities 200 fps lower than comparable designs. The bullet's long, sleek profile offers an extremely high ballistic coefficient, and its AccuChannel groove technology improves accuracy and minimizes drag. Available in a full selection of long-range hunting cartridges.",
+            "PrefabPath": "Ammo/patron_65cm_terminal_ascent.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "6833b8cb54aa764b2deefdfe": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor SIG Venari SP",
+            "ShortName": "SP",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "SIG SAUER Venari SP 6.5 Creedmoor 129 Grain Soft-Point Hunting Ammo takes the classic soft-point-style bullet and upgrades it with ultra-consistent, modern manufacturing. SIG offers this excellent performer in high-quality, reloadable brass cases. The 129 grain bullet has a muzzle velocity of 2820 fps and is designed for deer hunting, as well as big game hunting.",
+            "PrefabPath": "Ammo/patron_65cm_venari_sp.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "6834e6f28f5570aec23ca0c2": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor C-HP",
+            "ShortName": "C-HP",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "6.5x48mm Creedmoor 120gr C-HP are specially designed to suit both the hunter and target shooter. These copper bullets are designed and manufactured in the UK. The Expansion cavity in these projectiles were designed to expand on immediate impact with the target.",
+            "PrefabPath": "Ammo/patron_65cm_chp.bundle",
+            "TraderId": "JAEGER"
+        }
+    },
+    "683d1b69d6f6778f205e9dfd": {
+        "en": {
+            "Name": "6.8x51mm SIG Venari SP",
+            "ShortName": "SP",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "The Sig Sauer Venari Soft Point ammunition is a high-performance hunting round designed for the .277 Sig Fury cartridge. This traditional soft-point hunting ammunition features a 130-grain soft-point bullet loaded into reloadable brass cases. With a muzzle velocity of 2710 fps and muzzle energy of 2120 ft-lbs, it delivers excellent terminal performance on deer-sized and big game animals. The Venari line combines SIG SAUER's renowned quality with the versatility needed for various hunting scenarios, making it an ideal choice for hunters seeking reliable and effective ammunition for their .277 Sig Fury rifles.",
+            "PrefabPath": "assets/content/items/ammo/patrons/patron_68x51_fmj.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683a1844ac7f29765fc135b2": {
+        "en": {
+            "Name": "6.8x51mm SIG HiPower",
+            "ShortName": "HP",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "The 6.8x51mm SIG HiPower round has been custom designed by Echoes Defense to maximise damage when hitting a flesh-based target, maximising tunneling and cavity damage when penetrating flesh. \"Section 80, HiiiPower.\"",
+            "PrefabPath": "assets/content/items/ammo/patrons/patron_68x51.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683d1ba7b5a2063de35a8c39": {
+        "en": {
+            "Name": "8.6 Blackout AP-Subsonic",
+            "ShortName": "AP-S",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "A specialized subsonic armor-piercing cartridge, the 8.6x43 Blackout AP is engineered for suppressed rifles, combining stealth with punch. Featuring a hardened penetrator core, it maintains effectiveness against light armor and barriers at subsonic velocities (~1,000 fps). Ideal for special operations requiring quiet, hard-hitting firepower.",
+            "PrefabPath": "Ammo/patron_86x43_ap.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683d1e142cee4317689e75e4": {
+        "en": {
+            "Name": "8.6 Blackout Copper Solid",
+            "ShortName": "Copper",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "Designed for precision and terminal effectiveness, the 8.6 Blackout Copper Solid features a monolithic copper construction optimized for controlled tumbling on contact. This subsonic round delivers deep penetration and rapid energy transfer, making it ideal for hunting and tactical use where barrier-blind performance and consistent expansion are critical.",
+            "PrefabPath": "Ammo/patron_86x43_copper.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683d1ec4f7164f4f77ea7a85": {
+        "en": {
+            "Name": "8.6 Blackout REX Subsonic",
+            "ShortName": "REX",
+            "ParentID": "5485a8684bdc2da71d8b4567",
+            "Type": "AMMO",
+            "Description": "The 8.6 Blackout REX (Rapidly Expanding) Subsonic is a heavy, subsonic round built for maximum energy transfer at low velocity. Featuring an expanding projectile designed to create massive wound channels, the REX excels in suppressed platforms where stealth and stopping power are essential. Ideal for close- to mid-range applications in hunting and tactical environments.",
+            "PrefabPath": "Ammo/patron_86x43_rex.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "675dddadaf53a6985b7588f8": {
+        "en": {
+            "Name": "Balaclava (Ryzhy)",
+            "ShortName": "Ryzhy",
+            "ParentID": "5a341c4686f77469e155819e",
+            "Type": "FACECOVER",
+            "Description": "Balaclava worn by a man named Ryzhy. imfamous for attacking sanitar, escaping the arena, and more. How you have it? Who knows.",
+            "Weight": 0.6,
+            "PrefabPath": "clothing/item_equipment_facecover_ryzhy_balaclava.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "66dbbabad7626c331a6b8442": {
+        "en": {
+            "Name": "Cigarette",
+            "ShortName": "Cig",
+            "ParentID": "5a341c4686f77469e155819e",
+            "Type": "FACECOVER",
+            "Description": "A small, tightly rolled stick of dried tobacco leaves wrapped in paper, ignited for smoking. Known for its calming effects, cigarettes temporarily reduce stress and increase focus, but prolonged use leads to addiction and health risks. Popular among soldiers and mercenaries to steady nerves during combat, though overreliance can weaken endurance over time. Often found in ration packs, trade caches, or looted from enemy soldiers.",
+            "Weight": 0.6,
+            "PrefabPath": "clothing/viper_cig.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "66dd8596e6210e75bd5a68e1": {
+        "en": {
+            "Name": "Echoes Defense Black Half Mask",
+            "ShortName": "Half-mask",
+            "ParentID": "5a341c4686f77469e155819e",
+            "Type": "FACECOVER",
+            "Description": "A minimalist yet menacing half-mask from Echoes Defense, covering the lower face with matte-black material designed for both style and practicality. Favored by those who wish to conceal their identity while keeping their movements unrestricted, it provides basic protection against environmental hazards. Its sleek, understated design makes it ideal for covert missions or intimidation tactics, ensuring the wearer remains both unseen and unforgettable.",
+            "Weight": 0.6,
+            "PrefabPath": "clothing/viper_black.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "66d0f031c6c6b22e2056a1f5": {
+        "en": {
+            "Name": "Joey Jordison",
+            "ShortName": "Joey",
+            "ParentID": "5a341c4686f77469e155819e",
+            "Type": "FACECOVER",
+            "Description": "A mask similar to that of Joey Jordisons",
+            "Weight": 0.6,
+            "PrefabPath": "clothing/viper_joe.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "676ebb82ae24a648a5d9f51e": {
+        "en": {
+            "Name": "Balaclava (Keegan)",
+            "ShortName": "Balaclava",
+            "ParentID": "5a341c4686f77469e155819e",
+            "Type": "FACECOVER",
+            "Description": "Crafted to honor the relentless precision and stealth of Keegan P. Russ, this tactical mask is more than a symbol—it's a statement. Designed with a sleek, matte finish and minimal reflective surfaces, it embodies the covert expertise of a Ghost. Worn by those who value discipline, adaptability, and the art of disappearing into the shadows, it strikes fear into enemies and inspires loyalty among allies. Equip this mask to channel the unwavering focus of one of the most elite operatives.",
+            "PrefabPath": "clothing/keegan.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "6750f4f1fe66eee6650d3bd9": {
+        "en": {
+            "Name": "M50 Tinted Gas Mask",
+            "ShortName": "Tint M50",
+            "ParentID": "5448e5724bdc2ddf718b4568",
+            "Type": "VIS_OBSERV_DEVICE",
+            "Description": "The M50 gas mask is a next-generation protective mask designed for superior defense against a wide range of chemical, biological, radiological, and nuclear (CBRN) threats. Featuring a sleek and lightweight design, it offers enhanced field of vision, unparalleled comfort, and exceptional sealing capability. Equipped with dual air filters, the M50 provides optimal breathing efficiency and extended usage time, making it a favorite among military personnel, emergency responders, and survival enthusiasts. The advanced lens system resists fogging and provides clear visibility, even in high-stress scenarios. Whether navigating hazardous environments or preparing for the worst, the M50 gas mask is a trusted ally for those who value safety and preparedness. Durable, reliable, and built to withstand extreme conditions, it’s not just a mask—it’s your frontline defense.",
+            "Weight": 0.6,
+            "PrefabPath": "clothing/m50.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "66de5ba596026892a2a1bec5": {
+        "en": {
+            "Name": "Pit Viper sunglasses",
+            "ShortName": "Pit Viper",
+            "ParentID": "5448e5724bdc2ddf718b4568",
+            "Type": "VIS_OBSERV_DEVICE",
+            "Description": "A pair of high-performance sunglasses with bold, oversized lenses, designed for extreme outdoor conditions. Known for their bright, reflective design and tough frame, Pit Vipers are the choice of adventurers, athletes, and mercenaries alike. Offering both protection and style, these shades are perfect for those who live life on the edge, whether it's in the heat of battle or just making a statement on the field.",
+            "Weight": 0.2,
+            "PrefabPath": "clothing/viperpit.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "66dd6db3e4676fb868019f9b": {
+        "en": {
+            "Name": "Echoes Defense Blackout™",
+            "ShortName": "Echoes Defense Blackout™",
+            "ParentID": "5448e5724bdc2ddf718b4568",
+            "Type": "VIS_OBSERV_DEVICE",
+            "Description": "High-performance black-tinted goggles from the shadowy Echoes Defense, designed for operatives who thrive in harsh conditions. These sleek, wraparound lenses offer full protection from bright light, dust, and debris, while maintaining a dark, intimidating aesthetic. Although visibility in low-light situations is reduced, these goggles give wearers a cold, calculating look that unnerves opponents and solidifies their reputation on the field.",
+            "Weight": 0.2,
+            "PrefabPath": "clothing/viper_blackout.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "66de5333818d5766ce931e53": {
+        "en": {
+            "Name": "Boss Cap (Black)",
+            "ShortName": "Boss",
+            "ParentID": "5a341c4086f77401f2541505",
+            "Type": "HEADWEAR",
+            "Description": "A black baseball cap worn backwards with the word 'BOSS' boldly embroidered on the front. A symbol of casual authority and street-level swagger, this hat doesn't just shield from the sun—it declares dominance in any room. Often seen on confident leaders and those looking to make a statement without saying a word. Though it offers no tactical protection, its psychological effect on others is undeniable.",
+            "Weight": 0.11,
+            "PrefabPath": "clothing/viperbossb.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "68713ff88f741d56f16d0ac9": {
+        "en": {
+            "Name": "A Familiar Blue Beanie with Goggles",
+            "ShortName": "BEAST",
+            "ParentID": "5a341c4086f77401f2541505",
+            "Type": "HEADWEAR",
+            "Description": "A Beanie reminding you of a man you used to know, Alphonse Harding. He's out there somewhere, but no one will try and find him. hes what the COI made him, in his own words, \"I AM YOUR BEAST\"",
+            "Weight": 0.11,
+            "PrefabPath": "clothing/iamyourbeast.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "685166f1cf8877110a7d476f": {
+        "en": {
+            "Name": "Beret (NCR Ranger)",
+            "ShortName": "Beret",
+            "ParentID": "5a341c4086f77401f2541505",
+            "Type": "HEADWEAR",
+            "Description": "The Last Thing You'll Never See, The NCR Rangers",
+            "Weight": 0.11,
+            "PrefabPath": "clothing/ncr_beret.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "686fa9e3e23b119ec0490d2e": {
+        "en": {
+            "Name": "A Familiar Bank Robber's Hockey Mask",
+            "ShortName": "HEAT",
+            "ParentID": "5448e5724bdc2ddf718b4568",
+            "Type": "VIS_OBSERV_DEVICE",
+            "Description": "A mask similar to that used in HEAT",
+            "Weight": 0.6,
+            "PrefabPath": "clothing/heat_hockey_mask.bundle",
+            "TraderId": "RAGMAN"
+        }
+    },
+    "685c6c973ffb1957dcca18c6": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Woodland)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_woodland.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685ceba0cc68cf52d41769e5": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Miami Tiger Stripe)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_tiger.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685ceb6ad8a725381f54a33e": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Digital Arctic)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_artic.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685ceb4be900dd89eededf81": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Partisan)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_partisan.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685c6cfe99d360ee6cbc7985": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Red)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_red.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685c6ce8c15fc38b32190fa9": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Multicam Woodland)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_woodlandmc.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685c6cbbaa9e444cb67c6e7b": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Digital Multicam)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_dgmc.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "685c6ca10bfdee0262637b4f": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Hexagon)",
+            "ShortName": "EXPS3 Cover",
+            "ParentID": "5a74651486f7744e73386dd1",
+            "Type": "5a74651486f7744e73386dd1",
+            "Description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning",
+            "Weight": 0.007,
+            "PrefabPath": "Attachments/eotech/eotech_skin_hex.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68340d1d407f065e9c181c4b": {
+        "en": {
+            "Name": "AR-15 DURAMAG SS 7.62x39 28-round magazine",
+            "ShortName": "SS7.62",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "The 7.62x39 DURAMAG SS magazines are the ultimate choice for running this caliber in any AR15 style firearm. Feeding tapered cases like the 7.62x39mm into the straight magazine well of the AR platform has never been easy. Until DURAMAG™, many thought the combination was simply not possible to produce reliably. Thanks to extensive quality control built into their designs, every magazine is sure to run flawlessly. With DURAMAG SS, now you can finally enjoy the close-in power of 7.62x39mm reliably in your AR platform.",
+            "PrefabPath": "Mags/mag_ar15_762x39_std.bundle"
+        }
+    },
+    "683410a82481761ba836b719": {
+        "en": {
+            "Name": "AR-15 DURAMAG SS 7.62x39 28-round magazine (FDE)",
+            "ShortName": "SS7.62",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "The 7.62x39 DURAMAG SS magazines are the ultimate choice for running this caliber in any AR15 style firearm. Feeding tapered cases like the 7.62x39mm into the straight magazine well of the AR platform has never been easy. Until DURAMAG™, many thought the combination was simply not possible to produce reliably. Thanks to extensive quality control built into their designs, every magazine is sure to run flawlessly. With DURAMAG SS, now you can finally enjoy the close-in power of 7.62x39mm reliably in your AR platform. Flat Dark Earth version.",
+            "PrefabPath": "Mags/mag_stanag_ar15_762x39_fde.bundle"
+        }
+    },
+    "683427e8e0e4e228b35746b2": {
+        "en": {
+            "Name": "AR-15 DURAMAG SS 7.62x39 28-round magazine (Banana)",
+            "ShortName": "SS7.62",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "The 7.62x39 DURAMAG SS magazines are the ultimate choice for running this caliber in any AR15 style firearm. Feeding tapered cases like the 7.62x39mm into the straight magazine well of the AR platform has never been easy. Until DURAMAG™, many thought the combination was simply not possible to produce reliably. Thanks to extensive quality control built into their designs, every magazine is sure to run flawlessly. With DURAMAG SS, now you can finally enjoy the close-in power of 7.62x39mm reliably in your AR platform. The magazine is painted in a tactical banana yellow color.",
+            "PrefabPath": "Mags/mag_stanag_ar15_762x39_banan.bundle"
+        }
+    },
+    "6838002ebc797af7bb290126": {
+        "en": {
+            "Name": "AR-15 7.62x39 Magpul PMAG D-60 STANAG 50-round magazine",
+            "ShortName": "PMAG D60",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A modified Magpul D-60 drum mag, adjusted to feed 7.62x39mm rounds with a 50-round capacity.",
+            "PrefabPath": "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_d-60_556x45_60.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683997f125039545c12878e9": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine (Black)",
+            "ShortName": "L7AWM",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 20-round double-stack L7AWM 20 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems.",
+            "PrefabPath": "Mags/mag_ar10_lancer_l7awm_black.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683998905b1e1abba12906fa": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine (OD)",
+            "ShortName": "L7AWM",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 20-round double-stack L7AWM 20 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems.",
+            "PrefabPath": "Mags/mag_ar10_lancer_l7awm_od.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683998a2a3d4391d033bfd14": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 25-round magazine",
+            "ShortName": "L7AWM",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 25-round double-stack L7AWM 25 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems.",
+            "PrefabPath": "Mags/mag_ar10_lancer_l7awm25_blk.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683998dc60787632112a564b": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 25-round magazine",
+            "ShortName": "L7AWM",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 25-round double-stack L7AWM 25 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems.",
+            "PrefabPath": "Mags/mag_ar10_lancer_l7awm25_od.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683a12c7d537b28200e5ee29": {
+        "en": {
+            "Name": "AK-74 5.45x39 PUFGUN four-row 60-round magazine",
+            "ShortName": "FOUR-ROW",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 60-round 5.45x39 quad-stack polymer PUFGUN magazine for AK-74 and compatible systems. Produced in a small batch, never serialized.",
+            "Weight": 0.26,
+            "PrefabPath": "Mags/mag_ak74_pufgun_545x39_60_blk.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683a1371f996ec99106d798f": {
+        "en": {
+            "Name": "AK-74 5.45x39 PUFGUN four-row 60-round magazine (FDE)",
+            "ShortName": "FOUR-ROW",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 60-round 5.45x39 quad-stack polymer PUFGUN magazine for AK-74 and compatible systems. Produced in a small batch, never serialized.",
+            "Weight": 0.26,
+            "PrefabPath": "Mags/mag_ak74_pufgun_545x39_60_fde.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683a13827885b3617ee7c4ac": {
+        "en": {
+            "Name": "AK-74 5.45x39 PUFGUN four-row 60-round magazine (OD)",
+            "ShortName": "FOUR-ROW",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 60-round 5.45x39 quad-stack polymer PUFGUN magazine for AK-74 and compatible systems. Produced in a small batch, never serialized.",
+            "Weight": 0.26,
+            "PrefabPath": "Mags/mag_ak74_pufgun_545x39_60_od.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "683b8054f517f6d38258347a": {
+        "en": {
+            "Name": "5.56x45 IMI Defense G1 20-round magazine",
+            "ShortName": "IMI-ZMG",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "The IMI Defense G1 is a 20-round 5.56x45 NATO (.223 Remington) polymer magazine for AR-15/M4 compatible weapons.",
+            "PrefabPath": "Mags/mag_ar15_20rnd.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "6844876f9fa2c3020f7e605b": {
+        "en": {
+            "Name": "AR-15 USGI 5.56x45 20-round magazine",
+            "ShortName": "USGI",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "This AR-15 USGI 5.56x45mm 20-round magazine is a durable, military-grade mag designed for reliability and performance. Made from lightweight aluminum with a hard-anodized finish, it features a stainless steel spring and anti-tilt follower for smooth, consistent feeding. Compact and ideal for bench shooting or prone positions, it's a dependable choice for any AR-platform rifle chambered in 5.56 NATO or .223 Remington.",
+            "PrefabPath": "Mags/mag_ar15_metal_20rnd.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68456f9b6e8e7398568cb130": {
+        "en": {
+            "Name": "AR-15 USGI Vintage 5.56x45 20-round magazine",
+            "ShortName": "USGI Vintage",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A Vintage USGI 5.56x45 20-round magazine, manufactured around the time of the Vietnam War. These mags were often loaded with only 18-rounds to avoid spring fatigue and weapon jamming, as such it is not recommended to load above 18 rounds into this specific magazine.",
+            "PrefabPath": "Mags/mag_ar15_metal_20rnd.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad249bce3002b5557179a": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Hello Kitty)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Tactical Pink Edition.",
+            "PrefabPath": "Mags/mag_gen_m3_556_30_hellokitty.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad2f0afaa1e09e33f6e4e": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Blue Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Blue Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_blue.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad30d119a380ad788ca99": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Green Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Green Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_green.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad31e98c2a3f3c98bb972": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Olive Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Olive Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_olive.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad327d4248b17d786bf20": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Orange Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Orange Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_orange.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad33fde45241954083376": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Pink Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Pink Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_pink.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad34c0dd71df0d118c615": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Purple Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Purple Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_purple.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad359d653b358b52d620d": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Red Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Red Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_red.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad3635211455de05bd9ca": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (FDE Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Flat Dark Earth Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_tan.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad379aa4d15493bb5f5ab": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (White Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote White Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_white.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "684ad38b12ad0f86b3c3c1cd": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Yellow Baseplate)",
+            "ShortName": "GEN M3",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine, for 5.56x45 ammunition. Features a Cerakote Yellow Baseplate to assist with recovering dropped magazines.",
+            "PrefabPath": "Mags/Baseplates/mag_gen_m3_556_30_yellow.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "686766e88f9b6a0f8138905c": {
+        "en": {
+            "Name": "AK-74 5.45x39 Echoes Defense \"Crew\" 30-Round Cutout Magazine",
+            "ShortName": "Crew",
+            "ParentID": "MAGAZINE",
+            "Type": "MAGAZINE",
+            "Description": "A wide \"Window\" AK-74 metal magazine with a leather grip",
+            "PrefabPath": "Mags/magazine_ak74_cutout.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "68448a8f65afa711f83c6c29": {
+        "en": {
+            "Name": "AR-15 Indignant Arms Streamline pistol grip (Walnut)",
+            "ShortName": "Streamline",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "The Indignant Arms Streamline pistol grip is designed off the standard Streamline grip but with some exotic wood accents for a classy and stylish look. Manufactured by Indignant Arms.",
+            "Weight": 0.12,
+            "PrefabPath": "Attachments/Grips/pistolgrip_ar15_metal+wood_nobeavertail.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68448ab5f77d8f147af0135c": {
+        "en": {
+            "Name": "AR-15 Hogue MSR-15 polymer pistol grip",
+            "ShortName": "MSR-15",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "Made by Houge, this grip is molded out of an extremely durable thermoplastic, and features a cobblestone texture on the sides in order to maintain grip and accuracy.",
+            "PrefabPath": "Attachments/Grips/pistolgrip_ar15_plastic_beavertail.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "68448ab26eedaa77e5bc9b7d": {
+        "en": {
+            "Name": "AR-15 Promag Industries Tactical pistol grip",
+            "ShortName": "PM155",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "The PM155 pistol grip is ambidextrous and ergonomic, allowing a comfortable grip for all operators, whether from the left or right side. Molded from a proprietary black polymer. It has a heavily textured surface for a positive grip with finger grooves and palm swell.",
+            "Weight": 0.1,
+            "PrefabPath": "Attachments/Grips/pistolgrip_ar15_polymer_bbeavertail.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68448ab00ad8edb85f513c71": {
+        "en": {
+            "Name": "AR-15 Magpul MOE-K Low Profile pistol grip",
+            "ShortName": "MOE-K AR15",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "The Magpul MOE (Magpul original equipment) K grip is a drop in upgrade for your AR-15 rifle, pistol or AR lower receivers. The K Grip is and ergonomic, low profile pistol grip with a steeper grip angle designed with a smaller circumference. This one piece reinforced polymer pistol grip features aggressive texturing and is not storage core capable. This MOE K grip comes with all the hardware needed to mount the grip and the grips come in a variety of tactical and fun colors. This MOE K grip will also work with AR-10 type rifles and lower receivers.",
+            "Weight": 0.03,
+            "PrefabPath": "Attachments/Grips/pistolgrip_ar15_polymer_nobeavertail.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "68448aae27efb176e93b8d28": {
+        "en": {
+            "Name": "AR-15 ergonomic wooden pistol grip",
+            "ShortName": "Ergo Wood",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "An ergonomic wooden pistol grip for the AR-15-series of rifles.",
+            "Weight": 0.15,
+            "PrefabPath": "Attachments/Grips/pistolgrip_ar15_wood_nobeavertail.bundle",
+            "TraderId": "SKIER"
+        }
+    },
+    "68534694bd5b4bbd0ef88134": {
+        "en": {
+            "Name": "AR-15 Diemaco C7A2 pistol grip",
+            "ShortName": "C7A2",
+            "ParentID": "55818a684bdc2ddd698b456d",
+            "Type": "PISTOLGRIP",
+            "Description": "The Diemaco C7A2 polymer pistol grip can be installed on any weapon compatible with AR-15 grips. Standard-issue for all AR-15-based weapons of Canadian Armed Forces. Manufactured by Diemaco (or Colt Canada.)",
+            "PrefabPath": "Attachments/Grips/pistolgrip_ar15_colt_c7a2.bundle",
+            "TraderId": "PEACEKEEPER"
+        }
+    },
+    "670861c9a1b0118c6439342f": {
+        "en": {
+            "Name": "Tron's Judgement",
+            "ShortName": "Tron",
+            "ParentID": "57864a3d24597754843f8721",
+            "Type": "57864a3d24597754843f8721",
+            "Description": "The Judgement Of Tron Weighs Light On Your Soul And Shall Carry You Onwards",
+            "Weight": -15,
+            "PrefabPath": "Item_Statics/viper_tron.bundle"
+        }
+    },
+    "674a83abcb7ed7b7ca176fed": {
+        "en": {
+            "Name": "Large Ammo Box",
+            "ShortName": "Ammo",
+            "ParentID": "5795f317245977243854e041",
+            "Type": "COMMON_CONTAINER",
+            "Description": "Old ammo box, covered in rust but gets the job done",
+            "Weight": 1,
+            "PrefabPath": "Item_Statics/viperammobox.bundle",
+            "TraderId": "PRAPOR"
+        }
+    },
+    "6735cd01d2385d93b55af11b": {
+        "en": {
+            "Name": "Echoes Defense Armor Plate Box",
+            "ShortName": "Plates",
+            "ParentID": "5795f317245977243854e041",
+            "Type": "COMMON_CONTAINER",
+            "Description": "The Echoes Defense Armor Plate Box is a heavy-duty storage unit crafted to securely house and organize your armor plates. Built with tactical durability in mind, this Box features reinforced walls and internal compartments tailored to hold a variety of plate sizes, ensuring they're protected and ready for rapid deployment. Unlike a plate carrier, the Armor Plate Box is designed for stationary or transport use, making it ideal for secure locations or mobile bases. Depend on Echoes Defense's trusted quality to keep your armor inventory safe, accessible, and battle-ready at ales.",
+            "Weight": 5,
+            "PrefabPath": "Item_Statics/item_container_ft_armor_box.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "683b619a7d4aa2d4645e369e": {
+        "en": {
+            "Name": "Eukyre's Jazz Bass",
+            "ShortName": "Bass",
+            "ParentID": "57864a3d24597754843f8721",
+            "Type": "57864a3d24597754843f8721",
+            "Description": "A miniature-scale Fender Jazz Bass guitar, used as a collectible. Created based on a 'Miami Vice' color scheme.",
+            "PrefabPath": "Item_Statics/item_barter_bass_maple.bundle",
+            "TraderId": "MECHANIC"
+        }
+    },
+    "684e2a6d3b15259de3a2aa0b": {
+        "en": {
+            "Name": "Gigi Murin Origami Figure",
+            "ShortName": "Gigi",
+            "ParentID": "57864a3d24597754843f8721",
+            "Type": "57864a3d24597754843f8721",
+            "Description": "Boat Goes Binted?",
+            "Weight": 0.05,
+            "PrefabPath": "Item_Statics/boatgoesbinted.bundle"
+        }
+    },
+    "685156cf1525c3f6a8929e61": {
+        "en": {
+            "Name": "A Soldier's Jammed Rifle",
+            "ShortName": "EpicJamTime",
+            "ParentID": "57864a3d24597754843f8721",
+            "Type": "57864a3d24597754843f8721",
+            "Description": "A Hard-Jammed rifle, no longer useable but a trader may still find value in it",
+            "Weight": 0.05,
+            "PrefabPath": "Item_Statics/epicjamtime.bundle"
+        }
+    }
+}

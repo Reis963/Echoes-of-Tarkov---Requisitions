@@ -1,0 +1,1862 @@
+{
+    "685986b9f3b3a12b2546f999": {
+        "en": {
+            "Name": "ORSIS AR-15J .366 TKM assault carbine",
+            "ShortName": "AR-15J"
+        }
+    },
+    "685986e77e1518fb3729a164": {
+        "en": {
+            "Name": "AR-15J .366 TKM 20 inch barrel",
+            "ShortName": "AR-15J 20\""
+        }
+    },
+    "685986ffb813072ae5e3a91c": {
+        "en": {
+            "Name": "AR-15J .366 TKM 16 inch barrel",
+            "ShortName": "AR-15J 16\""
+        }
+    },
+    "6859871963864f672853b1e1": {
+        "en": {
+            "Name": "AR-15J .366 TKM upper receiver",
+            "ShortName": "AR-15J"
+        }
+    },
+    "6859872fb5698809d7a4f446": {
+        "en": {
+            "Name": "Anderson AM-15 7.62x39 assault rifle",
+            "ShortName": "AM-15"
+        }
+    },
+    "68598755a24f2d1dc31ff114": {
+        "en": {
+            "Name": "AM-15 7.62x39 20 inch barrel",
+            "ShortName": "AM-15 20\""
+        }
+    },
+    "68598764b693cb1d960bc175": {
+        "en": {
+            "Name": "AM-15 7.62x39 16 inch barrel",
+            "ShortName": "AM-15 16\""
+        }
+    },
+    "6859877193867246761215df": {
+        "en": {
+            "Name": "AM-15 7.62x39 upper receiver",
+            "ShortName": "AM-15"
+        }
+    },
+    "6828f3c5a1e409ab7d163228": {
+        "en": {
+            "Name": "Kalashnikov AK-12/9 \"Buivol\" 9x39 assault rifle",
+            "ShortName": "AK-12/9"
+        }
+    },
+    "68291dcbc8bb6e883871070f": {
+        "en": {
+            "Name": "Kalashnikov AK-15 7.62x39 assault rifle",
+            "ShortName": "AK-15"
+        }
+    },
+    "682905e1c929663383729e1f": {
+        "en": {
+            "Name": "Kalashnikov AK-19 5.56x45 assault rifle",
+            "ShortName": "AK-19"
+        }
+    },
+    "682912faa514fff2d8f72838": {
+        "en": {
+            "Name": "Kalashnikov AK-19-1 .300 Blackout assault rifle",
+            "ShortName": "AK-19-1"
+        }
+    },
+    "682f527ae74a24cfa1d3f5c5": {
+        "en": {
+            "Name": "Riley Defense RAK74-P semi-automatic rifle",
+            "ShortName": "RAK74-P"
+        }
+    },
+    "6877c5b45aa830fbbd30287d": {
+        "en": {
+            "Name": "Glock 41 45ACP pistol",
+            "ShortName": "Glock 41"
+        }
+    },
+    "6877ca805df68471d242e39c": {
+        "en": {
+            "Name": "Glock 21 45ACP Barrel",
+            "ShortName": "G21 Barrel"
+        }
+    },
+    "6877cbd051bbc7ad6b75cfc0": {
+        "en": {
+            "Name": "Glock 21 45ACP Threaded Barrel",
+            "ShortName": "G21 Thread"
+        }
+    },
+    "6877cb6f91986cdeb43d6b8d": {
+        "en": {
+            "Name": "Glock 21 45ACP Compensated Barrel",
+            "ShortName": "G12 Comp"
+        }
+    },
+    "68324e7849e4f772900f58e8": {
+        "en": {
+            "Name": "Remington Model 700 6.5x48 bolt-action sniper rifle",
+            "ShortName": "M700 6.5CM"
+        }
+    },
+    "68324f0538b6ba82bdce2bf2": {
+        "en": {
+            "Name": "M700 6.5x48mm 20 inch stainless steel threaded barrel",
+            "ShortName": "M700 20\""
+        }
+    },
+    "68324f72e465bb18760c71d6": {
+        "en": {
+            "Name": "M700 6.5x48mm 26 inch barrel",
+            "ShortName": "M700 26\""
+        }
+    },
+    "68324f83171416242d1a0ac1": {
+        "en": {
+            "Name": "M700 6.5x48mm 20 inch threaded barrel",
+            "ShortName": "M700 20\""
+        }
+    },
+    "68324f9ec1bdc884028b3490": {
+        "en": {
+            "Name": "M700 6.5x48mm 26 inch stainless steel barrel",
+            "ShortName": "M700 26\""
+        }
+    },
+    "683df636e1e3fa1bf165f7ed": {
+        "en": {
+            "Name": "SIG MCX Multicaliber assault rifle",
+            "ShortName": "MCX"
+        }
+    },
+    "68814661d46adeabb1fd34e4": {
+        "en": {
+            "Name": "Echoes Defense Mosin Nagant Club Stock",
+            "ShortName": "Club"
+        }
+    },
+    "688147178f10f169ad284c59": {
+        "en": {
+            "Name": "Echoes Defense Precision Stock",
+            "ShortName": "Precision"
+        }
+    },
+    "6881470e381d0bec3a5c1634": {
+        "en": {
+            "Name": "Echoes Defense \"Steampunk\" Stock",
+            "ShortName": "Steampunk"
+        }
+    },
+    "68814705330d386beedb261a": {
+        "en": {
+            "Name": "Echoes Defense \"Lone Rider\" Stock",
+            "ShortName": "Lone Rider"
+        }
+    },
+    "688146faa1fe329f3764fc42": {
+        "en": {
+            "Name": "Echoes Defense \"EBlock\" Stock",
+            "ShortName": "EBlock"
+        }
+    },
+    "688146f0804ed8230483b927": {
+        "en": {
+            "Name": "Echoes Defense Mosin Nagant Stock",
+            "ShortName": "Mosin"
+        }
+    },
+    "6881476e0b6753add5380b28": {
+        "en": {
+            "Name": "Echoes Defense \"Needle\" Front End Assembly",
+            "ShortName": "Needle"
+        }
+    },
+    "688148131b0b0fa0b7898762": {
+        "en": {
+            "Name": "Echoes Defense \"Peg Leg\" Front End Asssembly",
+            "ShortName": "Peg Leg"
+        }
+    },
+    "68814800f91cd99eba93b68a": {
+        "en": {
+            "Name": "Echoes Defense Mosin Nagant Front End Assembly",
+            "ShortName": "Mosin"
+        }
+    },
+    "688147ee0bb9506a7b837b1b": {
+        "en": {
+            "Name": "Echoes Defense \"Steampunk\" Front End Assembly",
+            "ShortName": "Steampunk"
+        }
+    },
+    "688147da863e8a2ded50343c": {
+        "en": {
+            "Name": "Echoes Defense Hull Front End Assembly",
+            "ShortName": "Hull"
+        }
+    },
+    "68814881374149d69521a06c": {
+        "en": {
+            "Name": "Echoes Defense 10 round Mosin Nagant Magazine",
+            "ShortName": "Echoes"
+        }
+    },
+    "688148c8b3c62ac647fa167f": {
+        "en": {
+            "Name": "Echoes Defense 20 round Mosin Nagant Magazine",
+            "ShortName": "Echoes"
+        }
+    },
+    "6881497a58d2d3fa97aa6f3d": {
+        "en": {
+            "Name": "Echoes Defense Crescent Rear Iron Sight",
+            "ShortName": "Crescent"
+        }
+    },
+    "6881499888decf78e3f59ca7": {
+        "en": {
+            "Name": "Echoes Defense Blood Moon Rear Iron Sight",
+            "ShortName": "Blood"
+        }
+    },
+    "68814985f041a9d5029b5409": {
+        "en": {
+            "Name": "Echoes Defense Castle Rear Iron Sight",
+            "ShortName": "Castle"
+        }
+    },
+    "6851b6e2af2384018031916b": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 pistol",
+            "ShortName": "P320"
+        }
+    },
+    "6851b7eaae4e0776eacd8f0c": {
+        "en": {
+            "Name": "SIG Sauer SIG Sauer P320 9x19 3.9 inch barrel",
+            "ShortName": "P320 3.9\""
+        }
+    },
+    "6851b81c8af065063baef9e7": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 4.7 inch barrel",
+            "ShortName": "P320 4.7\""
+        }
+    },
+    "685417290f365b87aefc636f": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.6 inch barrel",
+            "ShortName": "P320 3.6\""
+        }
+    },
+    "6851b81a022c968c773eb317": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.9 inch barrel with PMM Duty compensator (Black)",
+            "ShortName": "PMM 3.9\""
+        }
+    },
+    "68541753c2fb38f2aebaab59": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.6 inch barrel with PMM Micro compensator (Black)",
+            "ShortName": "PMM 3.6\""
+        }
+    },
+    "6851b9742c25a4ca59b66f56": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 3.9 inch barrel with PMM Ultra compensator (Black)",
+            "ShortName": "PMM 3.9\""
+        }
+    },
+    "6851b93d2a9eb74a5848c75f": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 4.7 inch barrel with PMM Micro compensator (Black)",
+            "ShortName": "PM 4.7\""
+        }
+    },
+    "6851b9fbf52bb35b3dd1b141": {
+        "en": {
+            "Name": "SIG Sauer P320 3.6 inch pistol slide (Black)",
+            "ShortName": "Compact 3.6\""
+        }
+    },
+    "6851ba413a4b2ace19713b82": {
+        "en": {
+            "Name": "SIG Sauer P320 3.6 inch pistol slide (Burnt Bronze)",
+            "ShortName": "Compact 3.6\""
+        }
+    },
+    "6851ba48142a766a3ddbf068": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch pistol slide (Black)",
+            "ShortName": "Sub-Compact 3.9\""
+        }
+    },
+    "6851ba58e3df25a92eb1f1e7": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch pistol slide (Burnt Bronze)",
+            "ShortName": "Sub-Compact 3.9\""
+        }
+    },
+    "6851ba63dde19f7ba9376418": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch pistol slide (Black)",
+            "ShortName": "Std. 4.7\""
+        }
+    },
+    "6851ba70c4ecd7d4866368f1": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch pistol slide (Burnt Bronze)",
+            "ShortName": "Std. 4.7\""
+        }
+    },
+    "6851bad98f3bd02ba613fd8a": {
+        "en": {
+            "Name": "SIG Sauer P320 standard trigger",
+            "ShortName": "P320 trig."
+        }
+    },
+    "6851bb61df6b0ce4f48bc269": {
+        "en": {
+            "Name": "SIG Sauer P320 9x19 17-round magazine (Black)",
+            "ShortName": "P320"
+        }
+    },
+    "6851bbdb62458162cb7c6cb1": {
+        "en": {
+            "Name": "SIG Sauer P320 standard rear sight",
+            "ShortName": "STD RS"
+        }
+    },
+    "6851bcaf86f5053e58873942": {
+        "en": {
+            "Name": "SIG Sauer P320 standard front sight",
+            "ShortName": "STD FS"
+        }
+    },
+    "6851bd3f607f3681aabf337d": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch frame (Black)",
+            "ShortName": "P320 4.7\""
+        }
+    },
+    "6851bd9eaf266d68a7f46e08": {
+        "en": {
+            "Name": "SIG Sauer P320 4.7 inch frame (FDE)",
+            "ShortName": "P320 4.7\""
+        }
+    },
+    "6851bd95705951bda42e2ea9": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch frame (Black)",
+            "ShortName": "P320 3.9\""
+        }
+    },
+    "6851bd8a22decaf508db4dd9": {
+        "en": {
+            "Name": "SIG Sauer P320 3.9 inch frame (FDE)",
+            "ShortName": "P320 3.9\""
+        }
+    },
+    "684b257022b8260501141308": {
+        "en": {
+            "Name": "Taran Tactical Pit Viper 9x19 pistol",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "684b2662bab8ebd87f683c57": {
+        "en": {
+            "Name": "TTI Pit Viper 9x19mm barrel",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "684b2623dd333cf908b7c695": {
+        "en": {
+            "Name": "TTI Pit Viper 9x19mm pistol slide",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "684b262a5aa7a321ae3a7b5b": {
+        "en": {
+            "Name": "TTI Pit Viper hammer",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "684b2626a61732cce6be2fdc": {
+        "en": {
+            "Name": "TTI Viper 2011-style lightweight trigger",
+            "ShortName": "2011"
+        }
+    },
+    "684b261ee900b79b5be17c74": {
+        "en": {
+            "Name": "TTI Pit Viper 21-round 9x19mm magazine",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "684b271ce72d12cf50b2a0dd": {
+        "en": {
+            "Name": "TTI Pit Viper rear sight",
+            "ShortName": "Pit Viper RS"
+        }
+    },
+    "684c82392d2fcfb8cf184096": {
+        "en": {
+            "Name": "Taran Tactical Sand Viper 9x19 pistol",
+            "ShortName": "Sand Viper"
+        }
+    },
+    "684c83519d828b835e4de523": {
+        "en": {
+            "Name": "TTI Viper 2011-series 9x19 barrel (Black)",
+            "ShortName": "2011"
+        }
+    },
+    "684c833b3bdccfaa40d0a6dd": {
+        "en": {
+            "Name": "TTI Sand Viper 9x19mm pistol slide",
+            "ShortName": "Sand Viper"
+        }
+    },
+    "684c8311b6f88a4f907a56da": {
+        "en": {
+            "Name": "TTI Viper 2011-series hammer (Black)",
+            "ShortName": "2011"
+        }
+    },
+    "684c82e76dabc752e00593bb": {
+        "en": {
+            "Name": "TTI Viper 2011-style lightweight trigger (Black)",
+            "ShortName": "2011"
+        }
+    },
+    "684c82b542181ad26bb14ba7": {
+        "en": {
+            "Name": "TTI Sand Viper 21-round 9x19mm magazine",
+            "ShortName": "Sand Viper"
+        }
+    },
+    "684e0b554db15cdca601b0eb": {
+        "en": {
+            "Name": "Taran Tactical Pit Viper 9x19 pistol (Black)",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "684e0c09f79c6ec37bba1cca": {
+        "en": {
+            "Name": "TTI Pit Viper 21-round 9x19mm magazine (Black)",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "684e0bef63b548c92ff2e134": {
+        "en": {
+            "Name": "TTI Pit Viper 9x19mm pistol slide (Black)",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "682a97a707ec1d7ca369afc4": {
+        "en": {
+            "Name": "FN SCAR-L MK2 .300 Blackout assault rifle",
+            "ShortName": "SCAR-L"
+        }
+    },
+    "682b26375d8f048fff0b6aab": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout 10 inch barrel",
+            "ShortName": "MK.2 10\""
+        }
+    },
+    "682b2d48d13aded50d00dd7e": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout 14 inch barrel",
+            "ShortName": "MK.2 14\""
+        }
+    },
+    "682b2e33350460eec842c33f": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout 18 inch barrel",
+            "ShortName": "MK.2 18\""
+        }
+    },
+    "682b2a1b3326cca5a1ced18d": {
+        "en": {
+            "Name": "FN SCAR-L MK.2 .300 Blackout upper receiver",
+            "ShortName": "MK.2"
+        }
+    },
+    "682a543094114c092df7373e": {
+        "en": {
+            "Name": "Molot Arms VPO-208 .366 TKM carbine",
+            "ShortName": "VPO-208"
+        }
+    },
+    "6831efcaf17211a895bbccc4": {
+        "en": {
+            "Name": "Knight's Armament Company SR-25 E2 PR 6.5x48 assault rifle",
+            "ShortName": "SR-25"
+        }
+    },
+    "683d23831960b7bac66f4f05": {
+        "en": {
+            "Name": "Echoes Defense SR-8.6 8.6 Blackout assault rifle",
+            "ShortName": "SR-8.6"
+        }
+    },
+    "67b05e25d83f07b7b587c0b5": {
+        "en": {
+            "Name": "HK UMP 9x19 submachine gun",
+            "ShortName": "UMP9"
+        }
+    },
+    "67b05e48729b9634d308785b": {
+        "en": {
+            "Name": "HK UMP 9 9x19mm 30-round magazine",
+            "ShortName": "UMP 9"
+        }
+    },
+    "67b103c4de263ed687dc57df": {
+        "en": {
+            "Name": "HK UMP 9 9x19mm 20-round magazine",
+            "ShortName": "UMP 9"
+        }
+    },
+    "67b103d5de03be3c18660473": {
+        "en": {
+            "Name": "HK UMP 9 9x19mm 42-round magazine",
+            "ShortName": "UMP 9"
+        }
+    },
+    "67b177a799cc45072ce66e17": {
+        "en": {
+            "Name": "HK UMP 9x19mm 8 inch threaded barrel",
+            "ShortName": "UMP-9 8\" thr."
+        }
+    },
+    "67b177b22bb79fe63fea01d8": {
+        "en": {
+            "Name": "HK UMP 9x19mm 8 inch barrel",
+            "ShortName": "UMP-9 8\""
+        }
+    },
+    "683e1e4fb9312d2a544b2834": {
+        "en": {
+            "Name": "Aklys Defense Velociraptor 7.62x39 assault rifle",
+            "ShortName": "Velociraptor 7.62"
+        }
+    },
+    "684489fe2cc79fb0b0fd98af": {
+        "en": {
+            "Name": "M16A1 5.56x45 upper reciever",
+            "ShortName": "M16A1"
+        }
+    },
+    "684488b1c9ead5b831d49ac8": {
+        "en": {
+            "Name": "M16A2 5.56x45 upper reciever",
+            "ShortName": "M16A2"
+        }
+    },
+    "6838e20d9d86f2aa3a05fc37": {
+        "en": {
+            "Name": "Echoes Defense M45A1 custom pistol slide with ACRO mount",
+            "ShortName": "M45A1 ACRO"
+        }
+    },
+    "6837aa4c2491fc57390a6cc4": {
+        "en": {
+            "Name": "M1911A1 pistol slide with RMR mount",
+            "ShortName": "1911 RMR"
+        }
+    },
+    "68876b14f7c109ba48f1d913": {
+        "en": {
+            "Name": "FN Five-seveN MK2 pistol slide (FDE)",
+            "ShortName": "5-7"
+        }
+    },
+    "682a687311702a43c945c16b": {
+        "en": {
+            "Name": "VPO-208 .366 TKM 520mm smoothbore barrel",
+            "ShortName": "VPO 208 520mm"
+        }
+    },
+    "683b8b1c34db67335d606cde": {
+        "en": {
+            "Name": "AR-15 5.56x45 7.5 inch barrel",
+            "ShortName": "AR-15 7.5\""
+        }
+    },
+    "68396f06a46bcb7eff21b8b9": {
+        "en": {
+            "Name": "MCX .300 BLK 16 inch barrel",
+            "ShortName": "MCX 16\""
+        }
+    },
+    "683dfa33e56f6b8928521a6b": {
+        "en": {
+            "Name": "MCX 5.56x45 16 inch barrel",
+            "ShortName": "MCX 5.56 16\""
+        }
+    },
+    "683dfe5498130dba46752d1c": {
+        "en": {
+            "Name": "MCX 5.56x45 9 inch barrel",
+            "ShortName": "MCX 5.56 9\""
+        }
+    },
+    "683dfeaeff18ffe3496e1a9b": {
+        "en": {
+            "Name": "MCX 5.56x45 6.75 inch barrel",
+            "ShortName": "MCX 5.56 6.75\""
+        }
+    },
+    "684b8286dde6947266032faa": {
+        "en": {
+            "Name": "AR-15 M16-series 5.56x45 20 inch rifle length barrel",
+            "ShortName": "M16 20\""
+        }
+    },
+    "687159e9b65803e26805d752": {
+        "en": {
+            "Name": "AR-15 M16-series 5.56x45 Dissapator barrel",
+            "ShortName": "Dissapator"
+        }
+    },
+    "687527737814532e07abe6d5": {
+        "en": {
+            "Name": "Mk-18 .338 LM \"ThunderLite\" barrel",
+            "ShortName": "Thunderlite"
+        }
+    },
+    "68254a77a7fcfa4007cc5250": {
+        "en": {
+            "Name": "DS ARMS RPD metal handguard",
+            "ShortName": "DSA RPD"
+        }
+    },
+    "6744ce7b3e21501218ed77df": {
+        "en": {
+            "Name": "AR-15 JSOC Delta Force free-floating handguard",
+            "ShortName": "JSOC"
+        }
+    },
+    "68376430e87603a6a5237129": {
+        "en": {
+            "Name": "AR-15 Colt M4 Carbine Length FSB lower handguard",
+            "ShortName": "FSB"
+        }
+    },
+    "683bc86a38cff254bc388eb7": {
+        "en": {
+            "Name": "Velociraptor polymer handguard with M-LOK rail",
+            "ShortName": "Vel M-LOK"
+        }
+    },
+    "683c5c81a9078ec8bb7cbfc0": {
+        "en": {
+            "Name": "SA58/FAL Belgian Style Wooden 3-hole handguard",
+            "ShortName": "FAL WOOD"
+        }
+    },
+    "683efa184b18a7908c86ed28": {
+        "en": {
+            "Name": "AR-15 Echoes Defense \"Kat Skratch\" 4 inch handguard",
+            "ShortName": "\"Kat Skratch\""
+        }
+    },
+    "683efaf9331c7a5ce371647e": {
+        "en": {
+            "Name": "AR-15 DPMS \"Kitty Kat\" 4 inch free-float handguard",
+            "ShortName": "\"Kitty Kat\""
+        }
+    },
+    "683efdcfceb019abc8a0e386": {
+        "en": {
+            "Name": "AR-15 Daniel Defense RIS II 12.25 handguard (Black)",
+            "ShortName": "RIS II 12.25\""
+        }
+    },
+    "683efdc53116a4b8bbbe6a73": {
+        "en": {
+            "Name": "AR-15 Precision Reflex GEN III Delta Carbon carbine length handguard",
+            "ShortName": "Delta Carbon"
+        }
+    },
+    "683efdbae549dfcc0132c41d": {
+        "en": {
+            "Name": "AR-15 Midwest Industries Drop-In Carbine length Handguard",
+            "ShortName": "MI Carbine"
+        }
+    },
+    "683efdb7db86d6db51c97819": {
+        "en": {
+            "Name": "AR-15 NcSTAR/VISM 13 inch KeyMod handguard",
+            "ShortName": "VMARKMCE 13\""
+        }
+    },
+    "683efdaed6c2ff9b59d1feaa": {
+        "en": {
+            "Name": "AR-15 Midwest Industries AR10 Gen2 rifle length handguard",
+            "ShortName": "AR10-RHG2"
+        }
+    },
+    "6849dafc5c92377eeabaee5e": {
+        "en": {
+            "Name": "AR-15 Model 601/M16A1 12 inch triangular handguard (Wood)",
+            "ShortName": "M16A1 12\""
+        }
+    },
+    "683efda465871989f2a4da9a": {
+        "en": {
+            "Name": "AR-15 Model 601/M16A1 12 inch triangular handguard",
+            "ShortName": "M16A1 12\""
+        }
+    },
+    "683efd8691b20f2253241411": {
+        "en": {
+            "Name": "AR-15 A2-style 12 inch polymer handguard",
+            "ShortName": "M16A2 12\""
+        }
+    },
+    "683efd7cb750cc7bddbd232f": {
+        "en": {
+            "Name": "AR-15 NcSTAR 13 inch M-LOK handguard",
+            "ShortName": "VMARMLCE 13\""
+        }
+    },
+    "683efd71f59c98d2c4627562": {
+        "en": {
+            "Name": "AR-15 Lancer Tactical modified lightweight 12 inch handguard",
+            "ShortName": "Lancer 12\""
+        }
+    },
+    "683efd600f2babf75038dc1c": {
+        "en": {
+            "Name": "AR-15 Echoes Defense \"Resonant\" handguard",
+            "ShortName": "Resonant"
+        }
+    },
+    "683efd541d3e10a927b1eb47": {
+        "en": {
+            "Name": "AR-15 Wooden 6.6 inch M-LOK handguard",
+            "ShortName": "AR-15 Wood"
+        }
+    },
+    "684b0ebacd8783bec9435103": {
+        "en": {
+            "Name": "AR-15 Colt carbine length triangular handguard",
+            "ShortName": "Tri. Carbine"
+        }
+    },
+    "684c6355888cef0bda78b7ab": {
+        "en": {
+            "Name": "Echoes Defense JSOC Fiberglass 12\" Handguard (Black)",
+            "ShortName": "Fiberglass 12\""
+        }
+    },
+    "684c62af556049c4354d8472": {
+        "en": {
+            "Name": "Echoes Defense JSOC Fiberglass 12\" Handguard (Olive Drab)",
+            "ShortName": "Fiberglass 12\""
+        }
+    },
+    "684c5d9c3df011a53ac540c8": {
+        "en": {
+            "Name": "HK MP5 G3-Style wooden handguard",
+            "ShortName": "MP5/G3"
+        }
+    },
+    "686ac0a97472b14e08b93fdb": {
+        "en": {
+            "Name": "HK MP5 GSG-16 Flashlight Handguard",
+            "ShortName": "GSG-16"
+        }
+    },
+    "6853451cff5342daf833734a": {
+        "en": {
+            "Name": "AR-15 Diemaco C7A2 12 inch polymer handguard",
+            "ShortName": "C7A2 12\""
+        }
+    },
+    "6854fc746b14c40157c24657": {
+        "en": {
+            "Name": "AR-15 Diemaco C8A2 Carbine Length handguard",
+            "ShortName": "C8 Carbine"
+        }
+    },
+    "6854fd553cac02391571d46d": {
+        "en": {
+            "Name": "AR-15 Diemaco C8A2 Carbine Length lower handguard",
+            "ShortName": "C8 Carbine"
+        }
+    },
+    "68599a3ea897c112c06b300a": {
+        "en": {
+            "Name": "AR-15 BCM® KMR Alpha 13 inch KeyMod handguard",
+            "ShortName": "BCM Alpha 13\""
+        }
+    },
+    "68752546fed6022e4313e180": {
+        "en": {
+            "Name": "Echoes Defense MK-18 \"ThunderLite\" Handguard",
+            "ShortName": "ThunderLite"
+        }
+    },
+    "68448bf2f4f9b64cb687698d": {
+        "en": {
+            "Name": "AR-15 A1/A2 Carryhandle Piccatinny mount",
+            "ShortName": "A2 Carry"
+        }
+    },
+    "68448c3ea713d53905743800": {
+        "en": {
+            "Name": "AR-15 A1/A2 Gooseneck Carryhandle mount",
+            "ShortName": "Gooseneck"
+        }
+    },
+    "6845a2443b726a816a6ca79e": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount",
+            "ShortName": "DUAL45"
+        }
+    },
+    "6845a36582114b67fdc12a16": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount (FDE)",
+            "ShortName": "DUAL45"
+        }
+    },
+    "6845a394ddfdb4cac936974e": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount (Anthracite)",
+            "ShortName": "DUAL45"
+        }
+    },
+    "6845a930e3dfd938256267a2": {
+        "en": {
+            "Name": "CN Armament DUAL45 Backup mount (Olive Drab)",
+            "ShortName": "DUAL45"
+        }
+    },
+    "685097dbb9aa83c9e35c5027": {
+        "en": {
+            "Name": "Glock MOS slide cap",
+            "ShortName": "Glock Cap"
+        }
+    },
+    "686a5a6247c881f613196f91": {
+        "en": {
+            "Name": "Canted Aim",
+            "ShortName": "Canted Aim"
+        }
+    },
+    "ebcc99cb85a882749d8a0420": {
+        "en": {
+            "Name": "AR-15 Echoes Defense Skull Crusher 12 inch handguard (Black)",
+            "ShortName": "Skull Crusher"
+        }
+    },
+    "4bdd458936bdc4396f208687": {
+        "en": {
+            "Name": "AR-15 Echoes Defense Skull Crusher 12 inch handguard (Brushed)",
+            "ShortName": "Skull Crusher"
+        }
+    },
+    "4d22dc1279e41c4c46a9cde0": {
+        "en": {
+            "Name": "Skull Crusher full length rail section (Top)",
+            "ShortName": "Skull Rail"
+        }
+    },
+    "390e66bf9f75d28e786fb0db": {
+        "en": {
+            "Name": "Skull Crusher full length rail section (Side)",
+            "ShortName": "Skull Rail"
+        }
+    },
+    "6ff6f054279ba21c8a85fa30": {
+        "en": {
+            "Name": "Skull Crusher full length rail section (Bottom)",
+            "ShortName": "Skull Rail"
+        }
+    },
+    "68267e4dc84aa702da36b421": {
+        "en": {
+            "Name": "Echoes Defense 03-07 Dovetail Mount",
+            "ShortName": "03-07"
+        }
+    },
+    "6826761eaefcd071ca622242": {
+        "en": {
+            "Name": "Echoes Defense EA-RPD \"Afterburn\" 7.62x39 sound suppressor",
+            "ShortName": "Afterburn"
+        }
+    },
+    "6823f57adeb9bd789d936480": {
+        "en": {
+            "Name": "DS ARMS RPD trigger group adapter",
+            "ShortName": "DSA adpt."
+        }
+    },
+    "677156e8951dc3e9452c2520": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Alpine)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "67716a073c81118d119d2709": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Supreme)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "677b046719b59126015ca29d": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (MC-Arid)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "677b199194edfa4e074cb73d": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Highlander)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "67716a6fd639fc1f46654118": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "677175a7a7e415e777e70142": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Coyote Tan)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "677175c6e30ba9a64c9dcbfa": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Mandrake)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "677175e54489e67f44d07ee5": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (MC-Black)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "6771762ffb090be84351f8b2": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Multicam)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "6771762c43e298cc1868787c": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (OD)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "67717641daf63be4d82fd0ae": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Typhoon)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "6771765fb92297fbbff35005": {
+        "en": {
+            "Name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Woodland)",
+            "ShortName": "Strikewrap"
+        }
+    },
+    "676ae8df0a06ddaacadf9000": {
+        "en": {
+            "Name": "Echoes Defense Nightfall LX .45 ACP sound suppressor",
+            "ShortName": "Nightfall LX"
+        }
+    },
+    "676ad911fea83190f42c8921": {
+        "en": {
+            "Name": "Echoes Defense Nightfall LX .45 ACP sound suppressor (Worn)",
+            "ShortName": "Nightfall LX"
+        }
+    },
+    "66e6079e3436b2699e9d7d8c": {
+        "en": {
+            "Name": "Haggar Arms Xenon-45 .45 ACP sound suppressor",
+            "ShortName": "Xenon-45"
+        }
+    },
+    "66e4fcaf9d49225cdd35eebb": {
+        "en": {
+            "Name": "Fulson Machine Hex 46 Multi-Caliber sound suppressor",
+            "ShortName": "Hex 46"
+        }
+    },
+    "6771857578614af1411b7d9e": {
+        "en": {
+            "Name": "RSB M-LOK foregrip (FDE)",
+            "ShortName": "RSB"
+        }
+    },
+    "677187150147ea6631f5b93f": {
+        "en": {
+            "Name": "RSB M-LOK foregrip",
+            "ShortName": "RSB"
+        }
+    },
+    "68260152bf9583fe2cd70a42": {
+        "en": {
+            "Name": "Die Free Kung Fu AR-15 pistol grip",
+            "ShortName": "Kung Fu"
+        }
+    },
+    "68261803baf2cffc81f2d5eb": {
+        "en": {
+            "Name": "Die Free Kung Fu AR-15 pistol grip (FDE)",
+            "ShortName": "Kung Fu"
+        }
+    },
+    "6826181fad2b06c46f7e22a8": {
+        "en": {
+            "Name": "Die Free Kung Fu AR-15 pistol grip (Green)",
+            "ShortName": "Kung Fu"
+        }
+    },
+    "68270d45b3ca3e273669166a": {
+        "en": {
+            "Name": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor with Manta cover",
+            "ShortName": "556-MANTA"
+        }
+    },
+    "6827160c55ebffbfa1015d86": {
+        "en": {
+            "Name": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor with Manta cover (FDE)",
+            "ShortName": "556-MANTA"
+        }
+    },
+    "68271639f45b338d89a09d20": {
+        "en": {
+            "Name": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor with Manta cover (Green)",
+            "ShortName": "556-MANTA"
+        }
+    },
+    "68272a652182ac144f61b957": {
+        "en": {
+            "Name": "Emissary Development Handbrake MLOK tactical foregrip",
+            "ShortName": "Handbrake"
+        }
+    },
+    "6828cd508974345baeecac96": {
+        "en": {
+            "Name": "Emissary Development Handbrake MLOK tactical foregrip (FDE)",
+            "ShortName": "Handbrake"
+        }
+    },
+    "6828cd620cb2ca5c4c8b318b": {
+        "en": {
+            "Name": "Emissary Development Handbrake MLOK tactical foregrip (Green)",
+            "ShortName": "Handbrake"
+        }
+    },
+    "683368ab9e96f9b3e2abf1d0": {
+        "en": {
+            "Name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab",
+            "ShortName": "Magpul"
+        }
+    },
+    "68338f4801ba4290915da736": {
+        "en": {
+            "Name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab (FDE)",
+            "ShortName": "Magpul"
+        }
+    },
+    "6833970200939258111e5a56": {
+        "en": {
+            "Name": "AR-15 5.56x45 Magpul PMAG 20 GEN M3 W STANAG 20-round magazine With Paracord Pull Tab",
+            "ShortName": "Magpul"
+        }
+    },
+    "683397e656ccb7971bd5fa9e": {
+        "en": {
+            "Name": "AR-15 5.56x45 Colt STANAG 30-round magazine",
+            "ShortName": "Stanag"
+        }
+    },
+    "6834452e20ebf01ead39f660": {
+        "en": {
+            "Name": "AK-74 5.45x39 6L23 30-round magazine Taped (Plum) ",
+            "ShortName": "PLum"
+        }
+    },
+    "6835a63bdbc98d9bc34e025b": {
+        "en": {
+            "Name": "COLT M4A1 gas block with Mossie Midnight 1913 FSB Mount",
+            "ShortName": "FSB Mount"
+        }
+    },
+    "6835ec3c422a8b7b258768af": {
+        "en": {
+            "Name": "Colt M4A1 gas block with Mossie Midnight 1913 FSB Mount",
+            "ShortName": "FSB Mount"
+        }
+    },
+    "68343b29f48104d3a6265db3": {
+        "en": {
+            "Name": "Blackhawk! Smoke Stack .45 ACP sound suppressor",
+            "ShortName": "Smoke Stack"
+        }
+    },
+    "68343c10334d72dc0066a8f3": {
+        "en": {
+            "Name": "Blackhawk! Smoke Stack .45 ACP sound suppressor (FDE)",
+            "ShortName": "Smoke Stack"
+        }
+    },
+    "6836413a03209f8dd9418b47": {
+        "en": {
+            "Name": "M1911 custom side grips (Acajou Wood)",
+            "ShortName": "1911"
+        }
+    },
+    "683641bc924a022369e8b818": {
+        "en": {
+            "Name": "M1911 Kiba Arms Geneburn side grips (Silver)",
+            "ShortName": "Geneburn"
+        }
+    },
+    "683642d774c8a3249e433193": {
+        "en": {
+            "Name": "M1911 custom side grips (Plastic Hex)",
+            "ShortName": "1911"
+        }
+    },
+    "683642e9e4842d8783ec31f1": {
+        "en": {
+            "Name": "M1911 custom side grips (Ivory)",
+            "ShortName": "1911"
+        }
+    },
+    "6836435fa5c9a5c64140f957": {
+        "en": {
+            "Name": "M1911 rubber side grips",
+            "ShortName": "1911 Rubber"
+        }
+    },
+    "68363c6fbfd14a9526e8601b": {
+        "en": {
+            "Name": "SureFire X300 Ultra tactical flashlight",
+            "ShortName": "X300U"
+        }
+    },
+    "6836e6fef34cc1ae734b444c": {
+        "en": {
+            "Name": "Colt M4A1 gas block with Promag bayonet lug rail",
+            "ShortName": "FSB Lug Rail"
+        }
+    },
+    "68377cc2b7f87dd53a2380ad": {
+        "en": {
+            "Name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor",
+            "ShortName": "Phantom M2 QD"
+        }
+    },
+    "68377e40800180a1a99c73a3": {
+        "en": {
+            "Name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor (FDE)",
+            "ShortName": "Phantom M2 QD"
+        }
+    },
+    "68377e36c0ce47ccaae55254": {
+        "en": {
+            "Name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor (Wraith)",
+            "ShortName": "Phantom M2 QD"
+        }
+    },
+    "6837716de936d83c13099eea": {
+        "en": {
+            "Name": "Super QXL Diving flashlight",
+            "ShortName": "QXL"
+        }
+    },
+    "68398cd864a9d113ebab1b77": {
+        "en": {
+            "Name": "Super QXL Diving flashlight (Woodland Wrap)",
+            "ShortName": "QXL"
+        }
+    },
+    "68395bb9f92a92ea0555e4a1": {
+        "en": {
+            "Name": "AR-15 Noveske KX3 5.56x45 flash hider (Desert)",
+            "ShortName": "KX3 556"
+        }
+    },
+    "68395c7abb2e79c208842d7e": {
+        "en": {
+            "Name": "AR-15 Noveske KX3 5.56x45 flash hider (OD)",
+            "ShortName": "KX3 556"
+        }
+    },
+    "68536b5a8533ef3b3f1312c6": {
+        "en": {
+            "Name": "AR-15 Diemaco C7-style front sight tri-rail with gas block",
+            "ShortName": "C7A2"
+        }
+    },
+    "684ca7ab1a059f229b96e1a3": {
+        "en": {
+            "Name": "Trijicon SRO2 reflex sight",
+            "ShortName": "SRO2"
+        }
+    },
+    "684ca7a7dd567362e6a2d719": {
+        "en": {
+            "Name": "Trijicon SRO2 reflex sight (FDE)",
+            "ShortName": "SRO2"
+        }
+    },
+    "684ef6bc3fcbe11882807386": {
+        "en": {
+            "Name": "SIG Sauer ROMEO3 reflex sight",
+            "ShortName": "ROMEO3"
+        }
+    },
+    "684f2ebbd4f01748a7d154b9": {
+        "en": {
+            "Name": "SIG Sauer ROMEO3 reflex sight (FDE)",
+            "ShortName": "ROMEO3"
+        }
+    },
+    "684f2eed5600200459543ecc": {
+        "en": {
+            "Name": "SIG Sauer ROMEO3 reflex sight (Graphite)",
+            "ShortName": "ROMEO3"
+        }
+    },
+    "685b40db60670990eb71ca2d": {
+        "en": {
+            "Name": "EOTech EXPS3 holographic sight (Black)",
+            "ShortName": "EXPS3"
+        }
+    },
+    "68261c84b56f34d8f6a39e1f": {
+        "en": {
+            "Name": "AR-15 Magpul CTR Carbine stock with Cheek-riser",
+            "ShortName": "CTR"
+        }
+    },
+    "68262b6ab2e85c37abd16acb": {
+        "en": {
+            "Name": "AR-15 Magpul CTR Carbine stock with Cheek-riser (FDE)",
+            "ShortName": "CTR"
+        }
+    },
+    "68262ce3a88c1f4f57e5ee37": {
+        "en": {
+            "Name": "AR-15 Magpul CTR Carbine stock with Cheek-riser (Green)",
+            "ShortName": "CTR"
+        }
+    },
+    "682649d62fc7db84eb78548b": {
+        "en": {
+            "Name": "AR-15 High Standard M4SS Stock With Cheek-riser",
+            "ShortName": "M4SS"
+        }
+    },
+    "68264cf5f5076a3afe8dcb20": {
+        "en": {
+            "Name": "AR-15 High Standard M4SS Stock With Cheek-riser (FDE)",
+            "ShortName": "M4SS"
+        }
+    },
+    "68264d1d459d08917414601f": {
+        "en": {
+            "Name": "AR-15 High Standard M4SS Stock With Cheek-riser (Green)",
+            "ShortName": "M4SS"
+        }
+    },
+    "68350ff39748ffaecb636c6e": {
+        "en": {
+            "Name": "SV-98 wooden stock (Digital Flora)",
+            "ShortName": "SV98 wood"
+        }
+    },
+    "68351058699470f269c98eab": {
+        "en": {
+            "Name": "SV-98 wooden stock (Winter Flora)",
+            "ShortName": "SV98 wood"
+        }
+    },
+    "683510625b6fd52fe74c8b0c": {
+        "en": {
+            "Name": "SV-98 wooden stock (KLMK)",
+            "ShortName": "SV98 wood"
+        }
+    },
+    "683510aa16c0a8efa99385d1": {
+        "en": {
+            "Name": "SV-98 wooden stock (Mandrake)",
+            "ShortName": "SV98 wood"
+        }
+    },
+    "683510bfbc971d605251b860": {
+        "en": {
+            "Name": "SV-98 wooden stock (Tiger Stripe)",
+            "ShortName": "SV98 wood"
+        }
+    },
+    "68336505ff3b852822eb0d1f": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6837c322fc2a43f4deea2cf4": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "68338b87fc8103da63185201": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock (Funny)",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6833bdf80131ff59f7a66603": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6833df274c23dc6c04c9b871": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock (Black)",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6833e472ced13fc24fb637c7": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock (Worn Olive)",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6833ef7b6a70be570968799f": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6833ef99823dfcc6cfaf86cd": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6833efad6df4433edf26c14c": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "6833efc07461f78c2a3c8015": {
+        "en": {
+            "Name": "M700 Hogue Overmolded Ghillie stock",
+            "ShortName": "Overmolded Ghillie"
+        }
+    },
+    "683c5df82412c471872f202f": {
+        "en": {
+            "Name": "SA58/FAL humpback wooden stock",
+            "ShortName": "SA58 wood"
+        }
+    },
+    "683f0510d6e616e483b9bbcb": {
+        "en": {
+            "Name": "DPMS CAR-15 Fiberlite Stock",
+            "ShortName": "CAR-15"
+        }
+    },
+    "683f054fe68ee1c225002090": {
+        "en": {
+            "Name": "AR-15 Armalite M16A1-style stock",
+            "ShortName": "M16A1"
+        }
+    },
+    "683f056981079dd84d52681d": {
+        "en": {
+            "Name": "NCR Ranger M16A1 Wooden stock",
+            "ShortName": "NCR Stock"
+        }
+    },
+    "683f0586083dc0841a3ae0fc": {
+        "en": {
+            "Name": "Battle Arms AR-15 VERT GEN2 PDW Stock",
+            "ShortName": "VERT EXTENDED"
+        }
+    },
+    "683f05abfde64f8d79afaa5e": {
+        "en": {
+            "Name": "AR-15 ODIN Works Padded Pistol Buffer Tube",
+            "ShortName": "ODIN"
+        }
+    },
+    "683f059f370de8b72f4eb839": {
+        "en": {
+            "Name": "Battle Arms AR-15 VERT GEN2 PDW Stock",
+            "ShortName": "VERT Collapsed"
+        }
+    },
+    "684c5f7f391c29580d74da8e": {
+        "en": {
+            "Name": "HK MP5 A2 wooden stock",
+            "ShortName": "MP5A2"
+        }
+    },
+    "6853451a659f4ba885e37fd3": {
+        "en": {
+            "Name": "AR-15 Diemaco C7A2 Fiberlite stock",
+            "ShortName": "C7A2"
+        }
+    },
+    "6863fe73d2c7849544e2993e": {
+        "en": {
+            "Name": "ZenitCo 1913 Adapter",
+            "ShortName": "1913"
+        }
+    },
+    "686ac1b520c6bd3cace3aa22": {
+        "en": {
+            "Name": "Choate MP5K/SP89/SP5K 9mm Folding Stock",
+            "ShortName": "Choate"
+        }
+    },
+    "683246a74073e586d112af9f": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Norma Match",
+            "ShortName": "Match"
+        }
+    },
+    "68325a63730b17c69ee176eb": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor HPBT Match",
+            "ShortName": "HPBT"
+        }
+    },
+    "6833baea86387d71b68abd6f": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Hornady ELD-X",
+            "ShortName": "ELD-X"
+        }
+    },
+    "6833bae4baa31474639bea7d": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Norma AP",
+            "ShortName": "AP"
+        }
+    },
+    "6833ba38a1c9ff155c04e56f": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor Terminal Ascent",
+            "ShortName": "FPTA"
+        }
+    },
+    "6833b8cb54aa764b2deefdfe": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor SIG Venari SP",
+            "ShortName": "SP"
+        }
+    },
+    "6834e6f28f5570aec23ca0c2": {
+        "en": {
+            "Name": "6.5x48mm Creedmoor C-HP",
+            "ShortName": "C-HP"
+        }
+    },
+    "683d1b69d6f6778f205e9dfd": {
+        "en": {
+            "Name": "6.8x51mm SIG Venari SP",
+            "ShortName": "SP"
+        }
+    },
+    "683a1844ac7f29765fc135b2": {
+        "en": {
+            "Name": "6.8x51mm SIG HiPower",
+            "ShortName": "HP"
+        }
+    },
+    "683d1ba7b5a2063de35a8c39": {
+        "en": {
+            "Name": "8.6 Blackout AP-Subsonic",
+            "ShortName": "AP-S"
+        }
+    },
+    "683d1e142cee4317689e75e4": {
+        "en": {
+            "Name": "8.6 Blackout Copper Solid",
+            "ShortName": "Copper"
+        }
+    },
+    "683d1ec4f7164f4f77ea7a85": {
+        "en": {
+            "Name": "8.6 Blackout REX Subsonic",
+            "ShortName": "REX"
+        }
+    },
+    "675dddadaf53a6985b7588f8": {
+        "en": {
+            "Name": "Balaclava (Ryzhy)",
+            "ShortName": "Ryzhy"
+        }
+    },
+    "66dbbabad7626c331a6b8442": {
+        "en": {
+            "Name": "Cigarette",
+            "ShortName": "Cig"
+        }
+    },
+    "66dd8596e6210e75bd5a68e1": {
+        "en": {
+            "Name": "Echoes Defense Black Half Mask",
+            "ShortName": "Half-mask"
+        }
+    },
+    "66d0f031c6c6b22e2056a1f5": {
+        "en": {
+            "Name": "Joey Jordison",
+            "ShortName": "Joey"
+        }
+    },
+    "676ebb82ae24a648a5d9f51e": {
+        "en": {
+            "Name": "Balaclava (Keegan)",
+            "ShortName": "Balaclava"
+        }
+    },
+    "6750f4f1fe66eee6650d3bd9": {
+        "en": {
+            "Name": "M50 Tinted Gas Mask",
+            "ShortName": "Tint M50"
+        }
+    },
+    "66de5ba596026892a2a1bec5": {
+        "en": {
+            "Name": "Pit Viper sunglasses",
+            "ShortName": "Pit Viper"
+        }
+    },
+    "66dd6db3e4676fb868019f9b": {
+        "en": {
+            "Name": "Echoes Defense Blackout™",
+            "ShortName": "Echoes Defense Blackout™"
+        }
+    },
+    "66de5333818d5766ce931e53": {
+        "en": {
+            "Name": "Boss Cap (Black)",
+            "ShortName": "Boss"
+        }
+    },
+    "68713ff88f741d56f16d0ac9": {
+        "en": {
+            "Name": "A Familiar Blue Beanie with Goggles",
+            "ShortName": "BEAST"
+        }
+    },
+    "685166f1cf8877110a7d476f": {
+        "en": {
+            "Name": "Beret (NCR Ranger)",
+            "ShortName": "Beret"
+        }
+    },
+    "686fa9e3e23b119ec0490d2e": {
+        "en": {
+            "Name": "A Familiar Bank Robber's Hockey Mask",
+            "ShortName": "HEAT"
+        }
+    },
+    "685c6c973ffb1957dcca18c6": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Woodland)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "685ceba0cc68cf52d41769e5": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Miami Tiger Stripe)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "685ceb6ad8a725381f54a33e": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Digital Arctic)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "685ceb4be900dd89eededf81": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Partisan)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "685c6cfe99d360ee6cbc7985": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Red)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "685c6ce8c15fc38b32190fa9": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Multicam Woodland)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "685c6cbbaa9e444cb67c6e7b": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Digital Multicam)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "685c6ca10bfdee0262637b4f": {
+        "en": {
+            "Name": "Echoes Tactical EXPS3 holographic sight cover (Hexagon)",
+            "ShortName": "EXPS3 Cover"
+        }
+    },
+    "68340d1d407f065e9c181c4b": {
+        "en": {
+            "Name": "AR-15 DURAMAG SS 7.62x39 28-round magazine",
+            "ShortName": "SS7.62"
+        }
+    },
+    "683410a82481761ba836b719": {
+        "en": {
+            "Name": "AR-15 DURAMAG SS 7.62x39 28-round magazine (FDE)",
+            "ShortName": "SS7.62"
+        }
+    },
+    "683427e8e0e4e228b35746b2": {
+        "en": {
+            "Name": "AR-15 DURAMAG SS 7.62x39 28-round magazine (Banana)",
+            "ShortName": "SS7.62"
+        }
+    },
+    "6838002ebc797af7bb290126": {
+        "en": {
+            "Name": "AR-15 7.62x39 Magpul PMAG D-60 STANAG 50-round magazine",
+            "ShortName": "PMAG D60"
+        }
+    },
+    "683997f125039545c12878e9": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine (Black)",
+            "ShortName": "L7AWM"
+        }
+    },
+    "683998905b1e1abba12906fa": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine (OD)",
+            "ShortName": "L7AWM"
+        }
+    },
+    "683998a2a3d4391d033bfd14": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 25-round magazine",
+            "ShortName": "L7AWM"
+        }
+    },
+    "683998dc60787632112a564b": {
+        "en": {
+            "Name": "AR-10 7.62x51 Lancer L7AWM 25-round magazine",
+            "ShortName": "L7AWM"
+        }
+    },
+    "683a12c7d537b28200e5ee29": {
+        "en": {
+            "Name": "AK-74 5.45x39 PUFGUN four-row 60-round magazine",
+            "ShortName": "FOUR-ROW"
+        }
+    },
+    "683a1371f996ec99106d798f": {
+        "en": {
+            "Name": "AK-74 5.45x39 PUFGUN four-row 60-round magazine (FDE)",
+            "ShortName": "FOUR-ROW"
+        }
+    },
+    "683a13827885b3617ee7c4ac": {
+        "en": {
+            "Name": "AK-74 5.45x39 PUFGUN four-row 60-round magazine (OD)",
+            "ShortName": "FOUR-ROW"
+        }
+    },
+    "683b8054f517f6d38258347a": {
+        "en": {
+            "Name": "5.56x45 IMI Defense G1 20-round magazine",
+            "ShortName": "IMI-ZMG"
+        }
+    },
+    "6844876f9fa2c3020f7e605b": {
+        "en": {
+            "Name": "AR-15 USGI 5.56x45 20-round magazine",
+            "ShortName": "USGI"
+        }
+    },
+    "68456f9b6e8e7398568cb130": {
+        "en": {
+            "Name": "AR-15 USGI Vintage 5.56x45 20-round magazine",
+            "ShortName": "USGI Vintage"
+        }
+    },
+    "684ad249bce3002b5557179a": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Hello Kitty)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad2f0afaa1e09e33f6e4e": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Blue Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad30d119a380ad788ca99": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Green Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad31e98c2a3f3c98bb972": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Olive Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad327d4248b17d786bf20": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Orange Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad33fde45241954083376": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Pink Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad34c0dd71df0d118c615": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Purple Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad359d653b358b52d620d": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Red Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad3635211455de05bd9ca": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (FDE Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad379aa4d15493bb5f5ab": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (White Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "684ad38b12ad0f86b3c3c1cd": {
+        "en": {
+            "Name": "5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (Yellow Baseplate)",
+            "ShortName": "GEN M3"
+        }
+    },
+    "686766e88f9b6a0f8138905c": {
+        "en": {
+            "Name": "AK-74 5.45x39 Echoes Defense \"Crew\" 30-Round Cutout Magazine",
+            "ShortName": "Crew"
+        }
+    },
+    "68448a8f65afa711f83c6c29": {
+        "en": {
+            "Name": "AR-15 Indignant Arms Streamline pistol grip (Walnut)",
+            "ShortName": "Streamline"
+        }
+    },
+    "68448ab5f77d8f147af0135c": {
+        "en": {
+            "Name": "AR-15 Hogue MSR-15 polymer pistol grip",
+            "ShortName": "MSR-15"
+        }
+    },
+    "68448ab26eedaa77e5bc9b7d": {
+        "en": {
+            "Name": "AR-15 Promag Industries Tactical pistol grip",
+            "ShortName": "PM155"
+        }
+    },
+    "68448ab00ad8edb85f513c71": {
+        "en": {
+            "Name": "AR-15 Magpul MOE-K Low Profile pistol grip",
+            "ShortName": "MOE-K AR15"
+        }
+    },
+    "68448aae27efb176e93b8d28": {
+        "en": {
+            "Name": "AR-15 ergonomic wooden pistol grip",
+            "ShortName": "Ergo Wood"
+        }
+    },
+    "68534694bd5b4bbd0ef88134": {
+        "en": {
+            "Name": "AR-15 Diemaco C7A2 pistol grip",
+            "ShortName": "C7A2"
+        }
+    },
+    "670861c9a1b0118c6439342f": {
+        "en": {
+            "Name": "Tron's Judgement",
+            "ShortName": "Tron"
+        }
+    },
+    "674a83abcb7ed7b7ca176fed": {
+        "en": {
+            "Name": "Large Ammo Box",
+            "ShortName": "Ammo"
+        }
+    },
+    "6735cd01d2385d93b55af11b": {
+        "en": {
+            "Name": "Echoes Defense Armor Plate Box",
+            "ShortName": "Plates"
+        }
+    },
+    "683b619a7d4aa2d4645e369e": {
+        "en": {
+            "Name": "Eukyre's Jazz Bass",
+            "ShortName": "Bass"
+        }
+    },
+    "684e2a6d3b15259de3a2aa0b": {
+        "en": {
+            "Name": "Gigi Murin Origami Figure",
+            "ShortName": "Gigi"
+        }
+    },
+    "685156cf1525c3f6a8929e61": {
+        "en": {
+            "Name": "A Soldier's Jammed Rifle",
+            "ShortName": "EpicJamTime"
+        }
+    }
+}
