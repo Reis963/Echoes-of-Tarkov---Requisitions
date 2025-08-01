@@ -1,9 +1,7 @@
 import os
 import json
-
-FOLDER_PATH = "./db/items"  # Updated input folder
-OUTPUT_FILE = ".sptids"     # Updated output filename
-
+FOLDER_PATH = "./db/items" 
+OUTPUT_FILE = ".sptids"     
 # Item class name to template ID map
 ITEM_BASE_CLASS_MAP = {
     "AMMO": "5485a8684bdc2da71d8b4567",
@@ -77,81 +75,56 @@ ITEM_BASE_CLASS_MAP = {
     "UBGL": "55818b014bdc2ddc698b456b",
     "VIS_OBSERV_DEVICE": "5448e5724bdc2ddf718b4568",
 }
-
 def detect_type(parent_id: str) -> str:
     for type_name, tpl_id in ITEM_BASE_CLASS_MAP.items():
         if tpl_id == parent_id:
             return type_name
-    # Return parent_id string itself if no match found
     return parent_id if parent_id else "Unknown"
-
 def extract_item_details(filepath):
     results = {}
     try:
         with open(filepath, "r", encoding="utf-8") as file:
             data = json.load(file)
-
             if not isinstance(data, dict):
                 print(f"Skipped (not object): {filepath}")
                 return results
-
             for item_id, item_data in data.items():
                 en = {}
-
                 locales = item_data.get("locales", {}).get("en", {})
                 en["Name"] = locales.get("name", "")
                 en["ShortName"] = locales.get("shortName", "")
-
                 parent_id = item_data.get("parentId", "")
                 if parent_id:
                     en["ParentID"] = parent_id
-
                 en["Type"] = detect_type(parent_id)
-
-                # Description (optional)
                 if "description" in locales:
                     en["Description"] = locales["description"]
-
-                # Weight (optional)
                 weight = item_data.get("overrideProperties", {}).get("Weight")
                 if weight is not None:
                     en["Weight"] = weight
-
-                # FleaBlacklisted (true if fleaPriceRoubles missing)
                 if "fleaPriceRoubles" not in item_data:
                     en["FleaBlacklisted"] = True
-
-                # PrefabPath (optional)
                 prefab = item_data.get("overrideProperties", {}).get("Prefab", {}).get("path")
                 if prefab:
                     en["PrefabPath"] = prefab
-
-                # TraderId (optional)
                 if "traderId" in item_data:
                     en["TraderId"] = item_data["traderId"]
-
                 results[item_id] = {"en": en}
-
     except (json.JSONDecodeError, UnicodeDecodeError) as e:
         print(f"Error reading {filepath}: {e}")
-
     return results
-
 def main():
     all_results = {}
-
     for root, _, files in os.walk(FOLDER_PATH):
         for filename in files:
             if filename.endswith(".json"):
                 filepath = os.path.join(root, filename)
                 print(f"Processing: {filepath}")
+                #This version of the script was given to pigeon
                 results = extract_item_details(filepath)
                 all_results.update(results)
-
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as out_file:
         json.dump(all_results, out_file, indent=4, ensure_ascii=False)
-
-    print(f"\n✅ Extracted {len(all_results)} items to {OUTPUT_FILE}")
-
+    print(f"\nExtracted {len(all_results)} items to {OUTPUT_FILE}")
 if __name__ == "__main__":
     main()

@@ -376,9 +376,9 @@
 				"path": "dustveil/supreme.bundle",
 				"rcid": ""
 			},
-			"loudness": -45,
-			"Recoil": -30,
-			"Ergonomics": 10,
+			"loudness": -100,
+			"Recoil": -300,
+			"Ergonomics": 100,
 			"DurabilityBurnModificator": 1
 		},
 		"locales": {
