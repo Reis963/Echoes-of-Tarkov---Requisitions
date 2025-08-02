@@ -385,7 +385,7 @@
 			"en": {
 				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Supreme)",
 				"shortName": "Strikewrap",
-				"description": "hehe balanced"
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -397,8 +397,8 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"addtoragfair": false,
-		"fleaPriceRoubles": 6942069420,
-		"handbookPriceRoubles": 6942069420,
+		"fleaPriceRoubles": 694206969,
+		"handbookPriceRoubles": 694206969,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
