@@ -723,7 +723,7 @@
 	"682b2a1b3326cca5a1ced18d": {
 		"itemTplToClone": "618405198004cc50514c3594",
 		"parentId": "55818a304bdc2db5418b457d",
-		"handbookParentId": "MOD_RECIEVER",
+		"handbookParentId": "5b5f764186f77447ec5d7714",
 		"overrideProperties": {
 			"ExaminedByDefault": false,
 			"Prefab": {
