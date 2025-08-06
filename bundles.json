@@ -1345,7 +1345,7 @@
             ]
         },
         {
-            "key": "clothing/Tops/top_hawaii.bundle",
+            "key": "clothing/Tops/top_usec_dpm.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1353,7 +1353,7 @@
             ]
         },
         {
-            "key": "clothing/Hands/hands_hawaii.bundle",
+            "key": "clothing/Hands/hands_usec_dpm.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",

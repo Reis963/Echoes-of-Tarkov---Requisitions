@@ -145,7 +145,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 9x19 pistol",
+                "name": "SIG P320 9x19 pistol",
                 "shortName": "P320",
                 "description": "The Sig Sauer P320 is a modular, striker-fired semi-automatic pistol known for its versatility and accuracy. It's modular design and durable construction lead to its adoption by the U.S. military and various law enforcement and military agencies globally. Manufactured by SIG Sauer."
             }
@@ -210,7 +210,7 @@
                     },
                     {
                         "_id": "687167fef76dae3a6404709c",
-                        "_tpl": "6851ba63dde19f7ba9376418",
+                        "_tpl": "6851ba48142a766a3ddbf068",
                         "slotId": "mod_reciever",
                         "parentId": "687167fef76dae3a6404709a"
                     },
@@ -228,7 +228,7 @@
                     },
                     {
                         "_id": "687167fef76dae3a6404709f",
-                        "_tpl": "6851bd3f607f3681aabf337d",
+                        "_tpl": "6851bd95705951bda42e2ea9",
                         "slotId": "mod_pistol_grip",
                         "parentId": "687167fef76dae3a6404709a"
                     },
