@@ -11,13 +11,33 @@ Kalashnikov AK-15 7.62x39 assault rifle
 Kalashnikov AK-19 5.56x45 assault rifle
 Kalashnikov AK-19-1 .300 Blackout assault rifle
 Riley Defense RAK74-P semi-automatic rifle
+Glock 41 45ACP pistol
+Glock 21 45ACP Barrel
+Glock 21 45ACP Threaded Barrel
+Glock 21 45ACP Compensated Barrel
 Remington Model 700 6.5x48 bolt-action sniper rifle
 M700 6.5x48mm 20 inch stainless steel threaded barrel
 M700 6.5x48mm 26 inch barrel
 M700 6.5x48mm 20 inch threaded barrel
 M700 6.5x48mm 26 inch stainless steel barrel
 SIG MCX Multicaliber assault rifle
-SIG Sauer P320 9x19 pistol
+Echoes Defense Mosin Nagant Club Stock
+Echoes Defense Precision Stock
+Echoes Defense "Steampunk" Stock
+Echoes Defense "Lone Rider" Stock
+Echoes Defense "EBlock" Stock
+Echoes Defense Mosin Nagant Stock
+Echoes Defense "Needle" Front End Assembly
+Echoes Defense "Peg Leg" Front End Asssembly
+Echoes Defense Mosin Nagant Front End Assembly
+Echoes Defense "Steampunk" Front End Assembly
+Echoes Defense Hull Front End Assembly
+Echoes Defense 10 round Mosin Nagant Magazine
+Echoes Defense 20 round Mosin Nagant Magazine
+Echoes Defense Crescent Rear Iron Sight
+Echoes Defense Blood Moon Rear Iron Sight
+Echoes Defense Castle Rear Iron Sight
+SIG P320 9x19 pistol
 SIG Sauer SIG Sauer P320 9x19 3.9 inch barrel
 SIG Sauer P320 9x19 4.7 inch barrel
 SIG Sauer P320 9x19 3.6 inch barrel
@@ -70,10 +90,11 @@ HK UMP 9 9x19mm 42-round magazine
 HK UMP 9x19mm 8 inch threaded barrel
 HK UMP 9x19mm 8 inch barrel
 Aklys Defense Velociraptor 7.62x39 assault rifle
-M16A2 5.56x45 upper reciever
 M16A1 5.56x45 upper reciever
+M16A2 5.56x45 upper reciever
 Echoes Defense M45A1 custom pistol slide with ACRO mount
 M1911A1 pistol slide with RMR mount
+FN Five-seveN MK2 pistol slide (FDE)
 VPO-208 .366 TKM 520mm smoothbore barrel
 AR-15 5.56x45 7.5 inch barrel
 MCX .300 BLK 16 inch barrel
@@ -82,6 +103,7 @@ MCX 5.56x45 9 inch barrel
 MCX 5.56x45 6.75 inch barrel
 AR-15 M16-series 5.56x45 20 inch rifle length barrel
 AR-15 M16-series 5.56x45 Dissapator barrel
+Mk-18 .338 LM "ThunderLite" barrel
 DS ARMS RPD metal handguard
 AR-15 JSOC Delta Force free-floating handguard
 AR-15 Colt M4 Carbine Length FSB lower handguard
@@ -110,6 +132,7 @@ AR-15 Diemaco C7A2 12 inch polymer handguard
 AR-15 Diemaco C8A2 Carbine Length handguard
 AR-15 Diemaco C8A2 Carbine Length lower handguard
 AR-15 BCM® KMR Alpha 13 inch KeyMod handguard
+Echoes Defense MK-18 "ThunderLite" Handguard
 AR-15 A1/A2 Carryhandle Piccatinny mount
 AR-15 A1/A2 Gooseneck Carryhandle mount
 CN Armament DUAL45 Backup mount
@@ -177,8 +200,8 @@ Super QXL Diving flashlight (Woodland Wrap)
 AR-15 Noveske KX3 5.56x45 flash hider (Desert)
 AR-15 Noveske KX3 5.56x45 flash hider (OD)
 AR-15 Diemaco C7-style front sight tri-rail with gas block
-Trijicon SRO reflex sight
-Trijicon SRO reflex sight (FDE)
+Trijicon SRO2 reflex sight
+Trijicon SRO2 reflex sight (FDE)
 SIG Sauer ROMEO3 reflex sight
 SIG Sauer ROMEO3 reflex sight (FDE)
 SIG Sauer ROMEO3 reflex sight (Graphite)

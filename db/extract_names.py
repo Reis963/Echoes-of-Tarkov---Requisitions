@@ -11,7 +11,18 @@ def extract_names_from_file(filepath):
         with open(filepath, 'r', encoding='utf-8') as file:
             data = json.load(file)
 
-            for item in data.values():
+            # Handle both dict and list root types
+            if isinstance(data, dict):
+                iterable = data.values()
+            elif isinstance(data, list):
+                iterable = data
+            else:
+                print(f"Unsupported JSON structure in {filepath}")
+                return names
+
+            for item in iterable:
+                if not isinstance(item, dict):
+                    continue
                 locales = item.get("locales", {})
                 en_locale = locales.get("en", {})
                 name = en_locale.get("name")
@@ -21,6 +32,7 @@ def extract_names_from_file(filepath):
     except (json.JSONDecodeError, UnicodeDecodeError) as e:
         print(f"Error reading {filepath}: {e}")
     return names
+
 
 def main():
     all_names = []
