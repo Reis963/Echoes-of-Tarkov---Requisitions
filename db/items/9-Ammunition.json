@@ -590,9 +590,9 @@
 				"path": "Ammo/patron_86x43_ap.bundle",
 				"rcid": ""
 			},
-			"InitialSpeed": 320,
-			"ArmorDamage": 79,
-			"PenetrationPower": 68,
+			"InitialSpeed": 315,
+			"ArmorDamage": 35,
+			"PenetrationPower": 47,
 			"Damage": 77,
 			"StackMaxSize": 60,
 			"ExaminedByDefault": true,
@@ -604,8 +604,8 @@
 		},
 		"locales": {
 			"en": {
-				"name": "8.6 Blackout AP-Subsonic",
-				"shortName": "AP-S",
+				"name": "8.6 Blackout AP Subsonic",
+				"shortName": "AP Sub",
 				"description": "A specialized subsonic armor-piercing cartridge, the 8.6x43 Blackout AP is engineered for suppressed rifles, combining stealth with punch. Featuring a hardened penetrator core, it maintains effectiveness against light armor and barriers at subsonic velocities (~1,000 fps). Ideal for special operations requiring quiet, hard-hitting firepower."
 			}
 		},
@@ -617,19 +617,19 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 751,
-		"handbookPriceRoubles": 529,
+		"fleaPriceRoubles": 2350,
+		"handbookPriceRoubles": 257,
 		"addtoTraders": true,
 		"traderId": "MECHANIC",
 		"traderItems": [
 			{
 				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"stackObjectsCount": 40
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 39,
+				"count": 19,
 				"_tpl": "DOLLARS"
 			}
 		],
@@ -656,10 +656,10 @@
 				"path": "Ammo/patron_86x43_copper.bundle",
 				"rcid": ""
 			},
-			"InitialSpeed": 321,
-			"ArmorDamage": 64,
-			"PenetrationPower": 51,
-			"Damage": 82,
+			"InitialSpeed": 305,
+			"ArmorDamage": 36,
+			"PenetrationPower": 24,
+			"Damage": 59,
 			"StackMaxSize": 60,
 			"ExaminedByDefault": true,
 			"Caliber": "Caliber86x43",
@@ -683,8 +683,8 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 5893,
-		"handbookPriceRoubles": 3450,
+		"fleaPriceRoubles": 953,
+		"handbookPriceRoubles": 155,
 		"addtoTraders": true,
 		"traderId": "MECHANIC",
 		"traderItems": [
@@ -695,7 +695,7 @@
 		],
 		"barterScheme": [
 			{
-				"count": 24,
+				"count": 5,
 				"_tpl": "DOLLARS"
 			}
 		],
@@ -723,8 +723,8 @@
 				"rcid": ""
 			},
 			"InitialSpeed": 314,
-			"ArmorDamage": 58,
-			"PenetrationPower": 45,
+			"ArmorDamage": 25,
+			"PenetrationPower": 25,
 			"Damage": 103,
 			"StackMaxSize": 60,
 			"ExaminedByDefault": true,
@@ -749,8 +749,8 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 8537,
-		"handbookPriceRoubles": 5140,
+		"fleaPriceRoubles": 1759,
+		"handbookPriceRoubles": 666,
 		"addtoTraders": true,
 		"traderId": "MECHANIC",
 		"traderItems": [
@@ -761,7 +761,7 @@
 		],
 		"barterScheme": [
 			{
-				"count": 39,
+				"count": 11,
 				"_tpl": "DOLLARS"
 			}
 		],
