@@ -1052,7 +1052,7 @@
 			"en": {
 				"name": "Remington R5 Monolithic Upper (Black)",
 				"shortName": "Monolith",
-				"description": "A Monolithic upper receiver, it does not make the R5 unique as it goes onto any AR-15 pattern lowers. Black edition"
+				"description": "A Monolithic upper receiver, it does not make the R5 unique as it goes onto any AR-15 pattern lowers. Black Version"
 			}
 		},
 		"clearClonedProps": false,
@@ -1425,9 +1425,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Remington R5 Monolithic Upper (Dark Earth)",
+				"name": "Remington R5 Monolithic Upper (Dark Earth Brown)",
 				"shortName": "Monolith",
-				"description": "A Monolithic upper receiver, it does not make the R5 unique as it goes onto any AR-15 pattern lowers. Dark Earth Edition"
+				"description": "A Monolithic upper receiver, it does not make the R5 unique as it goes onto any AR-15 pattern lowers. Dark Earth Brown Version"
 			}
 		},
 		"clearClonedProps": false,
