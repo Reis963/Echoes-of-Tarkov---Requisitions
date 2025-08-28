@@ -5,14 +5,10 @@
     "license": "MIT",
     "main": "src/mod.js",
     "sptVersion": "~3.11",
-	"loadBefore": [
-	"Echoes-of-Tarkov---Father-Gabriel",
-        "Echoes-of-Tarkov---Viper",
-        "Echoes-of-Tarkov---Doc",
-        "Echoes-of-Tarkov---Junker",
-        "Virtual's Custom Quest Loader"
+	"loadBefore": [],
+	"loadAfter": [
+        "Echoes-of-Tarkov---Junker"
     ],
-	"loadAfter": [],
     "isBundleMod": true,
 	"incompatibilities": [
         "Eukyre-BaseplateMags"
