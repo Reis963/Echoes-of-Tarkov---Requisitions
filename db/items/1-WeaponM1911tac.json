@@ -1,0 +1,36 @@
+{    "68b3a96a42fc2d82560dfd34": {
+        "itemTplToClone": "5f3e772a670e2a7b01739a52",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": ".bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "",
+                "shortName": "",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_trigger"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1900,
+        "handbookPriceRoubles": 1100,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    }
+}
