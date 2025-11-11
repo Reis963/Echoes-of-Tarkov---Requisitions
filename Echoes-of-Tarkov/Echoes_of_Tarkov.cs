@@ -1,9 +1,10 @@
-﻿using System.Reflection;
-using SPTarkov.DI.Annotations;
+﻿using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Spt.Mod;
 using SPTarkov.Server.Core.Models.Utils;
+using System.Reflection;
 using WTTServerCommonLib;
+using static System.Net.WebRequestMethods;
 using Range = SemanticVersioning.Range;
 
 namespace Echoes_of_Tarkov
@@ -21,7 +22,7 @@ namespace Echoes_of_Tarkov
         {
             { "com.wtt.commonlib", new Range("~2.0.0") }
         };
-        public override string? Url { get; init; }
+        public override string? Url { get; init; } = "https://github.com/Reis963/Echoes-of-Tarkov---Requisitions";
         public override List<string>? Contributors { get; init; } = new()
         {
             "Pigeon",
