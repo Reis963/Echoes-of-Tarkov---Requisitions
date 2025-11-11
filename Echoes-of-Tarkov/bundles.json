@@ -809,14 +809,6 @@
             ]
         },
         {
-            "key": "Attachments/Mounts/mount_canted_aim.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "Attachments/Mounts/mount_cn_dual45_blk.bundle",
             "dependencyKeys": [
                 "shaders",
