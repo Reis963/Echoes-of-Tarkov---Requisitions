@@ -1,0 +1,682 @@
+{
+  "685c6c973ffb1957dcca18c6": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_woodland.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Woodland)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "c77030836856bfce4104c091": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "685ceba0cc68cf52d41769e5": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_tiger.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Miami Tiger Stripe)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "11789c4bf9c6732ecf679df4": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "685ceb6ad8a725381f54a33e": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_artic.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Digital Arctic)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "0e88d7162b4a5305f9219db2": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "685ceb4be900dd89eededf81": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_partisan.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Partisan)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "91aa1c1265eff92d21a49447": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "685c6cfe99d360ee6cbc7985": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_red.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Red)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "5971d3e726860e8dfc7d3b28": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "685c6ce8c15fc38b32190fa9": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_woodlandmc.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Multicam Woodland)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "e4ad5b602ae42f4914d49762": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "685c6cbbaa9e444cb67c6e7b": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_dgmc.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Digital Multicam)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "ab99e23a77cfc8c8691080eb": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "685c6ca10bfdee0262637b4f": {
+    "itemTplToClone": "5cf639aad7f00c065703d455",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f74cc86f77447ec5d770a",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Attachments/eotech/eotech_skin_hex.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.007
+    },
+    "locales": {
+      "en": {
+        "name": "Echoes Tactical EXPS3 holographic sight cover (Hexagon)",
+        "shortName": "EXPS3 Cover",
+        "description": "The Echoes Tactical EXPS3 Cover are a new innovation in the customization world. giving users a custom paintjob on their EXPS3 without risking damaging the optic via rattle-canning"
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 12000,
+    "handbookPriceRoubles": 12000,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtostaticlootcontainer": true,
+    "StaticLootContainers": [
+      {
+        "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "Probability": 3
+      },
+      {
+        "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "Probability": 3
+      }
+    ],
+    "masteries": false,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ],
+    "addweaponpreset": false,
+    "weaponpresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "256710fbe7ff7b4075138e06": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
