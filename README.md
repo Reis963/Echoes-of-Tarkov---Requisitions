@@ -1,0 +1,2 @@
+# Echoes of Tarkov – Requisitions
+is the ITEMS ONLY preview version of the larger Echoes of Tarkov mod. This standalone pack introduces a wide array of new weapons, suppressors, gear, cosmetics, and utility items to enrich your Escape from Tarkov experience within SPT. It includes content like the UMP 9, Pit Viper pistol, Sig P320, armor and ammo boxes, custom handguards, suppressors, and unique apparel—offering a taste of what’s to come in the full story-driven release.
