@@ -58,9 +58,9 @@
     "CanSellOnRagfair": false,
     "fleaPriceRoubles": 105821,
     "handbookPriceRoubles": 45602,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
-    "addtostaticlootcontainer": false,
+    "addtostaticlootcontainer": true,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -253,9 +253,9 @@
     "CanSellOnRagfair": false,
     "fleaPriceRoubles": 105821,
     "handbookPriceRoubles": 45602,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
-    "addtostaticlootcontainer": false,
+    "addtostaticlootcontainer": true,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",

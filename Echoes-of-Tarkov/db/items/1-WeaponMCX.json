@@ -64,9 +64,9 @@
     "CanSellOnRagfair": true,
     "fleaPriceRoubles": 95000,
     "handbookPriceRoubles": 31000,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
-    "addtostaticlootcontainer": false,
+    "addtostaticlootcontainer": true,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",

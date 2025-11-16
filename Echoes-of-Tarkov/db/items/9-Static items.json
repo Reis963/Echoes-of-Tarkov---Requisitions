@@ -259,7 +259,7 @@
     "fleaPriceRoubles": 48500,
     "handbookPriceRoubles": 50000,
     "CanSellOnRagFair": true,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
     "addtostaticlootcontainer": true,
     "StaticLootContainers": [

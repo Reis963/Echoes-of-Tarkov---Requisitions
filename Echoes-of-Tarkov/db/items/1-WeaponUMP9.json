@@ -245,7 +245,7 @@
     "handbookPriceRoubles": 26500,
     "addtoTraders": false,
     "addtoBots": false,
-    "addtoStaticLootContainers": false,
+    "addtoStaticLootContainers": true,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",

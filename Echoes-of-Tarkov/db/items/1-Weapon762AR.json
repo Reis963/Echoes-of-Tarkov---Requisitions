@@ -461,9 +461,9 @@
     "ModdableItemBlacklist": [],
     "fleaPriceRoubles": 36567,
     "handbookPriceRoubles": 36567,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
-    "addtostaticlootcontainer": false,
+    "addtostaticlootcontainer": true,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -575,9 +575,9 @@
     "ModdableItemBlacklist": [],
     "fleaPriceRoubles": 16200,
     "handbookPriceRoubles": 16200,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
-    "addtostaticlootcontainer": false,
+    "addtostaticlootcontainer": true,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -834,9 +834,9 @@
     "ModdableItemBlacklist": [],
     "fleaPriceRoubles": 16200,
     "handbookPriceRoubles": 16200,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
-    "addtostaticlootcontainer": false,
+    "addtostaticlootcontainer": true,
     "StaticLootContainers": [
       {
         "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",

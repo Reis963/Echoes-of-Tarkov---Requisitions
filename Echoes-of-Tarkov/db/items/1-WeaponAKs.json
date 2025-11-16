@@ -1449,7 +1449,7 @@
     "ModdableItemBlacklist": [],
     "fleaPriceRoubles": 85903,
     "handbookPriceRoubles": 69520,
-    "addtoTraders": false,
+    "addtoTraders": true,
     "addtoBots": false,
     "addtostaticlootcontainer": true,
     "StaticLootContainers": [
